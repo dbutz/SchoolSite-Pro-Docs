@@ -1,3 +1,5 @@
+# Installation
+
 This documentation is intended for the software developers of Davis Demographics. This is to help you associate SchoolSite functionalities with their associated code.
 
 The following checks need to be made and passed by the Data Validation tool in order to be recognized as a Students feature class. Their associated functions are written in each description also:
