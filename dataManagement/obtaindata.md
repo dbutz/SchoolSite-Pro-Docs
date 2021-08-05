@@ -25,9 +25,9 @@ Additionally, street databases can be purchased from many third party vendors su
 
  
 
-[TomTom](https://www.tomtom.com/en_us/) can license their street data in Esri format on a county basis. The data can be licensed for display, geocoding and/or routing.
+* [TomTom](https://www.tomtom.com/en_us/) can license their street data in Esri format on a county basis. The data can be licensed for display, geocoding and/or routing.
 
-HERE (formerly NAVTEQ) can license their street data in Esri format on a county basis. The data can be licensed for display, geocoding and/or routing.
+* [HERE](https://www.here.com/) (formerly NAVTEQ) can license their street data in Esri format on a county basis. The data can be licensed for display, geocoding and/or routing.
 
  
 
