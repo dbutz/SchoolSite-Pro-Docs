@@ -3,11 +3,11 @@ The diagram below is a possible suggestion for organizing all of your GIS data h
 
 **This organizational layout including Windows folders, and geodatabases accomplishes the following:**
 
-*Organizes data by school year to provide for archiving older data for easy access.
+* Organizes data by school year to provide for archiving older data for easy access.
 
-*Organizes data by functions including map data geodatabases in one location as well as map documents and annual SchoolSite projections (and possible redistricting plans) in other easily recognizable locations.
+* Organizes data by functions including map data geodatabases in one location as well as map documents and annual SchoolSite projections (and possible redistricting plans) in other easily recognizable locations.
 
-*Provides for easy copying of main data sets (streets, study areas, schools, etc.) into future years for ongoing updates and maintenance.
+* Provides for easy copying of main data sets (streets, study areas, schools, etc.) into future years for ongoing updates and maintenance.
 
  
 
