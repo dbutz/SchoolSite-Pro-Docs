@@ -10,13 +10,13 @@ If your city or county does not maintain Esri formatted street data, several fre
 
  
 
-Your local city
+1. Your local city
 
-Your local county
+1. Your local county
 
-Your state
+1. Your state
 
-U.S. Census Data
+1. U.S. Census Data
 
 Esri maps and data - Available at no cost with your ArcGIS license
 
