@@ -11,7 +11,7 @@ The diagram below is a possible suggestion for organizing all of your GIS data h
 
  
 
-# Brief Rationale
+## Brief Rationale
 First and foremost, all map data holdings should be stored within an Esri geodatabase format.  We do not suggest that your long-term data be in shapefile format due to editing and other limitations within the ArcGIS software.
 
  
@@ -28,7 +28,7 @@ Under each school year folder, we have created additional folders which organize
 
  
 
-# GDB Folder
+## GDB Folder
 Under the GDB folder are several Esri geodatabases (typically file geodatabases over other types of geodatabases for performance and data size considerations).  The Basemap.GDB geodatabase contains the Main feature dataset.  The Main feature dataset contains the feature classes that are typically updated on an ongoing basis by the school district including streets, study areas (and the inherent school attendance zones through attribute codes), school locations and development tracts.  A topology set of rules are setup for streets (ie. streets must not have dangles) and a separate set of topology rules are setup for study areas (ie. study area polygons must not have gaps or must not have overlaps. If desired from an editing "comfort" standpoint, the streets (and streets topology) can be copied from one geodatabase to another for editing purposes and then copied back after accuracy validation.  An Address Locator for student geocoding purposes against the reference data such as streets is maintained in the Basemap geodatabase.  It should be remembered to "rebuild" the address locator if any editing has been accomplished on the reference street data.
 
  
@@ -41,7 +41,7 @@ The Misc.GDB geodatabase contains feature classes that typically do not change (
 
  
 
-# Map_Docs Folder
+## Map_Docs Folder
 This folder contains all of the map documents (.mxd)  that you might create within ArcMap during the course of the year. For further organizational purposes, you might consider creating subfolders for each individual map document which might contain the .mxd as well as supporting files that are created during analysis or specific mapping purposes within that map document. This possible sub-folder structure allows you to quickly remove or delete selected map documents that are no longer needed (by deleting the subfolder) including all of the supporting files associated with the map document. This is a good way to keep your map documents and any associated files organized.
 
  
@@ -50,12 +50,12 @@ If you wish to keep any map documents that are critical for year-to-year mapping
 
  
 
-# Layers Folder
+## Layers Folder
 The same discussion for the Map_Docs folder holds true for the Layers folder. See above discussion.
 
  
 
-# SchoolSite Folder
+## SchoolSite Folder
 The SchoolSite folder can be organized in a variety of ways. One solution is to create a subfolder for redistricting plans and a second subfolder for projections. Each folder would contain a SchoolSite geodatabase with the appropriate items. By maintaining your projections and redistricting plans under the SchoolSite folder in a particular school year, the user can always go back to revisit  (ie. open within SchoolSite) the projections or boundary plan options considered in previous years.
 
 
