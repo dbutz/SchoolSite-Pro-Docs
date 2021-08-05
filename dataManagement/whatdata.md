@@ -1,7 +1,7 @@
 # What Kind of Data Do I Need?
 
 # Map Datasets for Use with SchoolSite
-In order to use the SchoolSite Extensions, you must have the following required map datasets:
+In order to use the SchoolSite Extensions, you must have the following **required** map datasets:
 
  
 
