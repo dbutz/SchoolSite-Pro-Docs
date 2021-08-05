@@ -26,7 +26,7 @@ Additionally, the following datasets are optional and not necessary to run the a
  
 
 # Data Formats
-Although the feature class is the recommended format for ArcGIS, any of the following Esri formats can be used to store your data for use with SchoolSite and to create Redistricting Plans or Projections:
+Although the [feature class](https://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/feature-class-basics.htm) is the recommended format for ArcGIS, any of the following Esri formats can be used to store your data for use with SchoolSite and to create Redistricting Plans or Projections:
 
  
 
