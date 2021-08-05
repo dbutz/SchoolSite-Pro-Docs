@@ -18,14 +18,14 @@ If your city or county does not maintain Esri formatted street data, several fre
 
 1. U.S. Census Data
 
-Esri maps and data - Available at no cost with your ArcGIS license
+1. Esri maps and data - Available at no cost with your ArcGIS license
 
 ## Commercial Data Sources
 Additionally, street databases can be purchased from many third party vendors such as:
 
  
 
-TomTom can license their street data in Esri format on a county basis. The data can be licensed for display, geocoding and/or routing.
+[TomTom](https://www.tomtom.com/en_us/) can license their street data in Esri format on a county basis. The data can be licensed for display, geocoding and/or routing.
 
 HERE (formerly NAVTEQ) can license their street data in Esri format on a county basis. The data can be licensed for display, geocoding and/or routing.
 
