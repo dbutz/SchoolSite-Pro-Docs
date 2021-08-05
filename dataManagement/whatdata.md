@@ -17,11 +17,11 @@ Additionally, the following datasets are optional and not necessary to run the a
 
  
 
-1. **Streets** - A line dataset
+4. **Streets** - A line dataset
 
-1. **Tract** - A point or area dataset of planned residential development within the district
+5. **Tract** - A point or area dataset of planned residential development within the district
 
-1. **Assessor** - A point feature of existing housing data within the district. This dataset is necessary only if you wish to run maturation projections or create student yield factors.
+6. **Assessor** - A point feature of existing housing data within the district. This dataset is necessary only if you wish to run maturation projections or create student yield factors.
 
  
 
