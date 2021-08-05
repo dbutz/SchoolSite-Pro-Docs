@@ -1,6 +1,6 @@
 # What Kind of Data Do I Need?
 
-# Map Datasets for Use with SchoolSite
+## Map Datasets for Use with SchoolSite
 In order to use the SchoolSite Extensions, you must have the following **required** map datasets:
 
  
@@ -25,7 +25,7 @@ Additionally, the following datasets are optional and not necessary to run the a
 
  
 
-# Data Formats
+## Data Formats
 Although the [feature class](https://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/feature-class-basics.htm) is the recommended format for ArcGIS, any of the following Esri formats can be used to store your data for use with SchoolSite and to create Redistricting Plans or Projections:
 
  
