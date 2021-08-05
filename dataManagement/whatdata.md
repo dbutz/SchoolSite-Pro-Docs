@@ -30,13 +30,13 @@ Although the feature class is the recommended format for ArcGIS, any of the foll
 
  
 
-ArcGIS File Geodatabase Feature Class
+* ArcGIS File Geodatabase Feature Class
 
-ArcGIS Personal Geodatabase Feature Class
+* ArcGIS Personal Geodatabase Feature Class
 
-ArcGIS SDE Geodatabase Feature Class
+* ArcGIS SDE Geodatabase Feature Class
 
-Esri Shapefile
+* Esri Shapefile
 
  
 
