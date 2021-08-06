@@ -33,3 +33,4 @@ Study areas should be small enough to allow flexibility in modifying boundaries.
  
 
 In the example below, the study areas are shown in blue outlines with unique numbers assigned to each:
+![Study Areas](studyareas.png)
