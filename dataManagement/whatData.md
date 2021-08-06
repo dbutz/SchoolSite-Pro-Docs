@@ -43,8 +43,8 @@ Although the [feature class](https://desktop.arcgis.com/en/arcmap/latest/manage-
 Each of the three dataset attributes must be precisely defined in order to run the application.  To learn about field/attribute definitions required for SchoolSite, refer to the topic "How to Create Your Own Data".
 
 See Also:
-What Are Study Areas?
+[What Are Study Areas?](studyareas.md)
 
-Where Can I Obtain Data?
+[Where Can I Obtain Data?](obtainData.md)
 
 How to Create Your Own Data
