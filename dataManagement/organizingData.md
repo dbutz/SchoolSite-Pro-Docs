@@ -1,6 +1,8 @@
 # Organizing Your Data
 The diagram below is a possible suggestion for organizing all of your GIS data holdings as well as your SchoolSite Redistricting Plans and Projections.
 
+![organizingdata](organizingdata.png)
+
 **This organizational layout including Windows folders, and geodatabases accomplishes the following:**
 
 * Organizes data by school year to provide for archiving older data for easy access.
