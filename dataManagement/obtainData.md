@@ -41,6 +41,8 @@ However, if the District would rather have Davis Demographics create the data, w
 
 Telephone: (951) 270-5211  Fax: (951) 270-5212
 
+![DD_Logo](dd_logo.png)
+
 URL: www.davisdemographics.com
 
 Email: info@davisdemographics.com
