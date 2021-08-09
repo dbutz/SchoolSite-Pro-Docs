@@ -136,7 +136,9 @@ During setup for resident projections, in addition to grades 0-12 RS students, y
 Since projections by school of enrollment are based upon the underlying resident projections, the choices you have made regarding including or excluding students for your resident projections carries over into the school of enrollment projections.  For example, excluding special education (SE) from your resident projections excludes them from school of enrollment projections.  There are a few exceptions in that out-of-district and unmatched students are included in the school of enrollment projections.  To learn more about how school of enrollment projections are calculated, see the following help topic.
  
  ## Davis Demographics' Student Type Classifications in order of priority:
- |<td colspan="5">Student Types used in Redistricting Plans(for students with grades -1 through 12)</td>| 
+ <table
+        <tr>
+ |<td colspan="5">Student Types used in Redistricting Plans(for students with grades -1 through 12)</td>| </tr>
  | Code | Student Type | Plans by Residence | Plans by Enrollment | Plans by Projected Students |
  | ---- | ------------ | ------------------ | ------------------- | --------------------------- | 
  | NP   | Non-public student | Excluded | Included | Excluded |
@@ -151,9 +153,9 @@ Since projections by school of enrollment are based upon the underlying resident
  | OD   | Out of district | Excluded | Included | Excluded |
  | UM   | Unmatched student | Excluded | Included | Excluded |
  | RS   | Resident K-12 student | Included | Included | Included |
- 
+ </table>
  *Inherited indicates that student type will be included if the residential projection included that optional type during setup. 
- 
+ <table>
  | Code | Student Type | Resident Projections | Staffing Projections | Mobility Calculation |
  | ---- | ------------ | ------------------ | ------------------- | --------------------------- | 
  | NP   | Non-public student | Excluded | Excluded | Excluded |
@@ -210,19 +212,4 @@ During the creation of a plan by current students and current enrollment you wil
 Students must be geocoded by residence in order to perform redistricting and to obtain realistic projections (using the SchoolSite Projection Extension). For more information on how to geocode, see the ArcGIS help file or the Getting to Know ArcGIS manual.
  
 
-<table>
-  <tr>
-    <th>column 1</th>
-    <th>column 2</th>
-    <th>column 3</th>
-  </tr>
-  <tr>
-    <td>row 1 - column 1</td>
-    <td colspan="2" align="center">row 1 - column 2 & 3</td>
-  </tr>
-  <tr>
-    <td>row 2 - column 1</td>
-    <td>row 2 - column 2</td>
-    <td>row 2 - column 3</td>
-  </tr>
-</table>
+
