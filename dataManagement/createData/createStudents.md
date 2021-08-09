@@ -168,7 +168,45 @@ Since projections by school of enrollment are based upon the underlying resident
  | OD   | Out of district | Excluded | Included | Excluded |
  | UM   | Unmatched student | Excluded | Included | Excluded |
  | RS   | Resident K-12 student | Included | Included | Included |
+ 
  *Inherited indicates that student type will be included if the residential projection included that optional type during setup.
  
+## Suggested Additional Fields:
+The District will have to decide what information would be most useful in your planning efforts. The more information on the file, the more alternatives you will have to query and graphically display your student data. You may want to include additional attributes such as:
+
+ 
+
+* Ethnicity
+
+* Language Proficiency
+
+* Track (if your district is on a year round schedule)
+
+* Homeroom
+
+* Parent or Guardian
+
+* Inter/Intra-district transfer
+
+* Unique student ID code
+
+* Address (actual residence, no P.O. Box addresses)
+
+* City
+
+* Zip
+
+## Excluding students from the redistricting process:
+During the creation of a plan by current students and current enrollment you will be asked to select a field from which you can choose one or more categories of students that can be excluded from the redistricting process. The identified students will remain at their current school of attendance regardless of any boundary changes. These students usually belong to a campus specific program such as special needs, magnet school, or academy etc.  
+
+## Points to Remember:
+* All fields you wish to have available for reporting in the Redistricting Extension, must be included in the student table before geocoding is started
+
+* Data from related tables must be physically joined to the geocoded student table prior to using the student data in the Redistricting Extension.
+
+* No null values or special characters can be in these fields before attempting to create a new redistricting plan.
+
+## For More Information:
+Students must be geocoded by residence in order to perform redistricting and to obtain realistic projections (using the SchoolSite Projection Extension). For more information on how to geocode, see the ArcGIS help file or the Getting to Know ArcGIS manual.
  
 
