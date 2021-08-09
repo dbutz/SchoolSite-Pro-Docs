@@ -142,3 +142,9 @@ Since projections by school of enrollment are based upon the underlying resident
  | Code | Student Type | Plans by Residence | Plans by Enrollment | Plans by Projected Students |
  |------|--------------|--------------------|---------------------|-----------------------------|
  
+ ##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
