@@ -140,11 +140,7 @@ Since projections by school of enrollment are based upon the underlying resident
  | Student Types used in Redistricitin Plans (for students with grades -1 through 12)           |
  |:--------------------------------------------------------------------------------------------:|
  | Code | Student Type | Plans by Residence | Plans by Enrollment | Plans by Projected Students |
- |------|--------------|--------------------|---------------------|-----------------------------|
+
  
- ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+ 
+
