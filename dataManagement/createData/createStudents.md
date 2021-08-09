@@ -144,6 +144,29 @@ Since projections by school of enrollment are based upon the underlying resident
  | AE   | Alternative education student | Excluded | Included | Excluded |
  | HH   | Home/hospital student | Excluded | Included | Excluded |
  | OT   | Other student | Optional | Included | * Inherited |
+ | CH   | Charter School student | Optional | Included | * Inherited |
+ | IS   | Independent study student | Optional | Included | * Inherited |
+ | PK/TK| Pre-K or Trainsitional- K student | Optional | Included | * Inherited |
+ | SE   | Special education student | Optional | Included | * Inherited | 
+ | OD   | Out of district | Excluded | Included | Excluded |
+ | UM   | Unmatched student | Excluded | Included | Excluded |
+ | RS   | Resident K-12 student | Included | Included | Included |
+ *Inherited indicates that student type will be included if the residential projection included that optional type during setup. 
+ 
+ | Code | Student Type | Resident Projections | Staffing Projections | Mobility Calculation |
+ | NP   | Non-public student | Excluded | Excluded | Excluded |
+ | AD   | Adult education | Excluded | Excluded | Excluded |
+ | AE   | Alternative education student | Excluded | Excluded | Excluded |
+ | HH   | Home/hospital student | Excluded | Excluded | Excluded |
+ | OT   | Other student | Optional | * Inherited  | * Inherited |
+ | CH   | Charter School student | Optional | * Inherited | * Inherited |
+ | IS   | Independent study student | Optional | * Inherited | * Inherited |
+ | PK/TK| Pre-K or Trainsitional- K student | Optional | Included | Included |
+ | SE   | Special education student | Optional | * Inherited | * Inherited | 
+ | OD   | Out of district | Excluded | Included | Excluded |
+ | UM   | Unmatched student | Excluded | Included | Excluded |
+ | RS   | Resident K-12 student | Included | Included | Included |
+ *Inherited indicates that student type will be included if the residential projection included that optional type during setup.
  
  
 
