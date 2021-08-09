@@ -137,7 +137,6 @@ Since projections by school of enrollment are based upon the underlying resident
  
  ## Davis Demographics' Student Type Classifications in order of priority:
  
- | Student Types used in Redistricitin Plans 
- (for students with grades -1 through 12) |
- |:--------------------------------------:|
+ | Student Types used in Redistricitin Plans (for students with grades -1 through 12) |
+ |:----------------------------------------------------------------------------------:|
  
