@@ -23,6 +23,7 @@ This type of housing information is available through most local city and county
 * MBL – Mobile Home Parks (In some districts, mobile home parks generate students at a substantially higher rate than typical detached homes)
 
 * AFD – Affordable Housing
+
 **Please Note:** When creating a projection, the Student Yield Factors (SYFs) are applied to each of the four types. If the housing types for the SYFs are defined differently than is used in the tract dataset, the projections will be incorrect.  For this reason, once the housing types have been defined in the tract dataset, the same definitions should be used to define the housing types in the assessor dataset.  
 
  
