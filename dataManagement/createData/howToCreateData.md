@@ -4,9 +4,9 @@ To use either of the SchoolSite Extensions, three major datasets are required:
 
 * [Study Areas](createStudyareas.md)
 
-* Students
+* [Students](createStudents.md)
 
-* Schools
+* [Schools](createSchools.md)
 
  
 
@@ -14,11 +14,11 @@ For SchoolSite Projections Extension, there are two optional datasets that you c
 
  
 
-* Streets
+* [Streets](createStreets.md)
 
-* Tracts
+* [Tracts](createTracts.md)
 
-* Assessor
+* [Assessor](createAssessor.md)
 
  
 
@@ -53,4 +53,11 @@ Any field in any dataset that is defined as a short integer cannot contain a num
  
 
 See Also:
+
+* [Creating Study Areas](createStudyareas.md)
+* [Creating Students](createStudents.md)
+* [Creating Schools](createSchools.md)
+* [Creating Tracts](createTracts.md)
+* [Creating Assessor Data](createAssessor.md)
+* [Creating Streets](createStreets.md)
 
