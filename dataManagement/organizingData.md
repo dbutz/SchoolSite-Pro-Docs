@@ -5,8 +5,6 @@ The diagram below is a possible suggestion for organizing all of your GIS data h
   <img src="organizingdata.png">
 </p>
 
-![organizingdata](organizingdata.png)
-
 **This organizational layout including Windows folders, and geodatabases accomplishes the following:**
 
 * Organizes data by school year to provide for archiving older data for easy access.
