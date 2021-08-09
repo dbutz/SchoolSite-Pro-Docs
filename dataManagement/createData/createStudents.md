@@ -137,7 +137,7 @@ Since projections by school of enrollment are based upon the underlying resident
  
  ## Davis Demographics' Student Type Classifications in order of priority: 
  
-         **Student Types used in Redistricting Plans \
+         **Student Types used in Redistricting Plans 
              for students with grades -1 through 12)**
  | Code | Student Type | Plans by Residence | Plans by Enrollment | Plans by Projected Students |
  | ---- | ------------ | ------------------ | ------------------- | --------------------------- | 
@@ -156,6 +156,8 @@ Since projections by school of enrollment are based upon the underlying resident
 
  *Inherited indicates that student type will be included if the residential projection included that optional type during setup. 
  
+ **Student Types used in Projections
+(for students with grades -1 through 12)**
  | Code | Student Type | Resident Projections | Staffing Projections | Mobility Calculation |
  | ---- | ------------ | ------------------ | ------------------- | --------------------------- | 
  | NP   | Non-public student | Excluded | Excluded | Excluded |
