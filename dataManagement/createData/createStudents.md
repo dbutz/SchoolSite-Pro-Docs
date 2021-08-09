@@ -33,51 +33,50 @@ It is also critical that STUTYPE classifications be consistent between different
 The two-letter STUTYPE codes used by SchoolSite are explained below and are listed in order of precedence for coding each student record:
 
  
+* <ins> Charter School student </ins> (CH)- Students residing within the District boundary attending a charter school.  These students usually do not take classroom space in one of the District’s regular public schools.  These types of students can be <ins>optionally included</ins> in resident projections and resident redistricting plans and are <ins>always included</ins> in reports for staffing projections and redistricting plans based upon enrollment.
 
-* <ins> Charter School student </ins> (CH)- Students residing within the District boundary attending a charter school.  These students usually do not take classroom space in one of the District’s regular public schools.  These types of students can be optionally included in resident projections and resident redistricting plans and are always included in reports for staffing projections and redistricting plans based upon enrollment.
+* <ins> Adult Education student </ins>  (AD)- Adult education students are usually not included in a student data file, however if they are they are coded with AD.  Typically these students do not require a seat in the public schools. They are <ins>automatically excluded</ins> from both enrollment projections and all types of redistricting plans.
 
-* <ins> Adult Education student </ins>  (AD)- Adult education students are usually not included in a student data file, however if they are they are coded with AD.  Typically these students do not require a seat in the public schools. They are automatically excluded from both enrollment projections and all types of redistricting plans.
+* <ins> Non-Public student </ins> (NP)- Students attending a program or school not typically provided by the school district.  These may be students in a county program or other situation where classroom space is not used. They are <ins>automatically excluded</ins> from both enrollment projections and all types of redistricting plans.
 
-* <ins> Non-Public student </ins> (NP)- Students attending a program or school not typically provided by the school district.  These may be students in a county program or other situation where classroom space is not used. They are automatically excluded from both enrollment projections and all types of redistricting plans.
+* <ins> Other student </ins> (OT)- This is a miscellaneous student type to be used in cases where no other student type is appropriate.  Identifying students as ‘other’ can be useful to identify special groups of students who you may wish to include or exclude from projections or redistricting plans.  These types of students can be <ins>optionally included</ins> in resident projections and resident redistricting plans and are always included in reports for staffing projections and redistricting plans based upon enrollment.
 
-* <ins> Other student </ins> (OT)- This is a miscellaneous student type to be used in cases where no other student type is appropriate.  Identifying students as ‘other’ can be useful to identify special groups of students who you may wish to include or exclude from projections or redistricting plans.  These types of students can be optionally included in resident projections and resident redistricting plans and are always included in reports for staffing projections and redistricting plans based upon enrollment.
+* <ins> Alternative Education student </ins> (AE)- This is a blanket term utilized for students not enrolled in a traditional form of education.  This may be online classes, vocational programs or programs for students with social or behavior problems.  They are usually identified separately from other students as they do not take traditional classroom space.  They are <ins>automatically excluded</ins> from both enrollment projections and all types of redistricting plans.
 
-* <ins> Alternative Education student </ins> (AE)- This is a blanket term utilized for students not enrolled in a traditional form of education.  This may be online classes, vocational programs or programs for students with social or behavior problems.  They are usually identified separately from other students as they do not take traditional classroom space.  They are automatically excluded from both enrollment projections and all types of redistricting plans.
+* <ins> Home/Hospital student </ins> (HH)- Home schooled or students located in hospitals don’t traditionally take classroom space. They are <ins>automatically excluded</ins> from both enrollment projections and all types of redistricting plans.
 
-* <ins> Home/Hospital student </ins> (HH)- Home schooled or students located in hospitals don’t traditionally take classroom space. They are automatically excluded from both enrollment projections and all types of redistricting plans.
+* <ins>Special Education student</ins> (SE)- Special education programs can take many forms, from remedial reading and part-day pull out programs to severely disabled students who require special classroom facilities.  For use in SchoolSite, the SE code is reserved for the later types of students; those who require special facilities and therefore are not involved in boundary changes and for which you may not wish to include in traditional enrollment forecasting methodologies.  Students in part-time resource specialist types of programs who are usually mainstreamed with other students in the schools are not considered SE.  Special education usually represents approximately 2-3% of the District’s student population.  These types of students can be <ins>optionally included</ins> in resident projections and resident redistricting plans and are <ins>always included</ins> in reports for staffing projections and redistricting plans based upon enrollment.
 
-* Special Education student (SE)- Special education programs can take many forms, from remedial reading and part-day pull out programs to severely disabled students who require special classroom facilities.  For use in SchoolSite, the SE code is reserved for the later types of students; those who require special facilities and therefore are not involved in boundary changes and for which you may not wish to include in traditional enrollment forecasting methodologies.  Students in part-time resource specialist types of programs who are usually mainstreamed with other students in the schools are not considered SE.  Special education usually represents approximately 2-3% of the District’s student population.  These types of students can be optionally included in resident projections and resident redistricting plans and are always included in reports for staffing projections and redistricting plans based upon enrollment.
-
-* Pre-Kindergarten student (PK) or Transitional Kindergarten (TK California only)- Students typically in a program prior to full kindergarten.  This may or may not be a program a District offers and may only be offered at a few sites.  The GRD field for either PK or TK must be a value of -1.  These types of students can be optionally included in resident projections and resident redistricting plans and are always included in reports for staffing projections and redistricting plans based upon enrollment.
+* <ins>Pre-Kindergarten student</ins> (PK) or <ins>Transitional Kindergarten</ins> (TK California only)- Students typically in a program prior to full kindergarten.  This may or may not be a program a District offers and may only be offered at a few sites.  The GRD field for either PK or TK must be a value of -1.  These types of students can be <ins>optionally included</ins> in resident projections and resident redistricting plans and are <ins>always included</ins> in reports for staffing projections and redistricting plans based upon enrollment.
 
 * Independent Study student (IS)-  Students guided by a teacher but usually does not take classes with other students every day.  These could also be online students.  These students may or may not require a seat in a public school.  These types of students can be optionally included in resident projections and resident redistricting plans and are always included in reports for staffing projections and redistricting plans based upon enrollment.
 
-* Resident K-12 student (RS)- Regular students in kindergarten through 12th grade residing within the District’s boundaries and is not classified as being in any of the programs above.  These students are the bulk of your student population and are always included in redistricting plans and projections.
+* <ins>Resident K-12 student</ins> (RS)- Regular students in kindergarten through 12th grade residing within the District’s boundaries and is not classified as being in any of the programs above.  These students are the bulk of your student population and are always included in redistricting plans and projections.
 
-* Out of District student (OD)- students that would be classified as RS but reside outside of the District boundary and attend a District school.  They should have an inter-district permit. These students will only be included in redistricting plans by enrollment or in staffing enrollment projections.  They are NOT in any resident projection or resident redistricting plan as they reside outside the District.
+* <ins>Out of District student</ins> (OD)- students that would be classified as RS but reside outside of the District boundary and attend a District school.  They should have an inter-district permit. These students will only be included in redistricting plans by enrollment or in staffing enrollment projections.  They are NOT in any resident projection or resident redistricting plan as they reside outside the District.
 
-* Unmatched student (UM)- Students that would be classified as RS but cannot be geocoded due to incomplete or inaccurate address information in the geocoding process.  The number of the these students should be a low as possible after the geocoding process.  These students will only be included in redistricting plans by enrollment or in staffing enrollment projections.
+* <ins>Unmatched student</ins> (UM)- Students that would be classified as RS but cannot be geocoded due to incomplete or inaccurate address information in the geocoding process.  The number of the these students should be a low as possible after the geocoding process.  These students will only be included in redistricting plans by enrollment or in staffing enrollment projections.
 
-How Classification Codes are used in SchoolSite Redistricting Plans:
+## How Classification Codes are used in SchoolSite Redistricting Plans:
 There are three types of redistricting plans that can be created in SchoolSite:
 
  
 
-Plan by Current Resident Students
-Plan by Projected Resident Students (i.e. forecasted students)
-Plan by Current Resident and Enrollment
+1. Plan by Current Resident Students
+1. Plan by Projected Resident Students (i.e. forecasted students)
+1. Plan by Current Resident and Enrollment
  
 
 There are slight variations in how classification codes are used in creating each type of plan.
 
  
 
-Current Resident Students Plan
+## Current Resident Students Plan
 During setup for Current Resident Students, non-K12 students as well as the following classes of students are automatically excluded from boundary planning as well as reporting in the plan statistics window:  AD, NP, AE, HH, OD, UM
 
  
 
-During setup for Current Resident Students, in addition to students coded as RS, you have the option of including the following classes of students:  CH, OT, SE, IS, and PK/TK
+During setup for Current Resident Students, in addition to students coded as RS, you have the option of <ins>including<ins> the following classes of students:  CH, OT, SE, IS, and PK/TK
 
  
 
@@ -85,29 +84,29 @@ Including any of these five classes of students will involve those students bein
 
  
 
-Projected Resident Students Plan
+## Projected Resident Students Plan
 The students moved as well as reported in the statistics window are those that were included or not included by choice in the development of the enrollment projections being referenced in the plan.  For example, if special education students were excluded from the projections, they will not be in the forecasted numbers used in the boundary plan.
 
  
 
-Current Enrollment Plan
+## Current Enrollment Plan
 During setup for plans based upon Current Enrollment, the software will determine which students are outside the District (OD) or non-geocoded (UM).  Those students will not be moved during the boundary planning process.  In the statistics window, OD and UM students will be listed by their school of enrollment under a separate OD_UM column.   Of the remining geocoded students residing in the District, those students outside of grades -1 through 12 are automatically excluded from the boundary planning process but are reported with their enrolled school under the Non_PK12 column in the statistics window.
 
  
 
-Once the out of District, unmatched and non-PK12 students have been identified, you have an option to choose a field in your student data to identify which of the remaining -1 through 12th grade students you may wish to exclude from boundary planning and reporting.  The default field is STUTYPE.  Using the STUTYPE field, you have the option of excluding any of the remaining classes of students, such as SE, OT, IS, CH, etc.  For those that you choose to exclude, they will not be moved during the boundary planning process, however, they will appear as part of the enrollment at their school under a separate column in the statistics window similar to Non_PK12 and OD_UM.
+Once the out of District, unmatched and non-PK12 students have been identified, you have an option to choose a field in your student data to identify which of the remaining -1 through 12th grade students you may wish to exclude from boundary planning and reporting.  The default field is STUTYPE.  Using the STUTYPE field, you have the <ins>option of excluding</ins> any of the remaining classes of students, such as SE, OT, IS, CH, etc.  For those that you choose to exclude, they will not be moved during the boundary planning process, however, they will appear as part of the enrollment at their school under a separate column in the statistics window similar to Non_PK12 and OD_UM.
 
  
 
-If you choose not to exclude them from boundary planning, they will be treated as a regular student and will be subject to moving during the boundary planning process and will be reported under the appropriate grade level in the statistics window.
+If you choose <ins>not to exclude</ins> them from boundary planning, they will be treated as a regular student and will be subject to moving during the boundary planning process and will be reported under the appropriate grade level in the statistics window.
 
  
 
-If you choose an optional field other than STUTYPE to identify classes of students, you can create any classification codes you wish to identify students to be excluded from the boundary planning process.  The out of District, unmatched and non-PK12 tests will still be performed, but you are provided unlimited flexibility as to how to code and select the remaining resident PK/TK through 12th grade students for boundary planning.  For example, you could code a group of students in a specific program such as dual language program offered only at specific schools to be excluded from the boundary planning process so they remain at the program school.  Or you may choose more specific codes for handling special education classes.
+<ins>If you choose an optional field other than STUTYPE to identify classes of students</ins>, you can create any classification codes you wish to identify students to be excluded from the boundary planning process.  The out of District, unmatched and non-PK12 tests will still be performed, but you are provided unlimited flexibility as to how to code and select the remaining resident PK/TK through 12th grade students for boundary planning.  For example, you could code a group of students in a specific program such as dual language program offered only at specific schools to be excluded from the boundary planning process so they remain at the program school.  Or you may choose more specific codes for handling special education classes.
 
  
 
-How Classification Codes are used in SchoolSite Enrollment Forecasting:
+## How Classification Codes are used in SchoolSite Enrollment Forecasting:
 There are essentially two types of projections that can be created in SchoolSite:  student residence and optionally school of enrollment.
 
  
@@ -120,7 +119,7 @@ An option is available to create school of enrollment projections (i.e. staffing
 
  
 
-Resident Projections
+## Resident Projections
 The use of the STUTYPE field and the classification of students for creating a resident projection operates similar to the setup of a redistricting plan using resident students.
 
  
@@ -133,5 +132,12 @@ During setup for resident projections, in addition to grades 0-12 RS students, y
 
  
 
-School of Enrollment (Staffing) Projections
+## School of Enrollment (Staffing) Projections
 Since projections by school of enrollment are based upon the underlying resident projections, the choices you have made regarding including or excluding students for your resident projections carries over into the school of enrollment projections.  For example, excluding special education (SE) from your resident projections excludes them from school of enrollment projections.  There are a few exceptions in that out-of-district and unmatched students are included in the school of enrollment projections.  To learn more about how school of enrollment projections are calculated, see the following help topic.
+ 
+ ## Davis Demographics' Student Type Classifications in order of priority:
+ 
+ | Student Types used in Redistricitin Plans 
+ (for students with grades -1 through 12) |
+ |:--------------------------------------:|
+ 
