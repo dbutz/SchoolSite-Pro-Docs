@@ -1,8 +1,8 @@
-# How to create your own data
+# How To Create Your Own Data
 
 To use either of the SchoolSite Extensions, three major datasets are required:
 
-* Study Areas
+* [Study Areas](createStudyareas.md)
 
 * Students
 
