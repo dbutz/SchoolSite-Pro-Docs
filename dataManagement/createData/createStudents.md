@@ -151,6 +151,7 @@ Since projections by school of enrollment are based upon the underlying resident
  | OD   | Out of district | Excluded | Included | Excluded |
  | UM   | Unmatched student | Excluded | Included | Excluded |
  | RS   | Resident K-12 student | Included | Included | Included |
+ 
  *Inherited indicates that student type will be included if the residential projection included that optional type during setup. 
  
  | Code | Student Type | Resident Projections | Staffing Projections | Mobility Calculation |
