@@ -211,5 +211,9 @@ During the creation of a plan by current students and current enrollment you wil
 ## For More Information:
 Students must be geocoded by residence in order to perform redistricting and to obtain realistic projections (using the SchoolSite Projection Extension). For more information on how to geocode, see the ArcGIS help file or the Getting to Know ArcGIS manual.
  
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
 
 
