@@ -155,6 +155,7 @@ Since projections by school of enrollment are based upon the underlying resident
  *Inherited indicates that student type will be included if the residential projection included that optional type during setup. 
  
  | Code | Student Type | Resident Projections | Staffing Projections | Mobility Calculation |
+ | ---- | ------------ | ------------------ | ------------------- | --------------------------- | 
  | NP   | Non-public student | Excluded | Excluded | Excluded |
  | AD   | Adult education | Excluded | Excluded | Excluded |
  | AE   | Alternative education student | Excluded | Excluded | Excluded |
