@@ -140,7 +140,10 @@ Since projections by school of enrollment are based upon the underlying resident
  | Code | Student Type | Plans by Residence | Plans by Enrollment | Plans by Projected Students |
  | ---- | ------------ | ------------------ | ------------------- | --------------------------- | 
  | NP   | Non-public student | Excluded | Included | Excluded |
-
+ | AD   | Adult education | Excluded | Included | Excluded |
+ | AE   | Alternative education student | Excluded | Included | Excluded |
+ | HH   | Home/hospital student | Excluded | Included | Excluded |
+ | OT   | Other student | Optional | Included | * Inherited |
  
  
 
