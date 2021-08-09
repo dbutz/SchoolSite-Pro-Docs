@@ -1,10 +1,10 @@
 # Creating Schools
 
-# Schools - a point feature class
-# Source:
+## Schools - a point feature class
+## Source:
 The District is the only source for this information.
 
-# Required Fields:
+## Required Fields:
 **Important: The school code numbers in the ELEM_, MID_, INT_, and HIGH_ fields below have to match the school codes entered into the corresponding fields in the study areas.**
 
  
