@@ -2,7 +2,7 @@
 The diagram below is a possible suggestion for organizing all of your GIS data holdings as well as your SchoolSite Redistricting Plans and Projections.
 
 <p align="center">
-  <img src="organizingData.png">
+  <img src="organizingData.PNG">
 </p>
 
 **This organizational layout including Windows folders, and geodatabases accomplishes the following:**
