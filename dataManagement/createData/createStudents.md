@@ -136,9 +136,10 @@ During setup for resident projections, in addition to grades 0-12 RS students, y
 Since projections by school of enrollment are based upon the underlying resident projections, the choices you have made regarding including or excluding students for your resident projections carries over into the school of enrollment projections.  For example, excluding special education (SE) from your resident projections excludes them from school of enrollment projections.  There are a few exceptions in that out-of-district and unmatched students are included in the school of enrollment projections.  To learn more about how school of enrollment projections are calculated, see the following help topic.
  
  ## Davis Demographics' Student Type Classifications in order of priority: 
+ 
 <table>
 <TR>
-      <TH COLSPAN="5"><H3>Student Types used in Redistricting Plans </br> (for students with grades -1 through 12)</H3>
+      <TH COLSPAN="5"><H3>Student Types used in Redistricting Plans (for students with grades -1 through 12)</H3>
       </TH>
    </TR>
   <tr>
@@ -240,7 +241,7 @@ Since projections by school of enrollment are based upon the underlying resident
  
  <table>
 <TR>
-      <TH COLSPAN="5"><H3>Student Types used in Projections </br>
+      <TH COLSPAN="5"><H3>Student Types used in Projections
 (for students with grades -1 through 12)</H3>
       </TH>
    </TR>
