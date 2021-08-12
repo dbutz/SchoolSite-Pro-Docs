@@ -9,8 +9,6 @@
 - [What are study areas?](studyAreas.md)
 - [Where can I obtain data?](obtainData.md)
 
-&nbsp;
-
 ## Creating your own data
 - [How to create your own data](createData/howToCreateData.md)
 - [Creating study areas](createData/createStudyareas.md)
