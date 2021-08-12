@@ -7,10 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Licensing](licensing.md)
 - [Data validation](dataValidation.md)
 &nbsp;
-## Boundary Planning
+### Boundary Planning
 - [Creating your first plan](createPlan.md)
 - [Assigning studyareas](assigningStudyareas.md)
 &nbsp;
-## Enrollment Forecasting
+### Enrollment Forecasting
 - [Creating your first forecast](createForecast.md)
 - [Entering factors](enterFactors.md)
