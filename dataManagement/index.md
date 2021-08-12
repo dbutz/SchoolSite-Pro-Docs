@@ -2,14 +2,14 @@
 
 &nbsp;
 
-## Frequently asked questions
+### Frequently asked questions
 - [Upgrading from SchoolSite Desktop to SchoolSite Pro](upgradingToPro.md)
 - [How should I organizing my data?](organizingData.md)
 - [What kind of data do I need?](whatData.md)
 - [What are study areas?](studyAreas.md)
 - [Where can I obtain data?](obtainData.md)
 
-## Creating your own data
+### Creating your own data
 - [How to create your own data](createData/howToCreateData.md)
 - [Creating study areas](createData/createStudyareas.md)
 - [Creating students](createData/createStudents.md)
