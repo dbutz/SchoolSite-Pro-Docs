@@ -31,7 +31,7 @@ A street centerline database can be obtained from different sources. Data from y
 
 1. [TOMTOM](https://www.tomtom.com/en_us/)
 
-1. Esri StreetMap Premium
+1. [Esri StreetMap Premium](https://www.esri.com/en-us/arcgis/products/arcgis-streetmap-premium/overview)
 
 1. Davis Demographics & Planning, Inc.
 
