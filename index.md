@@ -9,21 +9,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 \
 &nbsp;
-\
-&nbsp;
 
 ## Boundary Planning
-### - [Creating your first plan](createPlan.md)
-### - [Assigning studyareas](assigningStudyareas.md)
+- [Creating your first plan](createPlan.md)
+- [Assigning studyareas](assigningStudyareas.md)
 
-\
-&nbsp;
 \
 &nbsp;
 
 ## Enrollment Forecasting
-### - [Creating your first forecast](createForecast.md)
-### - [Entering factors](enterFactors.md)
+- [Creating your first forecast](createForecast.md)
+- [Entering factors](enterFactors.md)
 <!--
 ### Markdown
 
