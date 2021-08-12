@@ -238,22 +238,106 @@ Since projections by school of enrollment are based upon the underlying resident
 
  *Inherited indicates that student type will be included if the residential projection included that optional type during setup. 
  
- **Student Types used in Projections
-(for students with grades -1 through 12)**
- | Code | Student Type | Resident Projections | Staffing Projections | Mobility Calculation |
- | ---- | ------------ | ------------------ | ------------------- | --------------------------- | 
- | NP   | Non-public student | Excluded | Excluded | Excluded |
- | AD   | Adult education | Excluded | Excluded | Excluded |
- | AE   | Alternative education student | Excluded | Excluded | Excluded |
- | HH   | Home/hospital student | Excluded | Excluded | Excluded |
- | OT   | Other student | Optional | * Inherited  | * Inherited |
- | CH   | Charter School student | Optional | * Inherited | * Inherited |
- | IS   | Independent study student | Optional | * Inherited | * Inherited |
- | PK/TK| Pre-K or Trainsitional- K student | Optional | Included | Included |
- | SE   | Special education student | Optional | * Inherited | * Inherited | 
- | OD   | Out of district | Excluded | Included | Excluded |
- | UM   | Unmatched student | Excluded | Included | Excluded |
- | RS   | Resident K-12 student | Included | Included | Included |
+ <table>
+<TR>
+      <TH COLSPAN="5"><BR><H3>Student Types used in Projections </br>
+(for students with grades -1 through 12)</H3>
+      </TH>
+   </TR>
+  <tr>
+    <th>Code</th>
+    <th>Student Type</th>
+    <th>Resident Projections</th>
+    <th>Staffing Projections</th>
+    <th>Mobility Calculation</th>
+  </tr>
+  <tr>
+    <td>NP</td>
+    <td>Non-public student</td>
+    <td>Excluded</td>
+    <td>Excluded</td>
+    <td>Excluded</td>     
+  </tr>
+  <tr>
+    <td>AD</td>
+    <td>Adult education</td>
+    <td>Excluded</td>
+    <td>Excluded</td>
+    <td>Excluded</td> 
+  </tr>
+  <tr>
+    <td>AE</td>
+    <td>Alternative education student</td>
+    <td>Excluded</td>
+    <td>Excluded</td>
+    <td>Excluded</td> 
+  </tr>
+  <tr>
+    <td>HH</td>
+    <td>Home/hospital student</td>
+    <td>Excluded</td>
+    <td>Excluded</td>
+    <td>Excluded</td> 
+  </tr>
+  <tr>
+    <td>OT</td>
+    <td>Other student</td>
+    <td>Optional</td>
+    <td>*Inherited</td>
+    <td>*Inherited</td> 
+  </tr>
+  <tr>
+    <td>CH</td>
+    <td>Charter school student</td>
+    <td>Optional</td>
+    <td>*Inherited</td>
+    <td>*Inherited</td> 
+  </tr>
+  <tr>
+    <td>IS</td>
+    <td>Independent school student</td>
+    <td>Optional</td>
+    <td>*Inherited</td>
+    <td>*Inherited</td> 
+  </tr>
+  <tr>
+    <td>PK/TK</td>
+    <td>Pre-K or Transitional-K student</td>
+    <td>Optional</td>
+    <td>Included</td>
+    <td>Included</td> 
+  </tr>
+  <tr>
+    <td>SE</td>
+    <td>Special education student</td>
+    <td>Optional</td>
+    <td>*Inherited</td>
+    <td>*Inherited</td> 
+  </tr> 
+  <tr>
+    <td>OD</td>
+    <td>Out of district student</td>
+    <td>Excluded</td>
+    <td>Included</td>
+    <td>Excluded</td> 
+  </tr>
+  <tr>
+    <td>UM</td>
+    <td>Unmatched student</td>
+    <td>Excluded</td>
+    <td>Included</td>
+    <td>Excluded</td> 
+  </tr>
+  <tr>
+    <td>RS</td>
+    <td>Resident K-12 student</td>
+    <td>Included</td>
+    <td>Included</td>
+    <td>Included</td> 
+  </tr>
+
+
+</table>
  
  *Inherited indicates that student type will be included if the residential projection included that optional type during setup.
  
