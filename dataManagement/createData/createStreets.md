@@ -11,15 +11,15 @@ A street centerline database can be obtained from different sources. Data from y
 
  
 
-Your local city
+1. Your local city
 
-Your local county
+1. Your local county
 
-Your state
+1. Your state
 
-U.S. Census Data
+1. U.S. Census Data
 
-Esri maps and data - Available at no cost with your ArcGIS license
+1. Esri maps and data - Available at no cost with your ArcGIS license
 
  
 
@@ -27,13 +27,13 @@ Esri maps and data - Available at no cost with your ArcGIS license
 
  
 
-HERE (formerly known as NAVTEQ)
+1. [HERE](https://www.here.com/) (formerly known as NAVTEQ)
 
-TOMTOM
+1. [TOMTOM](https://www.tomtom.com/en_us/)
 
-Esri StreetMap Premium
+1. Esri StreetMap Premium
 
-Davis Demographics & Planning, Inc.
+1. Davis Demographics & Planning, Inc.
 
  
 
