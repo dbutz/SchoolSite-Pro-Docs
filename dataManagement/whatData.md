@@ -48,4 +48,4 @@ Each of the three dataset attributes must be precisely defined in order to run t
 
 [Where Can I Obtain Data?](obtainData.md)
 
-[How to Create Your Own Data](howToCreateData.md)
+[How to Create Your Own Data](createData/howToCreateData.md)
