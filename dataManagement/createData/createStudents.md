@@ -150,7 +150,7 @@ Since projections by school of enrollment are based upon the underlying resident
   </tr>
   <tr>
     <td>NP</td>
-    <td>Non-public st+udent</td>
+    <td>Non-public student</td>
     <td color="#0000ff">Excluded</td>
     <td>Included</td>
     <td>Excluded</td>     
