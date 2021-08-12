@@ -138,7 +138,7 @@ Since projections by school of enrollment are based upon the underlying resident
  ## Davis Demographics' Student Type Classifications in order of priority: 
 <table>
 <TR>
-      <TH COLSPAN="5"><BR><H3>Student Types used in Redistricting Plans / (for students with grades -1 through 12)</H3>
+      <TH COLSPAN="5"><BR><H3>Student Types used in Redistricting Plans <br> (for students with grades -1 through 12)</H3>
       </TH>
    </TR>
   <tr>
@@ -295,16 +295,5 @@ During the creation of a plan by current students and current enrollment you wil
 ## For More Information:
 Students must be geocoded by residence in order to perform redistricting and to obtain realistic projections (using the SchoolSite Projection Extension). For more information on how to geocode, see the ArcGIS help file or the Getting to Know ArcGIS manual.
  
- <table style="background-color:#FFFFE0;color:black;">
-<tr style="background-color:#BDB76B;color:white;">
-<th>Table Header</th><th>Table Header</th>
-</tr>
-<tr>
-<td>Table cell 1</td><td>Table cell 2</td>
-</tr>
-<tr>
-<td>Table cell 3</td><td>Table cell 4</td>
-</tr>
-</table>
 
  
