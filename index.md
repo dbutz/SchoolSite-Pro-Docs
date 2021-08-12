@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Licensing](licensing.md)
 - [Data validation](dataValidation.md)
 
+[Upgrading from SchoolSite Desktop to SchoolSite Pro](upgradingToPro.md)
+
 \
 &nbsp;
 \
