@@ -21,10 +21,9 @@ The best source for housing information is your local County Tax Assessor office
  * SFA - Single Family Attached
 
  * AFD - Affordable Housing
+2. **UNITS** – a "Short Integer" field.  This field will contain the number of units located at a particular assessor point.  For example, a single family detached would be one unit and an apartment complex could be anywhere from one to several hundred units.
 
-1. **UNITS** – a "Short Integer" field.  This field will contain the number of units located at a particular assessor point.  For example, a single family detached would be one unit and an apartment complex could be anywhere from one to several hundred units.
-
-1. **ADDRESS** (or SITUS) - a "Text" field. This field gives the address location of each parcel.  This field is used to geocode the assessor data to the street data.
+3. **ADDRESS** (or SITUS) - a "Text" field. This field gives the address location of each parcel.  This field is used to geocode the assessor data to the street data.
 
  
 
