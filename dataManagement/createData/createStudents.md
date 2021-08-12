@@ -151,7 +151,7 @@ Since projections by school of enrollment are based upon the underlying resident
   <tr>
     <td>NP</td>
     <td>Non-public student</td>
-    <td color: red >Excluded</td>
+    <td style:"color: red" >Excluded</td>
     <td>Included</td>
     <td>Excluded</td>     
   </tr>
@@ -295,25 +295,3 @@ During the creation of a plan by current students and current enrollment you wil
 ## For More Information:
 Students must be geocoded by residence in order to perform redistricting and to obtain realistic projections (using the SchoolSite Projection Extension). For more information on how to geocode, see the ArcGIS help file or the Getting to Know ArcGIS manual.
  
-<table>
-<TR>
-      <TH COLSPAN="2"><BR><H3>Student Types used in Redistricting Plans (for students with grades -1 through 12)</H3>
-      </TH>
-   </TR>
-  <tr>
-    <th>Code</th>
-    <th>Student Type</th>
-    <th>Plans by Residence</th>
-    <th> Plans by Projected Students </th>
-  </tr>
-  <tr>
-    <td>row 1 - column 1</td>
-    <td colspan="2" align="center">row 1 - column 2 & 3</td>
-  </tr>
-  <tr>
-    <td> NP </td>
-    <td> Non-public </td>
-    <td>row 2 - column 3</td>
-  </tr>
-</table>
-
