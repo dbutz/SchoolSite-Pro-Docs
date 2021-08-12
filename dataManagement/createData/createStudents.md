@@ -214,18 +214,4 @@ During the creation of a plan by current students and current enrollment you wil
 Students must be geocoded by residence in order to perform redistricting and to obtain realistic projections (using the SchoolSite Projection Extension). For more information on how to geocode, see the ArcGIS help file or the Getting to Know ArcGIS manual.
  
 
-<TABLE BORDER="5"    WIDTH="50%"   CELLPADDING="4" CELLSPACING="3">
-   <TR>
-      <TH COLSPAN="2"><BR><H3>TABLE TITLE</H3>
-      </TH>
-   </TR>
-   <TR>
-      <TH>Column A</TH>
-      <TH>Column B</TH>
-   </TR>
-   <TR ALIGN="CENTER">
-      <TD>Data 1</TD>
-      <TD>Data 2</TD>
-   </TR>
-</TABLE>
 
