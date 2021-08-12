@@ -12,12 +12,12 @@
 &nbsp;
 
 ## Creating your own data
-### - [How to create your own data](howToCreateData.md)
-### - [Creating study areas](createStudyareas.md)
-### - [Creating students](createStudents.md)
-### - [Creating schools](createSchools.md)
-### - [Creating tracts](createTracts.md)
-### - [Creating assessor data](createAssessor.md)
-### - [Creating trustee areas](createTrustee.md)
-### - [Creating streets](createStreets.md)
+### - [How to create your own data](createData/howToCreateData.md)
+### - [Creating study areas](createData/createStudyareas.md)
+### - [Creating students](createData/createStudents.md)
+### - [Creating schools](createData/createSchools.md)
+### - [Creating tracts](createData/createTracts.md)
+### - [Creating assessor data](createData/createAssessor.md)
+### - [Creating trustee areas](createData/createTrustee.md)
+### - [Creating streets](createData/createStreets.md)
 
