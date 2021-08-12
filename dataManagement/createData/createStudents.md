@@ -136,23 +136,105 @@ During setup for resident projections, in addition to grades 0-12 RS students, y
 Since projections by school of enrollment are based upon the underlying resident projections, the choices you have made regarding including or excluding students for your resident projections carries over into the school of enrollment projections.  For example, excluding special education (SE) from your resident projections excludes them from school of enrollment projections.  There are a few exceptions in that out-of-district and unmatched students are included in the school of enrollment projections.  To learn more about how school of enrollment projections are calculated, see the following help topic.
  
  ## Davis Demographics' Student Type Classifications in order of priority: 
- 
-**Student Types used in Redistricting Plans 
-(for students with grades -1 through 12)**
- | Code | Student Type | Plans by Residence | Plans by Enrollment | Plans by Projected Students |
- | ---- | ------------ | ------------------ | ------------------- | --------------------------- | 
- | NP   | Non-public student | Excluded | Included | Excluded |
- | AD   | Adult education | Excluded | Included | Excluded |
- | AE   | Alternative education student | Excluded | Included | Excluded |
- | HH   | Home/hospital student | Excluded | Included | Excluded |
- | OT   | Other student | Optional | Included | * Inherited |
- | CH   | Charter School student | Optional | Included | * Inherited |
- | IS   | Independent study student | Optional | Included | * Inherited |
- | PK/TK| Pre-K or Trainsitional- K student | Optional | Included | * Inherited |
- | SE   | Special education student | Optional | Included | * Inherited | 
- | OD   | Out of district | Excluded | Included | Excluded |
- | UM   | Unmatched student | Excluded | Included | Excluded |
- | RS   | Resident K-12 student | Included | Included | Included |
+<table>
+<TR>
+      <TH COLSPAN="5"><BR><H3>Student Types used in Redistricting Plans (for students with grades -1 through 12)</H3>
+      </TH>
+   </TR>
+  <tr>
+    <th>Code</th>
+    <th>Student Type</th>
+    <th>Plans by Residence</th>
+    <th> Plans by Enrollment </th>
+    <th> Plans by Projected Students </th>
+  </tr>
+  <tr>
+    <td>NP</td>
+    <td>Non-public student</td>
+    <td>Excluded</td>
+    <td>Included</td>
+    <td>Excluded</td>     
+  </tr>
+  <tr>
+    <td>AD</td>
+    <td>Adult education</td>
+    <td>Excluded</td>
+    <td>Included</td>
+    <td>Excluded</td> 
+  </tr>
+  <tr>
+    <td>AE</td>
+    <td>Alternative education student</td>
+    <td>Excluded</td>
+    <td>Included</td>
+    <td>Excluded</td> 
+  </tr>
+  <tr>
+    <td>HH</td>
+    <td>Home/hospital student</td>
+    <td>Excluded</td>
+    <td>Included</td>
+    <td>Excluded</td> 
+  </tr>
+  <tr>
+    <td>OT</td>
+    <td>Other student</td>
+    <td>Optional</td>
+    <td>Included</td>
+    <td>*Inherited</td> 
+  </tr>
+  <tr>
+    <td>CH</td>
+    <td>Charter school student</td>
+    <td>Optional</td>
+    <td>Included</td>
+    <td>*Inherited</td> 
+  </tr>
+  <tr>
+    <td>IS</td>
+    <td>Independent school student</td>
+    <td>Optional</td>
+    <td>Included</td>
+    <td>*Inherited</td> 
+  </tr>
+  <tr>
+    <td>PK/TK</td>
+    <td>Pre-K or Transitional-K student</td>
+    <td>Optional</td>
+    <td>Included</td>
+    <td>*Inherited</td> 
+  </tr>
+  <tr>
+    <td>SE</td>
+    <td>Special education student</td>
+    <td>Optional</td>
+    <td>Included</td>
+    <td>*Inherited</td> 
+  </tr> 
+  <tr>
+    <td>OD</td>
+    <td>Out of district student</td>
+    <td>Excluded</td>
+    <td>Included</td>
+    <td>Excluded</td> 
+  </tr>
+  <tr>
+    <td>UM</td>
+    <td>Unmatched student</td>
+    <td>Excluded</td>
+    <td>Included</td>
+    <td>Excluded</td> 
+  </tr>
+  <tr>
+    <td>RS</td>
+    <td>Resident K-12 student</td>
+    <td>Included</td>
+    <td>Included</td>
+    <td>Included</td> 
+  </tr>
+
+
+</table>
 
  *Inherited indicates that student type will be included if the residential projection included that optional type during setup. 
  
