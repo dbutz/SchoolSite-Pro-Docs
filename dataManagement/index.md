@@ -1,4 +1,4 @@
-# Data Management for SchoolSite Pro
+# Data Management
 
 &nbsp;
 
