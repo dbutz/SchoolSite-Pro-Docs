@@ -2,7 +2,7 @@
 
 &nbsp;
 
-## Here are some frequently asked questions our users have regarding data management. Talk about data management goals, strategies, etc...
+## Frequently asked questions
 - [Upgrading from SchoolSite Desktop to SchoolSite Pro](upgradingToPro.md)
 - [How should I organizing my data?](organizingData.md)
 - [What kind of data do I need?](whatData.md)
