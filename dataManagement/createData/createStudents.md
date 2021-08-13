@@ -47,15 +47,9 @@ The two-letter STUTYPE codes used by SchoolSite are explained below and are list
 
 * <ins>Special Education student</ins> (SE)- Special education programs can take many forms, from remedial reading and part-day pull out programs to severely disabled students who require special classroom facilities.  For use in SchoolSite, the SE code is reserved for the later types of students; those who require special facilities and therefore are not involved in boundary changes and for which you may not wish to include in traditional enrollment forecasting methodologies.  Students in part-time resource specialist types of programs who are usually mainstreamed with other students in the schools are not considered SE.  Special education usually represents approximately 2-3% of the District’s student population.  These types of students can be <ins>optionally included</ins> in resident projections and resident redistricting plans and are <ins>always included</ins> in reports for staffing projections and redistricting plans based upon enrollment.
 
-* <ins>Pre-Kindergarten student</ins> (PK) or <ins>Transitional Kindergarten</ins> (TK California only)- Students typically in a program prior to full kindergarten.  This may or may not be a program a District offers and may only be offered at a few sites.  The GRD field for either PK or TK must be a value of -1.  These types of students can be <ins>optionally included</ins> in resident projections and resident redistricting plans and are <ins>always included</ins> in reports for staffing projections and redistricting plans based upon enrollment.
-
 * Independent Study student (IS)-  Students guided by a teacher but usually does not take classes with other students every day.  These could also be online students.  These students may or may not require a seat in a public school.  These types of students can be optionally included in resident projections and resident redistricting plans and are always included in reports for staffing projections and redistricting plans based upon enrollment.
 
-* <ins>Resident K-12 student</ins> (RS)- Regular students in kindergarten through 12th grade residing within the District’s boundaries and is not classified as being in any of the programs above.  These students are the bulk of your student population and are always included in redistricting plans and projections.
-
-* <ins>Out of District student</ins> (OD)- students that would be classified as RS but reside outside of the District boundary and attend a District school.  They should have an inter-district permit. These students will only be included in redistricting plans by enrollment or in staffing enrollment projections.  They are NOT in any resident projection or resident redistricting plan as they reside outside the District.
-
-* <ins>Unmatched student</ins> (UM)- Students that would be classified as RS but cannot be geocoded due to incomplete or inaccurate address information in the geocoding process.  The number of the these students should be a low as possible after the geocoding process.  These students will only be included in redistricting plans by enrollment or in staffing enrollment projections.
+* <ins>General Education K-12 student</ins> (GE)- Regular students in kindergarten through 12th grade residing within the District’s boundaries and is not classified as being in any of the programs above.  These students are the bulk of your student population and are always included in redistricting plans and projections.
 
 ## How Classification Codes are used in SchoolSite Redistricting Plans:
 There are three types of redistricting plans that can be created in SchoolSite:
@@ -76,7 +70,7 @@ During setup for Current Resident Students, non-K12 students as well as the foll
 
  
 
-During setup for Current Resident Students, in addition to students coded as RS, you have the option of <ins>including<ins> the following classes of students:  CH, OT, SE, IS, and PK/TK
+During setup for Current Resident Students, in addition to students coded as GE, you have the option of <ins>including<ins> the following classes of students:  CH, OT, SE, and IS.
 
  
 
@@ -128,7 +122,7 @@ During setup for resident projections, grades 0 through 12 are automatically inc
 
  
 
-During setup for resident projections, in addition to grades 0-12 RS students, you have the option of including the following classes of students:  PK/TK (grade -1), CH, OT, SE, and/or IS.  If you include these students they will be incorporated in the projections along with all other students at their appropriate grade level. If you choose not to include them, they will not appear in the projections or any reports.
+During setup for resident projections, in addition to grades 0-12 GE students, you have the option of including the following classes of students:  CH, OT, SE, and/or IS.  If you include these students they will be incorporated in the projections along with all other students at their appropriate grade level. If you choose not to include them, they will not appear in the projections or any reports.
 
  
 
@@ -199,13 +193,6 @@ Since projections by school of enrollment are based upon the underlying resident
     <td>*Inherited</td> 
   </tr>
   <tr>
-    <td>PK/TK</td>
-    <td>Pre-K or Transitional-K student</td>
-    <td>Optional</td>
-    <td>Included</td>
-    <td>*Inherited</td> 
-  </tr>
-  <tr>
     <td>SE</td>
     <td>Special education student</td>
     <td>Optional</td>
@@ -213,21 +200,7 @@ Since projections by school of enrollment are based upon the underlying resident
     <td>*Inherited</td> 
   </tr> 
   <tr>
-    <td>OD</td>
-    <td>Out of district student</td>
-    <td>Excluded</td>
-    <td>Included</td>
-    <td>Excluded</td> 
-  </tr>
-  <tr>
-    <td>UM</td>
-    <td>Unmatched student</td>
-    <td>Excluded</td>
-    <td>Included</td>
-    <td>Excluded</td> 
-  </tr>
-  <tr>
-    <td>RS</td>
+    <td>GE</td>
     <td>Resident K-12 student</td>
     <td>Included</td>
     <td>Included</td>
@@ -302,13 +275,6 @@ Since projections by school of enrollment are based upon the underlying resident
     <td>*Inherited</td> 
   </tr>
   <tr>
-    <td>PK/TK</td>
-    <td>Pre-K or Transitional-K student</td>
-    <td>Optional</td>
-    <td>Included</td>
-    <td>Included</td> 
-  </tr>
-  <tr>
     <td>SE</td>
     <td>Special education student</td>
     <td>Optional</td>
@@ -316,21 +282,7 @@ Since projections by school of enrollment are based upon the underlying resident
     <td>*Inherited</td> 
   </tr> 
   <tr>
-    <td>OD</td>
-    <td>Out of district student</td>
-    <td>Excluded</td>
-    <td>Included</td>
-    <td>Excluded</td> 
-  </tr>
-  <tr>
-    <td>UM</td>
-    <td>Unmatched student</td>
-    <td>Excluded</td>
-    <td>Included</td>
-    <td>Excluded</td> 
-  </tr>
-  <tr>
-    <td>RS</td>
+    <td>GE</td>
     <td>Resident K-12 student</td>
     <td>Included</td>
     <td>Included</td>
