@@ -1,6 +1,6 @@
 # Data Checks Made for Locator
 
-Below is a list of the data checks that SchoolSite makes when using the Data Validator for SchoolSite Locator.
+Below is a list of the data checks that SchoolSite Pro makes when using the Data Validator for SchoolSite Locator.
 
 ## Step 1: Validate individual feature classes
 There are two required datasets that are required for SchoolSite Locator:
