@@ -1,7 +1,7 @@
 # What Kind of Data Do I Need?
 
-## Map Datasets for Use with SchoolSite
-In order to use the SchoolSite Extensions, you must have the following **required** map datasets:
+## Map Datasets for Use with SchoolSite Pro
+In order to use the SchoolSite Pro Extensions, you must have the following **required** map datasets:
 
  
 
@@ -13,7 +13,7 @@ In order to use the SchoolSite Extensions, you must have the following **require
 
  
 
-Additionally, the following datasets are optional and not necessary to run the application, but can help you with other features in SchoolSite:
+Additionally, the following datasets are optional and not necessary to run the application, but can help you with other features in SchoolSite Pro:
 
  
 
@@ -26,7 +26,7 @@ Additionally, the following datasets are optional and not necessary to run the a
  
 
 ## Data Formats
-Although the [feature class](https://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/feature-class-basics.htm) is the recommended format for ArcGIS, any of the following Esri formats can be used to store your data for use with SchoolSite and to create Redistricting Plans or Projections:
+Although the [feature class](https://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/feature-class-basics.htm) is the recommended format for ArcGIS, any of the following Esri formats can be used to store your data for use with SchoolSite Pro and to create Redistricting Plans or Projections:
 
  
 
@@ -40,7 +40,7 @@ Although the [feature class](https://desktop.arcgis.com/en/arcmap/latest/manage-
 
  
 
-Each of the three dataset attributes must be precisely defined in order to run the application.  To learn about field/attribute definitions required for SchoolSite, refer to the topic "How to Create Your Own Data".
+Each of the three dataset attributes must be precisely defined in order to run the application.  To learn about field/attribute definitions required for SchoolSite Pro, refer to the topic "How to Create Your Own Data".
 
 **See Also:**
 
