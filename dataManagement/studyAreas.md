@@ -1,5 +1,5 @@
 # What Are Study Areas?
-Study Areas are the building blocks of a school district. Study Areas are geographically defined, following logical boundaries of a neighborhood and are used for gathering data. SchoolSite does not use separate datasets for each set of school attendance areas. Using a unique field coding method, all attendance areas are stored within the Study Area dataset. By using these building blocks or Study Areas, various groupings of these areas can be used to simulate attendance area changes and can be useful for deciding where to open or close schools.
+Study Areas are the building blocks of a school district. Study Areas are geographically defined, following logical boundaries of a neighborhood and are used for gathering data. SchoolSite Pro does not use separate datasets for each set of school attendance areas. Using a unique field coding method, all attendance areas are stored within the Study Area dataset. By using these building blocks or Study Areas, various groupings of these areas can be used to simulate attendance area changes and can be useful for deciding where to open or close schools.
 
  
 
