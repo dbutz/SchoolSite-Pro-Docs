@@ -1,5 +1,5 @@
 # Data Checks Made for Projections
-Below is a list of the data checks that SchoolSite makes when using the Data Validator for the Projection Extension.
+Below is a list of the data checks that SchoolSite Pro makes when using the Data Validator for the Projection Extension.
 
 ## Step 1: Validate individual feature classes
 There are three required datasets that are required for Projections:
