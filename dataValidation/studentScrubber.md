@@ -1,13 +1,13 @@
 # Using the Student Scrubber
-The Student Scrubber utility cleans your student data file prior to geocoding and use in SchoolSite by removing all special characters from the file and (optionally) standardizing the address field.
+The Student Scrubber utility cleans your student data file prior to geocoding and use in SchoolSite Pro by removing all special characters from the file and (optionally) standardizing the address field.
 
  
 
-**Please Note:**  This tool is integrated into the SchoolSite Geocoding Tool—it is provided on the SchoolSite toolbar for users who wish to clean their student data file before geocoding directly within ArcGIS (i.e. without the SchoolSite Geocoding Tool).
+**Please Note:**  This tool is integrated into the SchoolSite Pro Geocoding Tool—it is provided on the SchoolSite Pro toolbar for users who wish to clean their student data file before geocoding directly within ArcGIS (i.e. without the SchoolSite Geocoding Tool).
 
  
 
-You can access the Student Scrubber through the SchoolSite toolbar. To open the SchoolSite toolbar, go to Customize > Toolbars > SchoolSite Toolbar.
+You can access the Student Scrubber through the SchoolSite Pro toolbar. To open the SchoolSite Pro toolbar, go to Customize > Toolbars > SchoolSite Pro Toolbar.
 
 The SchoolSite Pro Toolbar is visible now. Click on the SchoolSite Pro Student Scrubber tool to open the wizard
 
