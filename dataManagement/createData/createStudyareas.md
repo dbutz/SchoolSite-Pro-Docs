@@ -1,6 +1,6 @@
 # Creating Study Areas
 ## Study Areas - a polygon feature class
-Study Areas are the building blocks of a school district. Study areas grouped together (and coded to specific school ID numbers) form attendance boundaries. Study Areas are geographically defined, following logical boundaries of a neighborhood and are used for boundary planning and generating small area enrollment forecasts. SchoolSite does not use separate feature classes for each set of school attendance areas.  Using a unique field coding method, all attendance areas are stored within the Study Area feature class attribute table.
+Study Areas are the building blocks of a school district. Study areas grouped together (and coded to specific school ID numbers) form attendance boundaries. Study Areas are geographically defined, following logical boundaries of a neighborhood and are used for boundary planning and generating small area enrollment forecasts. SchoolSite Pro does not use separate feature classes for each set of school attendance areas.  Using a unique field coding method, all attendance areas are stored within the Study Area feature class attribute table.
 
 ## Source:
 Districts with established Study Areas need to map and enter the information into a geodatabase feature class or a shapefile. If your district does not have existing Study Areas, create a Study Area feature class or shapefile based on the criteria described in the next topic, ["What Are Study Areas?"](studyareas.md). Once the district is divided into Study Areas, populate the attribute table. This involves coding each Study Area to an elementary, middle,  intermediate and high school of assignment.
@@ -26,7 +26,7 @@ Districts with established Study Areas need to map and enter the information int
 Any area that is created must be coded.  If you have a polygon within the district that is not assigned to any school, such as an area for a lake, you need to code the ELEM_, MID_, INT_, and HIGH_ fields with the number 9999.  This will avoid receiving an error for an un-coded polygon as the software will recognize it as a properly unassigned polygon.  
 
 ## Additional Fields:
-The following fields are **required for SchoolSite Locator** , but **not required for redistricting plans and projections.**
+The following fields are **required for SchoolSite Pro Locator** , but **not required for redistricting plans and projections.**
 
  
 
@@ -44,7 +44,7 @@ The following fields are **required for SchoolSite Locator** , but **not require
 
 14. **TRUSTEE** - A field containing the Trustee area the Study Area is in. The TRUSTEE field should be defined as a "Short Integer".
 
-The following fields are **required for SchoolSite Locator**, but are only used for Study Areas that are in split attendance areas or optional areas.  
+The following fields are **required for SchoolSite Pro Locator**, but are only used for Study Areas that are in split attendance areas or optional areas.  
 
  
 
