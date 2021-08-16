@@ -1,18 +1,18 @@
 # Using the Data Validator
-## SchoolSite Data Validation for SchoolSite Redistricting, SchoolSite Projections, and SchoolSite Locator
-The SchoolSite Data Validator checks your GIS data for compatibility with SchoolSite extensions.
+## SchoolSite Pro Data Validation for SchoolSite Pro Redistricting, SchoolSite Pro Projections, and SchoolSite Locator
+The SchoolSite Pro Data Validator checks your GIS data for compatibility with SchoolSite extensions.
 
  
 
-You can access the Data Validator through the SchoolSite toolbar. To open the SchoolSite toolbar, go to Customize > Toolbars > SchoolSite Toolbar.
+You can access the Data Validator through the SchoolSite Pro toolbar. To open the SchoolSite Pro toolbar, go to Customize > Toolbars > SchoolSite Pro Toolbar.
 
 Depending on your needs, you can choose from three different Data Validators to check your data:
 
  
 
-1. SchoolSite Redistricting Validation Tool
-2. SchoolSite Projections Validation Tool
-3. SchoolSite Locator Validation Tool
+1. SchoolSite Pro Redistricting Validation Tool
+2. SchoolSite Pro Projections Validation Tool
+3. SchoolSite Pro Locator Validation Tool
  
 
 Click on the desired Data Validator and it will open.
@@ -21,12 +21,12 @@ Click on the desired Data Validator and it will open.
 
 Please Note: The Data Validator works the same for each kind of validation (Redistricting, Projections, and Locator). Below, only instructions for the Data Validator for the Redistricting extension is shown.
 
-Using the Data Validator for SchoolSite Redistricting Data Validation
-1. In order to use the Data Validator for SchoolSite Redistricting, click on the folder icon with the box labeled Study Areas. A browser will pop up.
+Using the Data Validator for SchoolSite Pro Redistricting Data Validation
+1. In order to use the Data Validator for SchoolSite Pro Redistricting, click on the folder icon with the box labeled Study Areas. A browser will pop up.
 2. In the browser, select the Study Areas file you want to validate and click Add. The Data Validator will automatically run once you've selected your Study Areas file.
 3. Wait a few seconds until the green progress bar under Study Areas fills in. When the check for Study Areas is finished, you will see one of three icons:
 
-If the data is all valid for use in SchoolSite Redistricting, you will see green check marks for each.
+If the data is all valid for use in SchoolSite Pro Redistricting, you will see green check marks for each.
 
 However, if you choose data that is missing an optional field, you will see a warning. In the example below, the Schools data resulted in a warning sign. To find out what happened, make sure the Schools tab is selected at the bottom half of the form and read the error log. You will be able to create a plan without fixing the warning. However, if a red, "Not Valid" icon appears, you must fix the error and run it through the Data Validator again before using it to create a new plan.
 
