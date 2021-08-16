@@ -7,11 +7,11 @@ The student point feature class is created by geocoding a table of student infor
 This data comes directly from the District’s student information system (SIS) and is downloaded in one of the following formats and imported into a geodatabase table ready for geocoding.  The downloaded data should be exported from the SIS into either Excel (.xlsx), comma or tab-delimited text (.csv) or dbase (.dbf).
 
 ## Required Fields:
-There are three required fields that must be added to the geocoded student attribute table in order for SchoolSite to properly identify students to be excluded or optionally included in the enrollment projections or various types of redistricting plans.
+There are three required fields that must be added to the geocoded student attribute table in order for SchoolSite Pro to properly identify students to be excluded or optionally included in the enrollment projections or various types of redistricting plans.
 
  
 
-1. **GRD** - This field is defined in ArcGIS as a “short integer” field and should only contain numeric values, typically ranging from 0 through 12, and sometimes -1 and/or -2.  0 represents kindergarten, -1 or -2 would represent TK or PK (see discussion below).  The District’s student data downloaded from the SIS may include a Grade or other named field, but the values in that field many times include characters other than numbers such as KA or KP, PK, or some other value of the District’s choosing. This type of data is not recognized for use with SchoolSite and those values must be transferred or interpreted to include only numeric values in the GRD field.  The GRD field with standardized grade values is critical to both the forecasting model and redistricting plans.
+1. **GRD** - This field is defined in ArcGIS as a “short integer” field and should only contain numeric values, typically ranging from 0 through 12, and sometimes -1 and/or -2.  0 represents kindergarten, -1 or -2 would represent TK or PK (see discussion below).  The District’s student data downloaded from the SIS may include a Grade or other named field, but the values in that field many times include characters other than numbers such as KA or KP, PK, or some other value of the District’s choosing. This type of data is not recognized for use with SchoolSite Pro and those values must be transferred or interpreted to include only numeric values in the GRD field.  The GRD field with standardized grade values is critical to both the forecasting model and redistricting plans.
 
 2. **SCHL_CODE** - This field is defined as a “short integer” and contains the school ID or program ID number of the student’s school or program of attendance.  It is critical that the ID number in the student table matches a corresponding point with the school ID in the schools point feature class (i.e. there needs to be a location where the student is attending school).
 
@@ -30,7 +30,7 @@ It is also critical that STUTYPE classifications be consistent between different
 
  
 
-The two-letter STUTYPE codes used by SchoolSite are explained below and are listed in order of precedence for coding each student record:
+The two-letter STUTYPE codes used by SchoolSite Pro are explained below and are listed in order of precedence for coding each student record:
 
  
 * <ins> Charter School student </ins> (CH)- Students residing within the District boundary attending a charter school.  These students usually do not take classroom space in one of the District’s regular public schools.  These types of students can be <ins>optionally included</ins> in resident projections and resident redistricting plans and are <ins>always included</ins> in reports for staffing projections and redistricting plans based upon enrollment.
@@ -45,14 +45,14 @@ The two-letter STUTYPE codes used by SchoolSite are explained below and are list
 
 * <ins> Home/Hospital student </ins> (HH)- Home schooled or students located in hospitals don’t traditionally take classroom space. They are <ins>automatically excluded</ins> from both enrollment projections and all types of redistricting plans.
 
-* <ins>Special Education student</ins> (SE)- Special education programs can take many forms, from remedial reading and part-day pull out programs to severely disabled students who require special classroom facilities.  For use in SchoolSite, the SE code is reserved for the later types of students; those who require special facilities and therefore are not involved in boundary changes and for which you may not wish to include in traditional enrollment forecasting methodologies.  Students in part-time resource specialist types of programs who are usually mainstreamed with other students in the schools are not considered SE.  Special education usually represents approximately 2-3% of the District’s student population.  These types of students can be <ins>optionally included</ins> in resident projections and resident redistricting plans and are <ins>always included</ins> in reports for staffing projections and redistricting plans based upon enrollment.
+* <ins>Special Education student</ins> (SE)- Special education programs can take many forms, from remedial reading and part-day pull out programs to severely disabled students who require special classroom facilities.  For use in SchoolSite Pro, the SE code is reserved for the later types of students; those who require special facilities and therefore are not involved in boundary changes and for which you may not wish to include in traditional enrollment forecasting methodologies.  Students in part-time resource specialist types of programs who are usually mainstreamed with other students in the schools are not considered SE.  Special education usually represents approximately 2-3% of the District’s student population.  These types of students can be <ins>optionally included</ins> in resident projections and resident redistricting plans and are <ins>always included</ins> in reports for staffing projections and redistricting plans based upon enrollment.
 
 * Independent Study student (IS)-  Students guided by a teacher but usually does not take classes with other students every day.  These could also be online students.  These students may or may not require a seat in a public school.  These types of students can be optionally included in resident projections and resident redistricting plans and are always included in reports for staffing projections and redistricting plans based upon enrollment.
 
 * <ins>General Education K-12 student</ins> (GE)- Regular students in kindergarten through 12th grade residing within the District’s boundaries and is not classified as being in any of the programs above.  These students are the bulk of your student population and are always included in redistricting plans and projections.
 
-## How Classification Codes are used in SchoolSite Redistricting Plans:
-There are three types of redistricting plans that can be created in SchoolSite:
+## How Classification Codes are used in SchoolSite Pro Redistricting Plans:
+There are three types of redistricting plans that can be created in SchoolSite Pro:
 
  
 
@@ -100,12 +100,12 @@ If you choose <ins>not to exclude</ins> them from boundary planning, they will b
 
  
 
-## How Classification Codes are used in SchoolSite Enrollment Forecasting:
-There are essentially two types of projections that can be created in SchoolSite:  student residence and optionally school of enrollment.
+## How Classification Codes are used in SchoolSite Pro Enrollment Forecasting:
+There are essentially two types of projections that can be created in SchoolSite Pro:  student residence and optionally school of enrollment.
 
  
 
-The standard projection model within SchoolSite includes projections by residence at the study area level.  Utilizing those projections by residence is the basis for setting up any redistricting plans based upon Projection Resident Students. So if there any students excluded from a projection based upon a STUTYPE classification, those same students will be excluded from any Projected Resident Student redistricting plan.
+The standard projection model within SchoolSite Pro includes projections by residence at the study area level.  Utilizing those projections by residence is the basis for setting up any redistricting plans based upon Projection Resident Students. So if there any students excluded from a projection based upon a STUTYPE classification, those same students will be excluded from any Projected Resident Student redistricting plan.
 
  
 
@@ -330,7 +330,7 @@ During the creation of a plan by current students and current enrollment you wil
 * No null values or special characters can be in these fields before attempting to create a new redistricting plan.
 
 ## For More Information:
-Students must be geocoded by residence in order to perform redistricting and to obtain realistic projections (using the SchoolSite Projection Extension). For more information on how to geocode, see the ArcGIS help file or the Getting to Know ArcGIS manual.
+Students must be geocoded by residence in order to perform redistricting and to obtain realistic projections (using the SchoolSite Pro Projection Extension). For more information on how to geocode, see the ArcGIS help file or the Getting to Know ArcGIS manual.
  
 
  
