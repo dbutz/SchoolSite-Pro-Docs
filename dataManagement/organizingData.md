@@ -1,5 +1,5 @@
 # Organizing Your Data
-The diagram below is a possible suggestion for organizing all of your GIS data holdings as well as your SchoolSite Redistricting Plans and Projections.
+The diagram below is a possible suggestion for organizing all of your GIS data holdings as well as your SchoolSite Pro Redistricting Plans and Projections.
 
 <p align="center">
   <img src="organizingData.PNG">
@@ -9,7 +9,7 @@ The diagram below is a possible suggestion for organizing all of your GIS data h
 
 * Organizes data by school year to provide for archiving older data for easy access.
 
-* Organizes data by functions including map data geodatabases in one location as well as map documents and annual SchoolSite projections (and possible redistricting plans) in other easily recognizable locations.
+* Organizes data by functions including map data geodatabases in one location as well as map documents and annual SchoolSite Pro projections (and possible redistricting plans) in other easily recognizable locations.
 
 * Provides for easy copying of main data sets (streets, study areas, schools, etc.) into future years for ongoing updates and maintenance.
 
@@ -28,7 +28,7 @@ Data is stored by "school year" so that the most recent updated mapping and othe
 
  
 
-Under each school year folder, we have created additional folders which organize our data holdings by type.  Data types include our geodatabases (GDB folder), map documents that we create within ArcMap (Map_Docs folder), layer files that we also create in ArcMap and that are used to quickly add new symbolized layers within map documents (Layers folder), and our SchoolSite Projections and Redistricting Plans which are stored under the SchoolSite folder.
+Under each school year folder, we have created additional folders which organize our data holdings by type.  Data types include our geodatabases (GDB folder), map documents that we create within ArcMap (Map_Docs folder), layer files that we also create in ArcMap and that are used to quickly add new symbolized layers within map documents (Layers folder), and our SchoolSite Pro Projections and Redistricting Plans which are stored under the SchoolSite Pro folder.
 
  
 
@@ -59,8 +59,8 @@ The same discussion for the Map_Docs folder holds true for the Layers folder. Se
 
  
 
-## SchoolSite Folder
-The SchoolSite folder can be organized in a variety of ways. One solution is to create a subfolder for redistricting plans and a second subfolder for projections. Each folder would contain a SchoolSite geodatabase with the appropriate items. By maintaining your projections and redistricting plans under the SchoolSite folder in a particular school year, the user can always go back to revisit  (ie. open within SchoolSite) the projections or boundary plan options considered in previous years.
+## SchoolSite Pro Folder
+The SchoolSite Pro folder can be organized in a variety of ways. One solution is to create a subfolder for redistricting plans and a second subfolder for projections. Each folder would contain a SchoolSite Pro geodatabase with the appropriate items. By maintaining your projections and redistricting plans under the SchoolSite Pro folder in a particular school year, the user can always go back to revisit  (ie. open within SchoolSite Pro) the projections or boundary plan options considered in previous years.
 
 
  
