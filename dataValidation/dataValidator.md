@@ -1,14 +1,8 @@
-# Using the Data Validator
-## SchoolSite Pro Data Validation for SchoolSite Pro Redistricting, SchoolSite Pro Projections, and SchoolSite Locator
-The SchoolSite Pro Data Validator checks your GIS data for compatibility with SchoolSite extensions.
-
- 
-
-You can access the Data Validator through the SchoolSite Pro toolbar. To open the SchoolSite Pro toolbar, go to Customize > Toolbars > SchoolSite Pro Toolbar.
+# Using Data Set Up
+## SchoolSite Pro Data Validation for SchoolSite Redistricting, SchoolSite Projections, and SchoolSite Locator
+The SchoolSite Pro Data Setup checks your GIS data for compatibility with SchoolSite extensions. You can access Data Set Up through the SchoolSite tab.
 
 Depending on your needs, you can choose from three different Data Validators to check your data:
-
- 
 
 1. SchoolSite Pro Redistricting Validation Tool
 2. SchoolSite Pro Projections Validation Tool
