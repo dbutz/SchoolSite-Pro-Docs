@@ -1,4 +1,4 @@
-# Creating Assessor Data
+# Creating Assessor Data - REVIEWED
 
 ## Assessor - a point dataset
 The assessor point dataset is created by geocoding a table of parcel information to a street network.  Assessor data can be used to determine student yield factors by housing type.  (See: Student Yield Factors)  Assessor point data is also used in estimating the number of existing dwelling units by study area for optional maturation projections (See: Maturation Concept).  Parcel polygon data that contains the required information can also be used by converting the polygons to a point feature class.
