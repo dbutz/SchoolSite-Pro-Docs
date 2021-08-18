@@ -34,10 +34,10 @@ If you have need further assistance, the log files can be emailed to Davis Demog
 
 For more information about the data requirements for Redistricting, Forecasts, and Locators, view the following topics:
 
-[Data Checks Made for Redistricting Plans](checkRedistrict.md)
+* [Data Checks Made for Redistricting Plans](checkRedistrict.md)
 
-[Data Checks Made for Projections](checkProjections.md)
+* [Data Checks Made for Projections](checkProjections.md)
 
-[Data Checks Made for Locator](checkLocator.md)
+* [Data Checks Made for Locator](checkLocator.md)
  
  
