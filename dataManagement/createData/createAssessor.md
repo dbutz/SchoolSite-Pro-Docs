@@ -1,7 +1,7 @@
 # Creating Assessor Data
 
 ## Assessor - a point dataset
-The assessor point dataset is created by geocoding a table of parcel information to a street network.  Assessor data can be used to determine student yield factors by housing type.  (See: Student Yield Factors)  Assessor point data is also used in estimating the number of existing dwelling units by study area for optional maturation projections (See: Maturation Concept).
+The assessor point dataset is created by geocoding a table of parcel information to a street network.  Assessor data can be used to determine student yield factors by housing type.  (See: Student Yield Factors)  Assessor point data is also used in estimating the number of existing dwelling units by study area for optional maturation projections (See: Maturation Concept).  Parcel polygon data that contains the required information can also be used by converting the polygons to a point feature class.
 
 ## Source:  
 The best source for housing information is your local County Tax Assessor office.  Most Tax Assessors maintain a Property Characteristics file, which is available to the public for a nominal fee.  
@@ -25,7 +25,9 @@ The best source for housing information is your local County Tax Assessor office
 
 3. **ADDRESS** (or SITUS) - a "Text" field. This field gives the address location of each parcel.  This field is used to geocode the assessor data to the street data.
 
- 
+ ## Suggested Field:
+1. **YearBuilt** – a "Short Integer" field.  This field will contain the year the unit was built and can be used to create student yield factors.
+
 
 See topic Maturation Methodology to learn how assessor data is used in Maturation Projections.
 
