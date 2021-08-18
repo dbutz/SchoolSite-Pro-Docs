@@ -9,9 +9,9 @@ You can access Data Setup through the SchoolSite tab.
 </p>
 
 There are three required datasets for use in creating plans and forecasts:
-1.	[Study Areas](createStudyareas.md)
-2.	[Schools](createSchools.md) 
-3.	[Students](createStudents.md)
+1.	[Study Areas](dataManagement/creatingData/createStudyareas.md)
+2.	[Schools](dataManagement/creatingData/createSchools.md) 
+3.	[Students](dataManagement/creatingData/createStudents.md)
 
 <p align="center">
   <img src="requiredData.png">
