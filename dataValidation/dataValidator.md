@@ -9,8 +9,8 @@ You can access Data Setup through the SchoolSite tab.
 </p>
 
 There are three required datasets for use in creating plans and forecasts:
-1.	[Study Areas](dataManagement/createData.md/createStudyareas.md)
-2.	[Schools](dataManagement/createData.md/createSchools.md) 
+1.	[Schools](dataManagement/createData.md/createSchools.md)
+2.	[Study Areas](dataManagement/createData.md/createStudyareas.md) 
 3.	[Students](dataManagement/createData.md/createStudents.md)
 
 <p align="center">
@@ -18,7 +18,7 @@ There are three required datasets for use in creating plans and forecasts:
 </p>
 
 **Please Note: Data Setup works the same for each kind of validation (Redistricting/Plans, Forecasts, and Locator).**
-1. In the Data Setup pane, select the study areas, schools, and students’ files you want to import/validate and it will automatically run once you've selected your file.
+1. In the Data Setup pane, select the  schools, study areas and students’ files you want to import/validate and it will automatically run once you've selected your file.
 2. Wait a few seconds until the green progress bar completes. When the check for the file is finished, you will see one of three icons:
 
 <p align="center">
@@ -26,20 +26,18 @@ There are three required datasets for use in creating plans and forecasts:
 </p>
 
 If the data is all valid for use, you will see green check marks for each.
-However, if you choose data that is missing an optional field, you will see a warning. In the example below, the Schools data resulted in a warning sign. To find out what happened, make sure the Schools tab is selected at the bottom half of the form and read the error log. You will be able to create a plan without fixing the warning. However, if a red, "Not Valid" icon appears, you must fix the error and run it through the Data Validator again before using it to create a new plan.
+However, if you choose data that is missing an optional field, you will see a warning in the SchoolSiteEventLog table. In the example below, the Schools data resulted in a warning sign. To find out what happened, read the CustomMessage column. You will be able to create a plan without fixing the warning. However, if a red, "Not Valid" icon appears, you must fix the error and run it through the Data Validator again before using it to create a plan, forecast or locator.
 
 
 
-If you have need further assistance, the log files can be emailed to Davis Demographics' Tech Support directly by clicking the button Email Log at the bottom of the Data Validator. Otherwise, you can export your results and email them yourself to techsupport@davisdemographics.com.
+If you have need further assistance, the log files can be emailed to Davis Demographics' Tech Support by exporting your results and emailing them to techsupport@davisdemographics.com.
 
-See Also:
-Data Checks Made for Redistricting Plans
+For more information about the data requirements for Redistricting, Forecasts, and Locators, view the following topics:
 
-Data Checks Made for Projections
+[Data Checks Made for Redistricting Plans](checkRedistrict.md)
 
-Data Checks Made for Locator
+[Data Checks Made for Projections](checkProjections.md)
 
-Contact Information
-
+[Data Checks Made for Locator](checkLocator.md)
  
  
