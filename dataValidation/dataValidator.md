@@ -1,5 +1,5 @@
 # Using Data Setup
-## SchoolSite Pro Data Setup for SchoolSite Plans, SchoolSite Forecasts, and SchoolSite Locator
+## SchoolSite Pro Data Setup for SchoolSite Redistricting Plans, SchoolSite Forecasts, and SchoolSite Locator
 The SchoolSite Pro Data Setup imports and checks your GIS data for compatibility with SchoolSite extensions. 
 
 You can access Data Setup through the SchoolSite tab.
@@ -17,7 +17,7 @@ There are three required datasets for use in creating plans and forecasts:
   <img src="requiredData.png">
 </p>
 
-**Please Note: Data Setup works the same for each kind of validation (Redistricting/Plans, Forecasts, and Locator).**
+**Please Note: Data Setup works the same for each kind of validation (Redistricting Plans, Forecasts, and Locator).**
 1. In the Data Setup pane, select the  schools, study areas and students’ files you want to import/validate and it will automatically run once you've selected your file.
 2. Wait a few seconds until the green progress bar completes. When the check for the file is finished, you will see one of three icons:
 
@@ -32,7 +32,7 @@ However, if you choose data that is missing an optional field, you will see a wa
 
 If you have need further assistance, the log files can be emailed to Davis Demographics' Tech Support by exporting your results and emailing them to techsupport@davisdemographics.com.
 
-For more information about the data requirements for Redistricting, Forecasts, and Locators, view the following topics:
+For more information about the data requirements for Redistricting Plans, Forecasts, and Locators, view the following topics:
 
 * [Data Checks Made for Redistricting Plans](checkRedistrict.md)
 
