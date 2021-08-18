@@ -9,9 +9,9 @@ You can access Data Setup through the SchoolSite tab.
 </p>
 
 There are three required datasets for use in creating plans and forecasts:
-1.	[Schools](dataManagement/createData.md/createSchools.md)
-2.	[Study Areas](dataManagement/createData.md/createStudyareas.md) 
-3.	[Students](dataManagement/createData.md/createStudents.md)
+1.	[Schools](dbutz.github.io/dataManagement/createData/createSchools.md)
+2.	[Study Areas](dbutz.github.io/dataManagement/createData/createStudyareas.md) 
+3.	[Students](dbutz.github.io/dataManagement/createData/createStudents.md)
 
 <p align="center">
   <img src="requiredData.png">
