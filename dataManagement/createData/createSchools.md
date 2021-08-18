@@ -13,23 +13,11 @@ The District is the only source for this information.
 
 2. **SCHL_CODE** - A field containing the school code of each school, must match codes used to populate the ELEM_, MID_, INT_, and HIGH_ fields defined as data type "Short Integer".
 
-3. **ELEM_** - A field containing the elementary school code number, defined as data type "Short Integer".
+3. **CAPACITY** - A field containing the maximum capacity of the school, defined as data type "Short Integer".
 
-4. **MID_** - A field containing the middle school code number, defined as data type "Short Integer".
+4. **STRT_GRD** - A field containing the start grade served at the school, defined as data type "Short Integer".
 
-5. **INT_** - A field containing the intermediate school code number, defined as data type "Short Integer".
-
-6. **HIGH_** - A field containing the high school code number, defined as data type "Short Integer".
-
-7. **CAPACITY** - A field containing the maximum capacity of the school, defined as data type "Short Integer".
-
-8. **PERM_CLRM** - A field containing the number of permanent class rooms, defined as data type "Short Integer".
-
-9. **PORT_CLRM** - A field containing the number of portable class rooms, defined as data type "Short Integer".
-
-10. **STRT_GRD** - A field containing the start grade served at the school, defined as data type "Short Integer".
-
-11. **END_GRD** - A field containing the end grade served at the school, defined as data type "Short Integer".
+5. **END_GRD** - A field containing the end grade served at the school, defined as data type "Short Integer".
 
 ## Additional Fields:
 The following fields are **required only for SchoolSite Locator, but are not required for redistricting plans or projections.**
