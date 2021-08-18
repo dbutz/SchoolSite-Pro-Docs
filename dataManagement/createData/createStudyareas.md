@@ -18,7 +18,7 @@ Districts with established Study Areas need to map and enter the information int
 
 1. **DISTRICT** - A field containing a six letter code used to report and summarize portions of the District, defined as data type "Text".  Examples are: Elementary district code for a Union High School district, School Board or Trustee area or any other values for which you wish to summarize projections by area. The DISTRICT field should be defined as data type "Text" with a maximum length of 50.
 
-1. **MOBILITY** - A field containing a 1 letter code used to indicate the Study Areas inclusion in the Mobility calculation.  Y = Yes included in Mobility calculation and N = No do not include in the Mobility calculations.  The MOBILITY field should be defined as data type "Text" with a length of 1.
+1. **MOBILITY** - A field containing a 1 letter code used to indicate the Study Areas inclusion in the Mobility calculation.  Y = Yes included in Mobility calculation and N = No do not include in the Mobility calculations.  The MOBILITY field should be defined as data type "Text" with a length of 3.
 
  
 
