@@ -1,11 +1,11 @@
-# Creating Schools
+# Creating Schools - REVIEWED
 
 ## Schools - a point feature class
 ## Source:
 The District is the only source for this information.
 
 ## Required Fields:
-**Important: The school code numbers in the ELEM_, MID_, INT_, and HIGH_ fields below have to match the school codes entered into the corresponding fields in the study areas.**
+**Important: If the school has an associated attendance area then the school code (SCHL_CODE) number must also be in at least one of the ELEM_, MID_, INT_, and HIGH_ fields in the study areas.**
 
  
 
@@ -64,10 +64,3 @@ The following fields are **required only for SchoolSite Locator, but are not req
 
 ## Points to Remember:
 * Individual school codes must be unique
-
-* For elementary schools, the ELEM_ field would be filled in with an ID value while the MID_, INT_ and HIGH_ fields will usually contain 0.
-
-* For middle or junior high schools, ELEM_ and HIGH_ will be 0 and the INT or MID_ field contain the schools id number (i.e. will have a value other than 0).  The same general rule applies if you are working with a high school
-
-* In the cases of K-8 schools where a site might house what is normally considered both elementary and intermediate school students, the ELEM_ and INT_ fields would have the same ID number and HIGH_ would be 0. See the highlighted row below for an example:
-
