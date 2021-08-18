@@ -17,7 +17,7 @@ There are three required datasets for use in creating plans and forecasts:
   <img src="requiredData.png">
 </p>
 
-**Please Note: Data Setup works the same for each kind of validation (Redistricting, Forecasts, and Locator).**
+**Please Note: Data Setup works the same for each kind of validation (Redistricting/Plans, Forecasts, and Locator).**
 1. In the Data Setup pane, select the study areas, schools, and students’ files you want to import/validate and it will automatically run once you've selected your file.
 2. Wait a few seconds until the green progress bar completes. When the check for the file is finished, you will see one of three icons:
 
