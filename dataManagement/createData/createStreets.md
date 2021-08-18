@@ -1,6 +1,6 @@
-# Creating Streets 
+# Creating Streets - REVIEWED
 ## Streets - a line dataset
-Although streets are not needed to create a redistricting plan, they are needed to create a street directory.  When setting up street data for use in a street directory, be sure the data is projected the same as the study area and schools layers (i.e. NAD1983 StatePlane California VI FIPS 0406).  Also be sure the fields containing the address ranges are numeric (short integer, double, etc). Address ranges defined as character will not run properly.
+Although streets are not needed to create a redistricting plan or a forecast, they are needed to create a street directory.  When setting up street data for use in a street directory, be sure the data is projected the same as the study area and schools layers (i.e. NAD1983 StatePlane California VI FIPS 0406).  Also be sure the fields containing the address ranges are numeric (short integer, double, etc). Address ranges defined as character will not run properly.
 
  
 
