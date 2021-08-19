@@ -11,16 +11,16 @@ The District is the only source for this information.
 
 1. **NAME** - A field containing the unique name of the school, defined as data type "Text" with a length of 50. Each school name should be unique. For example, if you have a Main Street Elementary and Main Street High, do not enter "Main Street" for both schools.
 
-2. **SCHL_CODE** - A field containing the school code of each school, must match codes used to populate the ELEM_, MID_, INT_, and HIGH_ fields defined as data type "Short Integer".
+2. **SCHL_CODE** - A field containing the school code of each school, must match codes used to populate the ELEM_, MID_, INT_, and HIGH_ fields defined as data type "Short Integer". Must have unique values, unless SCHL_CODE = 0
 
 3. **CAPACITY** - A field containing the maximum capacity of the school, defined as data type "Short Integer".
 
-4. **STRT_GRD** - A field containing the start grade served at the school, defined as data type "Short Integer".
+4. **STRT_GRD** - A field containing the start grade served at the school, defined as data type "Short Integer". Value cannot be < -1
 
-5. **END_GRD** - A field containing the end grade served at the school, defined as data type "Short Integer".
+5. **END_GRD** - A field containing the end grade served at the school, defined as data type "Short Integer". Value cannot be > 12
 
 ## Additional Fields:
-The following fields are **required only for SchoolSite Locator, but are not required for redistricting plans or projections.**
+The following fields are **required only for SchoolSite Locator, but are not required for redistricting plans or forecasts.**
 
  
 
