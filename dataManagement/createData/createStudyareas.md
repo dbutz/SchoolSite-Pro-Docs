@@ -6,21 +6,20 @@ Study Areas are the building blocks of a school district. Study areas grouped to
 Districts with established Study Areas need to map and enter the information into a geodatabase feature class or a shapefile. If your district does not have existing Study Areas, create a Study Area feature class or shapefile based on the criteria described in the next topic, ["What Are Study Areas?"](studyareas.md). Once the district is divided into Study Areas, populate the attribute table. This involves coding each Study Area to an elementary, middle,  intermediate and high school of assignment.
 
 ## Required Fields:
-1. **STDYAREA** - A field containing the unique number of the study area, defined as data type "Text" with a length of 6.
+1. **STDYAREA** - A field containing the unique number of the study area, defined as data type "Text" with a length of 6. No duplicate values and no special characters.
 
-1. **ELEM_** - A field containing the Elementary School number the study area is assigned to, defined as data type "Short Integer".
+1. **ELEM_** - A field containing the Elementary School number the study area is assigned to, defined as data type "Short Integer". If one record has ELEM_ > 0, then all records must have ELEM_ > 0
 
-1. **MID_** - A field containing the number of the Middle School number the study area is assigned to, defined as data type "Short Integer".
+1. **MID_** - A field containing the number of the Middle School number the study area is assigned to, defined as data type "Short Integer". If one record has MID_ > 0, then all records must have MID_ > 0
+1. **INT_** - A field containing the number of the Intermediate School number the study area is assigned to, defined as data type "Short Integer". If one record has INT_ > 0, then all records must have INT_ > 0
 
-1. **INT_** - A field containing the number of the Intermediate School number the study area is assigned to, defined as data type "Short Integer".
-
-1. **HIGH_** - A field containing the High School number the study area is assigned to, defined as data type "Short Integer".
+1. **HIGH_** - A field containing the High School number the study area is assigned to, defined as data type "Short Integer". If one record has HIGH_ > 0, then all records must have HIGH_ > 0
 
 1. **DISTRICT** - A field containing a six letter code used to report and summarize portions of the District, defined as data type "Text".  Examples are: Elementary district code for a Union High School district, School Board or Trustee area or any other values for which you wish to summarize projections by area. The DISTRICT field should be defined as data type "Text" with a maximum length of 50.
 
 1. **MOBILITY** - A field containing a 1 letter code used to indicate the Study Areas inclusion in the Mobility calculation.  Y = Yes included in Mobility calculation and N = No do not include in the Mobility calculations.  The MOBILITY field should be defined as data type "Text" with a length of 3.
 
- 
+ **Please note:**If a record has 9999 in one of these fields (ELEM_, MID_, INT_, and HIGH_) then all of these fields must be 9999 for that record.
 
 ## Coding Study Areas:
 Any area that is created must be coded.  If you have a polygon within the district that is not assigned to any school, such as an area for a lake, you need to code the ELEM_, MID_, INT_, and HIGH_ fields with the number 9999.  This will avoid receiving an error for an un-coded polygon as the software will recognize it as a properly unassigned polygon.  
