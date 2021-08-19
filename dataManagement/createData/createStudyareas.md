@@ -19,13 +19,13 @@ Districts with established Study Areas need to map and enter the information int
 
 1. **MOBILITY** - A field containing a 1 letter code used to indicate the Study Areas inclusion in the Mobility calculation.  Y = Yes included in Mobility calculation and N = No do not include in the Mobility calculations.  The MOBILITY field should be defined as data type "Text" with a length of 3.
 
- **Please note:**If a record has 9999 in one of these fields (ELEM_, MID_, INT_, and HIGH_) then all of these fields must be 9999 for that record.
+ **Please note:** If a record has 9999 in one of these fields (ELEM_, MID_, INT_, and HIGH_) then all of these fields must be 9999 for that record.
 
 ## Coding Study Areas:
 Any area that is created must be coded.  If you have a polygon within the district that is not assigned to any school, such as an area for a lake, you need to code the ELEM_, MID_, INT_, and HIGH_ fields with the number 9999.  This will avoid receiving an error for an un-coded polygon as the software will recognize it as a properly unassigned polygon.  
 
 ## Additional Fields:
-The following fields are **required for SchoolSite Pro Locator** , but **not required for redistricting plans and projections.**
+The following fields are **required for SchoolSite Pro Locator** , but **not required for redistricting plans and forecasts.**
 
  
 
