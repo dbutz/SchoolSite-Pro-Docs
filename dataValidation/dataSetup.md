@@ -23,16 +23,16 @@ There are three required datasets for use in creating plans and forecasts:
 
 <table>
   <tr>
-    <th> img src= Valid32.png </th>
-    (th> Valid dataset. The feature class meets all the requirements and additional suggestions for SchoolSite Redistricting </th>
+    <td> <img src= "Valid32.png"> </td>
+    <td> Valid dataset. The feature class meets all the requirements and additional suggestions for SchoolSite Redistricting </td>
   </tr>
   <tr>
-    <th> img src = warning.png </th>
-    <th> Warning. The feature class meets all the requirements for SchoolSite Redistricting </th>
+    <td> <img src = "warning.png"> </td>
+    <td> Warning. The feature class meets all the requirements for SchoolSite Redistricting </td>
   </tr>
   <tr>
-    <th> img src = Stop32.png </th>
-    <th> Not Valid. The feature class is missing 1 or more requirements for SchoolSite Redistricting </th>
+    <td> <img src = "Stop32.png"> </td>
+    <td> Not Valid. The feature class is missing 1 or more requirements for SchoolSite Redistricting </td>
   </tr>
 </table>
   
