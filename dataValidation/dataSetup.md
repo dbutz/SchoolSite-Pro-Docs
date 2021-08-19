@@ -21,10 +21,21 @@ There are three required datasets for use in creating plans and forecasts:
 1. In the Data Setup pane, select the  schools, study areas and students’ files you want to import/validate and it will automatically run once you've selected your file.
 2. Wait a few seconds until the green progress bar completes. When the check for the file is finished, you will see one of three icons:
 
-|--------------|----------------------------------------------------------------------------------|
-|[](Valid32.png)|Valid dataset. The feature class meets all the requirements and additional suggestions for SchoolSite Redistricting|
-|[](warning.png)|Warning. The feature class meets all the requirements for SchoolSite Redistricting|
-|[](Stop32.png)|Not Valid. The feature class is missing 1 or more requirements for SchoolSite Redistricting.|
+<table>
+  <tr>
+    <th> img src= Valid32.png </th>
+    (th> Valid dataset. The feature class meets all the requirements and additional suggestions for SchoolSite Redistricting </th>
+  </tr>
+  <tr>
+    <th> img src = warning.png </th>
+    <th> Warning. The feature class meets all the requirements for SchoolSite Redistricting </th>
+  </tr>
+  <tr>
+    <th> img src = Stop32.png </th>
+    <th> Not Valid. The feature class is missing 1 or more requirements for SchoolSite Redistricting </th>
+  </tr>
+</table>
+  
 
 If the data is all valid for use, you will see green check marks for each.
 However, if you choose data that is missing an optional field, you will see a warning in the SchoolSiteEventLog table. In the example below, the Schools data resulted in a warning sign. To find out what happened, read the CustomMessage column. You will be able to create a plan without fixing the warning. However, if a red, "Not Valid" icon appears, you must fix the error and run it through the Data Validator again before using it to create a plan, forecast or locator.
