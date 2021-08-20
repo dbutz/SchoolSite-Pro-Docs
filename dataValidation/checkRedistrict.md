@@ -6,9 +6,9 @@ Below is a list of the data checks that SchoolSite Pro makes when using the Data
 
 These are the three required fields that must be added to the geocoded student attribute table in order for SchoolSite Pro to properly identify students to be excluded or optionally included in the various types of redistricting plans.:
 
-1. Study Areas
-2. Schools
-3. Students
+1. [Study Areas] (../dataManagement/createData/createStudyareas.md)
+2. [Schools](../dataManagement/createData/createSchools.md)
+3. [Students](../dataManagement/createData/createStudents.md)
 
 
 ## Step 2: Validate feature class relationships
