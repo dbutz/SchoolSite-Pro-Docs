@@ -1,6 +1,6 @@
 # Data Checks Made for Redistricting Plans
 
-Below is a list of the data checks that SchoolSite Pro makes when using the Data Validator for the Redistricting Extension.
+Below is a list of the data checks that SchoolSite Pro makes when using DataSetup specifically for redistricting plans.
 
 ## Step 1: Validate individual feature classes
 
