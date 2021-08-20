@@ -7,7 +7,7 @@ The student point feature class is created by geocoding a table of student infor
 This data comes directly from the District’s student information system (SIS) and is downloaded in one of the following formats and imported into a geodatabase table ready for geocoding.  The downloaded data should be exported from the SIS into either Excel (.xlsx), comma or tab-delimited text (.csv) or dbase (.dbf).
 
 ## Required Fields:
-There are three required fields that must be added to the geocoded student attribute table in order for SchoolSite Pro to properly identify students to be excluded or optionally included in the enrollment projections or various types of redistricting plans.
+There are three required fields that must be added to the geocoded student attribute table in order for SchoolSite Pro to properly identify students to be excluded or optionally included in the enrollment forecasts or various types of redistricting plans.
 
  
 
@@ -18,7 +18,7 @@ There are three required fields that must be added to the geocoded student attri
 3. **STUTYPE** - This field is used to identify certain types of students that will be excluded or optionally included in the enrollment projection model as well as students that will be excluded from boundary planning (i.e. a particular group of students don’t move during a boundary change).  The STUTYPE field is defined as a “text” field of 2 characters in length.
 
 # STUTYPE Field Explained:
-The STUTYPE field contains numerous two-letter code values to identify and standardize various types of students, whether they are special education, pre-kindergarten, home study, etc.  The reason these students are identified with a STUTYPE code is because certain students may or may not take classroom space which is relevant to the discussion of projections and facility needs, and in other instances certain types of students may need to be identified as not being moved in certain redistricting scenarios (i.e. special day class in self-contained classrooms).
+The STUTYPE field contains numerous two-letter code values to identify and standardize various types of students, whether they are special education, pre-kindergarten, home study, etc.  The reason these students are identified with a STUTYPE code is because certain students may or may not take classroom space which is relevant to the discussion of forecasts and facility needs, and in other instances certain types of students may need to be identified as not being moved in certain redistricting scenarios (i.e. special day class in self-contained classrooms).
 
  
 
@@ -26,14 +26,14 @@ Student type classifications are prioritized where some student classifications 
 
  
 
-It is also critical that STUTYPE classifications be consistent between different year’s student geocoded data.  If certain students are being excluded in development of enrollment projections from the most current student data file, those same students, based upon the codes, will be excluded from previous years in the projection calculations.  The mathematical calculations in the projections may be in error if there is no consistency in coding different student types from year to year.
+It is also critical that STUTYPE classifications be consistent between different year’s student geocoded data.  If certain students are being excluded in development of enrollment forecasts from the most current student data file, those same students, based upon the codes, will be excluded from previous years in the projection calculations.  The mathematical calculations in the projections may be in error if there is no consistency in coding different student types from year to year.
 
  
 
 The two-letter STUTYPE codes used by SchoolSite Pro are explained below and are listed in order of precedence for coding each student record:
 
  
-* <ins> Charter School student </ins> (CH)- Students residing within the District boundary attending a charter school.  These students usually do not take classroom space in one of the District’s regular public schools.  These types of students can be <ins>optionally included</ins> in resident projections and resident redistricting plans and are <ins>always included</ins> in reports for staffing projections and redistricting plans based upon enrollment.
+* <ins> Charter School student </ins> (CH)- Students residing within the District boundary attending a charter school.  These students usually do not take classroom space in one of the District’s regular public schools.  These types of students can be <ins>optionally included</ins> in resident projects and resident redistricting plans and are <ins>always included</ins> in reports for staffing projections and redistricting plans based upon enrollment.
 
 * <ins> Adult Education student </ins>  (AD)- Adult education students are usually not included in a student data file, however if they are they are coded with AD.  Typically these students do not require a seat in the public schools. They are <ins>automatically excluded</ins> from both enrollment projections and all types of redistricting plans.
 
