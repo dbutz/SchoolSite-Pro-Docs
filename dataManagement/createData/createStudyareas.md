@@ -3,7 +3,7 @@
 Study Areas are the building blocks of a school district. Study areas grouped together (and coded to specific school ID numbers) form attendance boundaries. Study Areas are geographically defined, following logical boundaries of a neighborhood and are used for boundary planning and generating small area enrollment forecasts. SchoolSite Pro does not use separate feature classes for each set of school attendance areas.  Using a unique field coding method, all attendance areas are stored within the Study Area feature class attribute table.
 
 ## Source:
-Districts with established Study Areas need to map and enter the information into a geodatabase feature class or a shapefile. If your district does not have existing Study Areas, create a Study Area feature class or shapefile based on the criteria described in the next topic, ["What Are Study Areas?"](studyAreas.md). Once the district is divided into Study Areas, populate the attribute table. This involves coding each Study Area to an elementary, middle,  intermediate and high school of assignment.
+Districts with established Study Areas need to map and enter the information into a geodatabase feature class or a shapefile. If your district does not have existing Study Areas, create a Study Area feature class or shapefile based on the criteria described in the next topic, ["What Are Study Areas?"](dataManagement/studyAreas.md). Once the district is divided into Study Areas, populate the attribute table. This involves coding each Study Area to an elementary, middle,  intermediate and high school of assignment.
 
 ## Required Fields:
 1. **STDYAREA** - A field containing the unique number of the study area, defined as data type "Text" with a length of 6. No duplicate values and no special characters.
