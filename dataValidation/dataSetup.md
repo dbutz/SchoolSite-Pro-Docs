@@ -10,8 +10,8 @@ You can access Data Setup through the SchoolSite tab.
 
 There are three required datasets for use in creating plans and forecasts:
 1.	[Schools](../dataManagement/createData/createSchools.md)
-2.	[Study Areas](dbutz.github.io/dataManagement/createData/createStudyareas.md) 
-3.	[Students](dbutz.github.io/dataManagement/createData/createStudents.md)
+2.	[Study Areas](../dataManagement/createData/createStudyareas.md) 
+3.	[Students](../dataManagement/createData/createStudents.md)
 
 <p align="center">
   <img src="requiredData.png">
@@ -48,7 +48,7 @@ For more information about the data requirements for Redistricting Plans, Foreca
 
 * [Data Checks Made for Redistricting Plans](checkRedistrict.md)
 
-* [Data Checks Made for Projections](checkProjections.md)
+* [Data Checks Made for Forecasts](checkForecasts.md)
 
 * [Data Checks Made for Locator](checkLocator.md)
  
