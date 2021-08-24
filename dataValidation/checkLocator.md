@@ -11,6 +11,6 @@ There are two required datasets that are required for SchoolSite Locator:
 
 Additionally, there is one optional dataset that you may want to include:
 
-1. [Trustee Areas](../dataManagement/createData/createTrustee
+1. [Trustee Areas](../dataManagement/createData/createTrustee.md)
 
  
