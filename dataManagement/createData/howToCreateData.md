@@ -10,7 +10,7 @@ To use either of the SchoolSite Pro Extensions, three major datasets are require
 
  
 
-For SchoolSite Pro Projections Extension, there are two optional datasets that you can include but are not necessary to run the application:
+For SchoolSite Pro Forecasts Extension, there are two optional datasets that you can include but are not necessary to run the application:
 
  
 
