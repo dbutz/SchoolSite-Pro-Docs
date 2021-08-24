@@ -7,7 +7,8 @@ The assessor point dataset is created by geocoding a table of parcel information
 The best source for housing information is your local County Tax Assessor office.  Most Tax Assessors maintain a Property Characteristics file, which is available to the public for a nominal fee.  
 
 ## Required Fields:
-1. **TYPE** – a "Text" field.  It is a description of the type of housing unit contained in the assessor record.  Be sure to use the same type definitions as discussed in the tract dataset.
+1. **TYPE** – a "Text" field.  It is a description of the type of housing unit contained in the assessor record.  Be sure to use the same type definitions as discussed in the tract dataset. No NULL values or special characters in these fields.
+
  Suggested "Type" Codes:
 
  * SFD - Single family Detached
@@ -21,7 +22,7 @@ The best source for housing information is your local County Tax Assessor office
  * SFA - Single Family Attached
 
  * AFD - Affordable Housing
-2. **UNITS** – a "Short Integer" field.  This field will contain the number of units located at a particular assessor point.  For example, a single family detached would be one unit and an apartment complex could be anywhere from one to several hundred units.
+2. **UNITS** – a "Short Integer" field.  This field will contain the number of units located at a particular assessor point.  For example, a single family detached would be one unit and an apartment complex could be anywhere from one to several hundred units. No NULL values or special characters in these fields.
 
 3. **ADDRESS** (or SITUS) - a "Text" field. This field gives the address location of each parcel.  This field is used to geocode the assessor data to the street data.
 
