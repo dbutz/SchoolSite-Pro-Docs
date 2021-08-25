@@ -129,9 +129,9 @@ During setup for resident forecasts, in addition to grades 0-12 GE students, you
  
 
 ## School of Enrollment (Staffing) Forecasts
-Since forecasts by school of enrollment are based upon the underlying resident forecasts, the choices you have made regarding including or excluding students for your resident forecasts carries over into the school of enrollment forecasts.  For example, excluding special education (SE) from your resident forecasts excludes them from school of enrollment forecasts.  There are a few exceptions in that out-of-district and unmatched students are included in the school of enrollment forecasts.  To learn more about how school of enrollment forecasts are calculated, see the following help topic.
+Because school of enrollment forecasts are based on the underlying resident forecasts, the decisions you make about including or excluding students for your resident forecasts carry over into the school of enrollment forecasts.  For example, excluding special education (SE) from your resident forecasts excludes them from school of enrollment forecasts.  There are a few exceptions in that out-of-district and unmatched students are included in the school of enrollment forecasts.  To learn more about how school of enrollment forecasts are calculated, see the following help topic.
  
- ## Davis Demographics' Student Type Classifications in order of priority: 
+ _Davis Demographics' Student Type Classifications in order of priority:_ 
  
 <table>
 <TR>
