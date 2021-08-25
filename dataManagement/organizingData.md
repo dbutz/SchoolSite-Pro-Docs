@@ -24,11 +24,11 @@ Data should, if possible, be stored on an shared network file server for access 
 
  
 
-Data is stored by "school year" so that the most recent updated mapping and other data can be easily located and a logical progression of historical data can be created.  These folders under GIS_DATA are indicated by Schlyr1415 (ie. school year 2014-15), Schlyr1516 (school year 2015/16), etc.  As a new year approaches in July, a new folder can be created in Windows Explorer or ArcCatalog and certain data copied into the new folder for ongoing update and maintenance.
+Data is stored by "school year" so that the most recent updated mapping and other data can be easily located and a logical progression of historical data can be created.  These folders under GIS_DATA are indicated by SY_1920 (ie. school year 2019-2020), SY_2021 (school year 2020-2021), etc.  As a new year approaches in July, a new folder can be created in Windows Explorer or ArcCatalog and certain data copied into the new folder for ongoing update and maintenance.
 
  
 
-Under each school year folder, we have created additional folders which organize our data holdings by type.  Data types include our geodatabases (GDB folder), map documents that we create within ArcMap (Map_Docs folder), layer files that we also create in ArcMap and that are used to quickly add new symbolized layers within map documents (Layers folder), and our SchoolSite Pro Projections and Redistricting Plans which are stored under the SchoolSite Pro folder.
+Under each school year folder, we have created additional folders which organize our data holdings by type.  Data types include our geodatabases (GDB folder), map documents that we create within ArcGIS Pro (Map_Docs folder), layer files that we also create in ArcGIS Pro and that are used to quickly add new symbolized layers within map documents (Layers folder), and our SchoolSite Pro Projections and Redistricting Plans which are stored under the SchoolSite Pro folder.
 
  
 
@@ -37,7 +37,7 @@ Under the GDB folder are several Esri geodatabases (typically file geodatabases 
 
  
 
-The Students_091614.GDB geodatabase contains all items related to the geocoding of students including the original data table extract (in this example rawstudent.txt) from the district's student information system (SIS).  The date of the student extract from the SIS in this example is 09/16/2014.  Additional student geocoding during other times of the year, if necessary and desired, are placed within additional Student geodatabases with appropriate date related names. All geocoded students are placed within the geodatabase as the feature class, StudentsAll.
+The Students_100519.GDB geodatabase contains all items related to the geocoding of students including the original data table extract (in this example rawstudent.txt) from the district's student information system (SIS).  The date of the student extract from the SIS in this example is 10/05/2019.  Additional student geocoding during other times of the year, if necessary and desired, are placed within additional Student geodatabases with appropriate date related names. All geocoded students are placed within the geodatabase as the feature class, StudentsAll.
 
  
 
@@ -46,7 +46,7 @@ The Misc.GDB geodatabase contains feature classes that typically do not change (
  
 
 ## Map_Docs Folder
-This folder contains all of the map documents (.mxd)  that you might create within ArcMap during the course of the year. For further organizational purposes, you might consider creating subfolders for each individual map document which might contain the .mxd as well as supporting files that are created during analysis or specific mapping purposes within that map document. This possible sub-folder structure allows you to quickly remove or delete selected map documents that are no longer needed (by deleting the subfolder) including all of the supporting files associated with the map document. This is a good way to keep your map documents and any associated files organized.
+This folder contains all of the map documents (.mxd)  that you might create within ArcGIS Pro during the course of the year. For further organizational purposes, you might consider creating subfolders for each individual map document which might contain the .mxd as well as supporting files that are created during analysis or specific mapping purposes within that map document. This possible sub-folder structure allows you to quickly remove or delete selected map documents that are no longer needed (by deleting the subfolder) including all of the supporting files associated with the map document. This is a good way to keep your map documents and any associated files organized.
 
  
 
@@ -60,7 +60,7 @@ The same discussion for the Map_Docs folder holds true for the Layers folder. Se
  
 
 ## SchoolSite Pro Folder
-The SchoolSite Pro folder can be organized in a variety of ways. One solution is to create a subfolder for redistricting plans and a second subfolder for projections. Each folder would contain a SchoolSite Pro geodatabase with the appropriate items. By maintaining your projections and redistricting plans under the SchoolSite Pro folder in a particular school year, the user can always go back to revisit  (ie. open within SchoolSite Pro) the projections or boundary plan options considered in previous years.
+The SchoolSite Pro folder can be organized in a variety of ways. One solution is to create a subfolder for redistricting plans and a second subfolder for forecasts. Each folder would contain a SchoolSite Pro geodatabase with the appropriate items. By maintaining your forecasts and redistricting plans under the SchoolSite Pro folder in a particular school year, the user can always go back to revisit  (ie. open within SchoolSite Pro) the forecasts or boundary plan options considered in previous years.
 
 
  
