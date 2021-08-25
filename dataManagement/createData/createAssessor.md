@@ -26,7 +26,7 @@ The best source for housing information is your local County Tax Assessor office
 
 3. **ADDRESS** (or SITUS) - a "Text" field. This field gives the address location of each parcel.  This field is used to geocode the assessor data to the street data.
 
- ## Suggested Field:
+ ##Suggested Field:
 1. **YearBuilt** – a "Short Integer" field.  This field will contain the year the unit was built and can be used to create student yield factors.
 
 
