@@ -322,7 +322,7 @@ The District will have to decide what information would be most useful in your p
 * Zip
 
 ## Excluding students from the redistricting process:
-During the creation of a plan by current students and current enrollment you will be asked to select a field from which you can choose one or more categories of students that can be excluded from the redistricting process. The identified students will remain at their current school of attendance regardless of any boundary changes. These students usually belong to a campus specific program such as special needs, magnet school, or academy etc.  
+During the creation of a plan by current students and current enrollment you will be asked to select a field from which you can choose one or more categories of students that can be excluded from the redistricting process. The identified students will remain at their current school of attendance regardless of any boundary changes. These students usually belong to a campus specific program (special needs, magnet school,academy, etc.)  
 
 ## Points to Remember:
 * All fields you wish to have available for reporting in the Redistricting Plans Extension, must be included in the student table before geocoding is started
