@@ -35,7 +35,7 @@ However, if the District would rather have Davis Demographics create the data, w
 
  
 
-### [Davis Demographics, Inc.](www.davisdemographics.com) 
+### [Davis Demographics, Inc.](https://davisdemographics.com/) 
 
 11850 Pierce St. Suite 200 Riverside, CA 92505
 
