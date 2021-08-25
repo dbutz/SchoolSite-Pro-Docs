@@ -1,4 +1,4 @@
-# Creating Trustee Areas
+# Creating Trustee Areas- REVIEWED
 ## Trustee Areas - a polygon feature class
 A trustee area is a polygon dataset with each polygon assigned to a specific board member. The Trustee number coded in the Trustee dataset should correspond to the Trustee field on the Study Area dataset.
 
