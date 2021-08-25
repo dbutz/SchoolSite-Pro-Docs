@@ -1,4 +1,4 @@
-# How To Create Your Own Data
+# How To Create Your Own Data - REVIEWED
 
 To use either of the SchoolSite Pro Extensions, three major datasets are required:
 
@@ -28,15 +28,9 @@ Each dataset has certain attribute data requirements which are listed in the fol
 
 * File geodatabase
 
-* Personal geodatabase
 
-* Coverage
 
-* Shapefile
-
- 
-
-File geodatabase is the preferred format. Please note that creating your own data assumes proficiency in ArcGIS software.
+Please note that creating your own data assumes proficiency in ArcGIS software.
 
  
 
