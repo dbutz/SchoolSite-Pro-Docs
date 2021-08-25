@@ -40,7 +40,7 @@ Although the [feature class](https://desktop.arcgis.com/en/arcmap/latest/manage-
 
  
 
-Each of the three dataset attributes must be precisely defined in order to run the application.  To learn about field/attribute definitions required for SchoolSite Pro, refer to the topic "How to Create Your Own Data".
+Each of the three dataset attributes must be precisely defined in order to run the application.  To learn about field/attribute definitions required for SchoolSite Pro, refer to the topic ["How to Create Your Own Data"](howToCreateData.md).
 
 **See Also:**
 
