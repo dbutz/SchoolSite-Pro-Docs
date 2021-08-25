@@ -1,4 +1,4 @@
-# Creating Study Areas
+# Creating Study Areas - REVIEWED
 ## Study Areas - a polygon feature class
 Study Areas are the building blocks of a school district. Study areas grouped together (and coded to specific school ID numbers) form attendance boundaries. Study Areas are geographically defined, following logical boundaries of a neighborhood and are used for boundary planning and generating small area enrollment forecasts. SchoolSite Pro does not use separate feature classes for each set of school attendance areas.  Using a unique field coding method, all attendance areas are stored within the Study Area feature class attribute table.
 
