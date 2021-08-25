@@ -325,9 +325,9 @@ The District will have to decide what information would be most useful in your p
 During the creation of a plan by current students and current enrollment you will be asked to select a field from which you can choose one or more categories of students that can be excluded from the redistricting process. The identified students will remain at their current school of attendance regardless of any boundary changes. These students usually belong to a campus specific program such as special needs, magnet school, or academy etc.  
 
 ## Points to Remember:
-* All fields you wish to have available for reporting in the Redistricting Extension, must be included in the student table before geocoding is started
+* All fields you wish to have available for reporting in the Redistricting Plans Extension, must be included in the student table before geocoding is started
 
-* Data from related tables must be physically joined to the geocoded student table prior to using the student data in Data Setup for use in redistricting plans.
+* Data from related tables must be physically joined to the geocoded student table prior to using the student data in [Data Setup](../dataValidation/dataSetup.md) for use in redistricting plans.
 
 * No null values or special characters can be in these fields before attempting to create a new redistricting plan.
 
