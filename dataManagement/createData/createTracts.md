@@ -1,4 +1,4 @@
-# Creating Tracts
+# Creating Tracts - REVIEWED
 ## Tract - a polygon dataset
 The tract dataset describes the location and phasing for planned residential development within the district. Each residential project can be represented by either a point or polygon feature. However, polygons are the preferred method since it more accurately depicts the size and location of the projects.  
 
