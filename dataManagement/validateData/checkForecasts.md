@@ -4,7 +4,7 @@ Below is a list of the data checks that SchoolSite Pro makes when using DataSet 
 ## Step 1: Validate individual feature classes
 There are three required fields that must be added to the geocoded student attribute table in order for SchoolSite Pro to properly identify students to be excluded or optionally included in the enrollment forecasts.:
 
-1. [Study Areas](../createData/createStudyarea.md)
+1. [Study Areas](../createData/createStudyareas.md)
 2. [Schools](../createData/createSchools.md)
 3. [Students](../createData/createStudents.md)
  
