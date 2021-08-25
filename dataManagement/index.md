@@ -19,3 +19,9 @@
 - [Creating trustee areas](createData/createTrustee.md)
 - [Creating streets](createData/createStreets.md)
 
+### Importing and Validating Data
+* [Data Set Up](validateData/dataSetup.md)
+* [Data Checks Made for Redistriciting](validateData/checkRedistrict.md)
+* [Data Checks Made for Projections](validateData/checkProjections.md)
+* [Data Checks Made for Locator](validateData/checkLocator.md) 
+
