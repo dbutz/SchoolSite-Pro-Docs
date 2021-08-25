@@ -4,7 +4,7 @@ Welcome to the SchoolSite Forecast Extension
 
 ### Tour of the forecast ribbon
 * [Sample Link](index.md)
-* 
+
 ### Forecast Properties
 * [Sample Link](index.md)
 
