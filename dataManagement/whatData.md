@@ -44,7 +44,7 @@ Each of the three dataset attributes must be precisely defined in order to run t
 
 **See Also:**
 
-[What Are Study Areas?](studyareas.md)
+[What Are Study Areas?](studyAreas.md)
 
 [Where Can I Obtain Data?](obtainData.md)
 
