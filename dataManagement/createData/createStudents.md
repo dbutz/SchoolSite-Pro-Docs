@@ -1,4 +1,4 @@
-# Creating Students
+# Creating Students - REVIEWED
 
 ## Students - a point feature class
 The student point feature class is created by geocoding a table of student information to a street centerline layer, address point layer or other reference data typically used for geocoding.  When geocoding students to street centerlines, it is important to use offset parameters to be sure that student points are not placed directly on a street and they fall within a distinct study area and attendance boundary.  It should be noted that in order to effectively develop enrollment forecasts, you will need a minimum of three years (preferably four years) of geocoded students all extracted from the SIS at, or close, to the same date each year.  That date is usually the fall reporting period each year for fall-generated forecasts.
@@ -68,7 +68,7 @@ There are slight variations in how classification codes are used in creating eac
  
 
 ## Current Resident Students Plan
-During setup for Current Resident Students, non-K12 students as well as the following classes of students are automatically excluded from boundary planning as well as reporting in the plan statistics window:  AD, NP, AE, HH, OD, UM
+During setup for Current Resident Students, non-K12 students as well as the following classes of students are automatically excluded from boundary planning as well as reporting in the plan statistics window:  AD, NP, AE, HH
 
  
 
@@ -86,11 +86,11 @@ The students moved as well as reported in the statistics window are those that w
  
 
 ## Current Enrollment Plan
-During setup for plans based upon Current Enrollment, the software will determine which students are outside the District (OD) or non-geocoded (UM).  Those students will not be moved during the boundary planning process.  In the statistics window, OD and UM students will be listed by their school of enrollment under a separate OD_UM column.   Of the remining geocoded students residing in the District, those students outside of grades -1 through 12 are automatically excluded from the boundary planning process but are reported with their enrolled school under the Non_PK12 column in the statistics window.
+During setup for plans based upon Current Enrollment, the software will determine which students are outside the District (OD) or non-geocoded (UM).  Those students will not be moved during the boundary planning process.  In the statistics window non-resident and unmatched students will be listed by their school of enrollment under a separate OD_UM column.   Of the remining geocoded students residing in the District, those students outside of grades -1 through 12 are automatically excluded from the boundary planning process but are reported with their enrolled school under the Non_PK12 column in the statistics window.
 
  
 
-Once the out of District, unmatched and non-PK12 students have been identified, you have an option to choose a field in your student data to identify which of the remaining -1 through 12th grade students you may wish to exclude from boundary planning and reporting.  The default field is STUTYPE.  Using the STUTYPE field, you have the <ins>option of excluding</ins> any of the remaining classes of students, such as SE, OT, IS, CH, etc.  For those that you choose to exclude, they will not be moved during the boundary planning process, however, they will appear as part of the enrollment at their school under a separate column in the statistics window similar to Non_PK12 and OD_UM.
+Once the non-resident, unmatched and non-PK12 students have been identified, you have an option to choose a field in your student data to identify which of the remaining -1 through 12th grade students you may wish to exclude from boundary planning and reporting.  The default field is STUTYPE.  Using the STUTYPE field, you have the <ins>option of excluding</ins> any of the remaining classes of students, such as SE, OT, IS, CH, etc.  For those that you choose to exclude, they will not be moved during the boundary planning process, however, they will appear as part of the enrollment at their school under a separate column in the statistics window similar to Non_PK12 and OD_UM.
 
  
 
@@ -120,11 +120,11 @@ The use of the STUTYPE field and the classification of students for creating a r
 
  
 
-During setup for resident forecasts, grades 0 through 12 are automatically included for forecasting and the following classes of students are automatically excluded from the forecast calculations as well as any reports based upon the forecasts:  AD, NP, AE, HH, OD and UM.
+During setup for resident forecasts, grades -1 through 12 are automatically included for forecasting and the following classes of students are automatically excluded from the forecast calculations as well as any reports based upon the forecasts:  AD, NP, AE, HH
 
  
 
-During setup for resident forecasts, in addition to grades 0-12 GE students, you have the option of including the following classes of students:  CH, OT, SE, and/or IS.  If you include these students they will be incorporated in the forecasts along with all other students at their appropriate grade level. If you choose not to include them, they will not appear in the forecasts or any reports.
+During setup for resident forecasts, in addition to grades -1-12 GE students, you have the option of including the following classes of students:  CH, OT, SE, and/or IS.  If you include these students they will be incorporated in the forecasts along with all other students at their appropriate grade level. If you choose not to include them, they will not appear in the forecasts or any reports.
 
  
 
