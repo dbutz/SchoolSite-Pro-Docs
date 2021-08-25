@@ -1,6 +1,6 @@
 
 # SchoolSite Redistricting Plans
-
+Welcome to the SchoolSite Redistricting Extension
 &nbsp;
 
 ### Managing your plans
