@@ -327,7 +327,7 @@ During the creation of a plan by current students and current enrollment you wil
 ## Points to Remember:
 * All fields you wish to have available for reporting in the Redistricting Plans Extension, must be included in the student table before geocoding is started
 
-* Data from related tables must be physically joined to the geocoded student table prior to using the student data in [Data Setup](../dataValidation/dataSetup.md) for use in redistricting plans.
+* Data from related tables must be physically joined to the geocoded student table prior to using the student data in [Data Setup](../../dataValidation/dataSetup.md) for use in redistricting plans.
 
 * No null values or special characters can be in these fields before attempting to create a new redistricting plan.
 
