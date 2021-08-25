@@ -33,7 +33,7 @@ A street centerline database can be obtained from different sources. Data from y
 
 1. [Esri StreetMap Premium](https://www.esri.com/en-us/arcgis/products/arcgis-streetmap-premium/overview)
 
-1. Davis Demographics & Planning, Inc.
+1. [Davis Demographics & Planning, Inc.](https://davisdemographics.com/consulting/)
 
  
 
