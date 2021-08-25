@@ -1,5 +1,5 @@
 # Organizing Your Data
-The diagram below is a possible suggestion for organizing all of your GIS data holdings as well as your SchoolSite Pro Redistricting Plans and Projections.
+The diagram below is a possible suggestion for organizing all of your GIS data holdings as well as your SchoolSite Pro Redistricting Plans and Forecasts.
 
 <p align="center">
   <img src="organizingData.PNG">
@@ -9,7 +9,7 @@ The diagram below is a possible suggestion for organizing all of your GIS data h
 
 * Organizes data by school year to provide for archiving older data for easy access.
 
-* Organizes data by functions including map data geodatabases in one location as well as map documents and annual SchoolSite Pro projections (and possible redistricting plans) in other easily recognizable locations.
+* Organizes data by functions including map data geodatabases in one location as well as map documents and annual SchoolSite Pro forecasts (and possible redistricting plans) in other easily recognizable locations.
 
 * Provides for easy copying of main data sets (streets, study areas, schools, etc.) into future years for ongoing updates and maintenance.
 
@@ -28,7 +28,7 @@ Data is stored by "school year" so that the most recent updated mapping and othe
 
  
 
-Under each school year folder, we have created additional folders which organize our data holdings by type.  Data types include our geodatabases (GDB folder), map documents that we create within ArcGIS Pro (Map_Docs folder), layer files that we also create in ArcGIS Pro and that are used to quickly add new symbolized layers within map documents (Layers folder), and our SchoolSite Pro Projections and Redistricting Plans which are stored under the SchoolSite Pro folder.
+Under each school year folder, we have created additional folders which organize our data holdings by type.  Data types include our geodatabases (GDB folder), map documents that we create within ArcGIS Pro (Map_Docs folder), layer files that we also create in ArcGIS Pro and that are used to quickly add new symbolized layers within map documents (Layers folder), and our SchoolSite Pro Forecasts and Redistricting Plans which are stored under the SchoolSite Pro folder.
 
  
 
