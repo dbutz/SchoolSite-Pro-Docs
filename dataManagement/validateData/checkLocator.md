@@ -5,8 +5,8 @@ Below is a list of the data checks that SchoolSite Pro makes when using the Data
 ## Step 1: Validate individual feature classes
 There are two required datasets that are required for SchoolSite Locator:
 
-1. [Study Areas](../dataManagement/createData/createStudyareas.md)
-2. [Schools](../dataManagement/createData/createSchools.md)
+1. [Study Areas](../createData/createStudyareas.md)
+2. [Schools](../createData/createSchools.md)
  
 
 Additionally, there is one optional dataset that you may want to include:
