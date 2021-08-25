@@ -4,7 +4,7 @@ The tract dataset describes the location and phasing for planned residential dev
 
  
 
-The tract dataset is not required if your district has little or no development planned. However, if your district has a number of planned projects, it is useful to maintain those projects and their descriptive data in a map dataset. SchoolSite Pro will extract this information for use in the forecast model if desired. Districts with little or no planned development may not need a tract map dataset, but may wish to enter the few housing units planned directly into the Forecast Properties dialog box for SchoolSite Pro.  
+The tract dataset is not required if your district has little or no residential development planned. However, if your district has a number of planned projects, it is useful to maintain those projects and their descriptive data in a map dataset. SchoolSite Pro will extract this information for use in the forecast model if desired. Districts with little or no planned development may not need a tract map dataset, but may wish to enter the few housing units planned directly into the Forecast Properties dialog box for SchoolSite Pro.  
 
 ## Source:
 This type of housing information is available through most local city and county planning agencies.  In most areas, developers are required to submit tract map applications for any residential housing construction.  Copies of tentative tract maps can be obtained at little or no cost.  Some districts have city and county agencies automatically send a copy of the tentative tract map to the facilities planning department.  Contact your local planning agency for further information on receiving copies or notices of tract map applications.
