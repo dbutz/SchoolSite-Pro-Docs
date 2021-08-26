@@ -3,7 +3,7 @@
 
 - [Installation](installation.md)
 - [Licensing](licensing.md)
-- [Data validation](dataValidation/index.md)
+- [Data validation](dataManagement/validateData/index.md)
 
 ### Boundary Planning
 - [Creating your first plan](createPlan.md)
