@@ -37,15 +37,18 @@ There are three required datasets for use in creating plans and forecasts:
   </tr>
 </table>
   
-After each layer is scanned, if there is anything to report about your data then a table will appear with a log of all the warning or errors found. 
+After each layer is scanned, if there is anything to report about your data then a table will appear with a log of all the warnings or errors found. 
   
 If your data is valid, a green check mark will appear next to it.
 
-If you choose data that is missing an optional field or has data that not be complete, you will see a warning in the Data Setup table. In the example below, the Schools data resulted in a warning sign. To find out what happened, read the CustomMessage column. You will be able to create a plan without fixing the warning. 
+If your data has warnings that you should be aware of, an exclaimation point will appear next to it. These warnings indicate areas of improvment or highlight aspects of your data that seem incorrect on the surface. For example, if you have the Capacity field on the school data but it is empty it will show a wanring to alert you that if you fill in school capacity values then you will be able to make more useful reports.
 
-If a red, "Not Valid" icon appears, you must fix the error and run it through the Data Validator again before using it to create a plan, forecast or locator.
+If your data has errors, a red "Not Valid" icon appears and you must fix the errors and rescan the data until you get a green check mark before importing it to create a plan or forecast.
 
+In the example below, the Student data resulted in a warning sign. To find out what the errors are you can refer to the Data Setup Messages table. You can choose to ignore warnnig and proceed to import the data anyways into your SchoolSite geodatabse and use it for making plans or forecasts.
 
+<img src = "dataSetupWarning.png">
+<img src = "dataSetupWarningTable.png">
 
 If you have need further assistance, the log files can be emailed to Davis Demographics' Tech Support by exporting your results and emailing them to techsupport@davisdemographics.com.
 
