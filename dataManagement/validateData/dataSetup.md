@@ -8,7 +8,7 @@ You can access Data Setup through the SchoolSite ribbon.
   <img src="datasetup.png">
 </p>
 
-There are three datasets required to create plans and forecasts:
+There are three datasets required to create plans and forecasts. Visit the links below to learn more about the requirements for each dataset:
 1.	[Schools](../createData/createSchools.md)
 2.	[Study Areas](../createData/createStudyareas.md) 
 3.	[Students](../createData/createStudents.md)
@@ -61,10 +61,8 @@ If you have warnings, you can choose to continue anyways and import the data or 
 
 <img src = "dataImported.png">
 
-If you have need further assistance, the list of warning and errors in the Data Setup Messages table can be emailed to Davis Demographics' Tech Support by exporting table results and emailing them to techsupport@davisdemographics.com.
-
 For more information about the data requirements for creating Redistricting Plans and Forecasts, view the following topics:
-
 * [Data Checks Made for Redistricting Plans](checkRedistrict.md)
-
 * [Data Checks Made for Forecasts](checkForecasts.md)
+
+If you have need further assistance, the list of warning and errors in the Data Setup Messages table can be emailed to Davis Demographics' Tech Support by exporting table results and emailing them to techsupport@davisdemographics.com.
