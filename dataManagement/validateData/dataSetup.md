@@ -1,5 +1,5 @@
 # Using Data Setup
-## SchoolSite Pro Data Setup for SchoolSite Redistricting Plans, SchoolSite Forecasts, and SchoolSite Locator
+## SchoolSite Pro Data Setup for SchoolSite Redistricting Plans & Forecasts
 The SchoolSite Pro Data Setup imports and checks your GIS data for compatibility with SchoolSite extensions. In each Pro project, you will be importing one set (or copy) of data that will be used as the basis for all plans and forecasts created in that Pro project. If you need to use different source data such as a different student file or different studyarea data, you will want to create a new Pro project based around that set of data.
 
 You can access Data Setup through the SchoolSite ribbon.
