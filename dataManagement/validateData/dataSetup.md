@@ -53,8 +53,13 @@ To learn more about the errors, you can refer to the Data Setup Messages table. 
 <img src = "dataSetupWarningTable.png">
 
 ## Second round of data valiation
-In the second round of data validation, the software will check all three featureclasses and how they relate to each other. For example, schools that are coded to studyareas must actually exist in the Schools featureclass. Otherwise, this will report as an error. Another example is making sure that the school's each student are enrolled also exist in the Schools featureclass.
+In the second round of data validation, the software will check all three featureclasses and how they relate to each other. For example, schools that are coded to studyareas must actually exist in the Schools featureclass. Otherwise, this will report as an error. Another example is making sure that the school's each student are enrolled also exist in the Schools featureclass. If there are any warnings or errors found at this time, they will be reported in the Data Setup Messages table just like before. Here is an example of some inconsistencies between the Student data and the School data.
 
+<img src = "dataSetupWarningTableStep2.png">
+
+If you have warnings, you can choose to continue anyways and import the data or you can stop at this point to review the warnings and make any corrections. Once you choose to continue, these three featureclasses wil be copied from their current location into the SchoolSite file geodatabase that is stored in the ArcGIS Pro project's default directory. If you hover your mouse over the name of the imported featureclasses, a tooltip will appear showing the original path of that data for reference.
+
+<img src = "dataImported.png">
 
 If you have need further assistance, the list of warning and errors in the Data Setup Messages table can be emailed to Davis Demographics' Tech Support by exporting table results and emailing them to techsupport@davisdemographics.com.
 
