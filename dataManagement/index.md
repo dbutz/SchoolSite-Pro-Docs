@@ -23,5 +23,5 @@
 * [Data Set Up](validateData/dataSetup.md)
 * [Data Checks Made for Redistriciting](validateData/checkRedistrict.md)
 * [Data Checks Made for Projections](validateData/checkForecasts.md)
-* [Data Checks Made for Locator](validateData/checkLocator.md) 
+* [Data Checks Made for Locator](validateData/checkLocator.md) (Do we keep this here or make this just SchoolSite Pro??)
 
