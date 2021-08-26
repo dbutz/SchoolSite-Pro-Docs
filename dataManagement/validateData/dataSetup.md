@@ -8,7 +8,7 @@ You can access Data Setup through the SchoolSite ribbon.
   <img src="datasetup.png">
 </p>
 
-There are three required datasets for use in creating plans and forecasts:
+There are three datasets required to create plans and forecasts:
 1.	[Schools](../dataManagement/createData/createSchools.md)
 2.	[Study Areas](../dataManagement/createData/createStudyareas.md) 
 3.	[Students](../dataManagement/createData/createStudents.md)
