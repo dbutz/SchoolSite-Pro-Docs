@@ -14,7 +14,7 @@ There are three required datasets for use in creating plans and forecasts:
 3.	[Students](../dataManagement/createData/createStudents.md)
 
 
-##First round of data valiation
+## First round of data valiation
 In the first round of data validation, the software will check each individual featureclass to make sure it has the required fields and that they are populated correctly.
 
 1. In the Data Setup pane, select the  schools, study areas and students’ files you want to import/validate and it will automatically run once you've selected your file.
@@ -52,7 +52,7 @@ To learn more about the errors, you can refer to the Data Setup Messages table. 
 
 <img src = "dataSetupWarningTable.png">
 
-##Second round of data valiation
+## Second round of data valiation
 In the second round of data validation, the software will check all three featureclasses and how they relate to each other. For example, schools that are coded to studyareas must actually exist in the Schools featureclass. Otherwise, this will report as an error. Another example is making sure that the school's each student are enrolled also exist in the Schools featureclass.
 
 
