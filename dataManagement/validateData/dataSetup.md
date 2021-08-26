@@ -45,14 +45,17 @@ If your data has warnings that you should be aware of, an exclaimation point wil
 
 If your data has errors, a red "Not Valid" icon appears and you must fix the errors and rescan the data until you get a green check mark before importing it to create a plan or forecast.
 
-In the example below, the Student data resulted in a warning sign. To find out what the errors are you can refer to the Data Setup Messages table. You can choose to ignore warnnig and proceed to import the data anyways into your SchoolSite geodatabse and use it for making plans or forecasts.
+In the example below, the Student data resulted in a warning sign. 
 
 <img src = "dataSetupWarning.png">
+
+To find out what the errors are you can refer to the Data Setup Messages table. You can choose to ignore warnnig and proceed to import the data anyways into your SchoolSite geodatabse and use it for making plans or forecasts.
+
 <img src = "dataSetupWarningTable.png">
 
-If you have need further assistance, the log files can be emailed to Davis Demographics' Tech Support by exporting your results and emailing them to techsupport@davisdemographics.com.
+If you have need further assistance, the list of warning and errors in the Data Setup Messages table can be emailed to Davis Demographics' Tech Support by exporting table results and emailing them to techsupport@davisdemographics.com.
 
-For more information about the data requirements for Redistricting Plans, Forecasts, and Locators, view the following topics:
+For more information about the data requirements for creating Redistricting Plans and Forecasts, view the following topics:
 
 * [Data Checks Made for Redistricting Plans](checkRedistrict.md)
 
