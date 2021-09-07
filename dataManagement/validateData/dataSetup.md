@@ -48,12 +48,12 @@ In the example below, the Student data resulted in a warning sign.
 
 <img src = "dataSetupWarning.png">
 
-To learn more about the errors, you can refer to the Data Setup Messages table. You can choose to ignore warnnig and proceed to import the data anyways into your SchoolSite geodatabse and use it for making plans or forecasts.
+To learn more about the errors, you can refer to the Data Setup Messages table. You can choose to ignore the warning and proceed to import the data anyways into your SchoolSite geodatabse and use it for making plans or forecasts.
 
 <img src = "dataSetupWarningTable.png">
 
-## Second round of data valiation
-In the second round of data validation, the software will check all three featureclasses and how they relate to each other. For example, schools that are coded to studyareas must actually exist in the Schools featureclass. Otherwise, this will report as an error. Another example is making sure that the school's each student are enrolled also exist in the Schools featureclass. If there are any warnings or errors found at this time, they will be reported in the Data Setup Messages table just like before. Here is an example of some inconsistencies between the Student data and the School data.
+## Second Round of Data Valiation
+In the second round of data validation, the software will check all three feature classes and how they relate to each other. For example, schools that are coded to studyareas must actually exist in the Schools featureclass. Otherwise, this will report as an error. Another example is making sure that the school's each student are enrolled also exist in the Schools featureclass. If there are any warnings or errors found at this time, they will be reported in the Data Setup Messages table just like before. Here is an example of some inconsistencies between the Student data and the School data.
 
 <img src = "dataSetupWarningStep2.png">
 
