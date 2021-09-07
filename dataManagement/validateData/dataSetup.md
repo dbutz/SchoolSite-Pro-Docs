@@ -14,7 +14,7 @@ There are three datasets required to create plans and forecasts. Visit the links
 3.	[Students](../createData/createStudents.md)
 
 
-## First round of data valiation
+## First Round of Data Valiation
 In the first round of data validation, the software will check each individual featureclass to make sure it has the required fields and that they are populated correctly.
 
 1. In the Data Setup pane, select the  schools, study areas and students’ files you want to import/validate and it will automatically run once you've selected your file.
