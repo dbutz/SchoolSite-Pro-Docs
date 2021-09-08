@@ -15,7 +15,7 @@ Create plans based upon student projections by residence (requires a projection 
 &nbsp;
 
 ### Managing your plans
-* [Create New Plan](../createPlan/index.md)
+* [Create New Plan](createPlan/index.md)
 
 ### Modifying your plans
 * [Sample Link](index.md)
