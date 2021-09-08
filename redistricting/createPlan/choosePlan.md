@@ -1,6 +1,6 @@
 # Choosing the Right Redistriciting Plan
 ## Create New Plan 
-To begin a new redistricting plan: SchoolSite > Create > Plan > Residence 
+To begin a new redistricting plan: SchoolSite > Create > Plan 
 
 ## Types of Redistricting Plans 
 There are three types of plans that can be created in SchoolSite Pro:
