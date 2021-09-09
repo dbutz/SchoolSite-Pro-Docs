@@ -2,6 +2,8 @@
 ## Create New Plan 
 To begin a new redistricting plan: SchoolSite > Create > Plan 
 
+![Plan](plan.png)
+
 ## Types of Redistricting Plans 
 There are three types of plans that can be created in SchoolSite Pro:
 
