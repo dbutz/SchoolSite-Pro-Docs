@@ -14,7 +14,7 @@ To access the Statistics tab of the Plan Properties dialog box from the Redistri
 
 Choose Redistricting > Plan Properties > Statistics
 
-![currentResidence](statImages/currentResidnce.png)
+![currentResidence](statImages/currentResidence.png)
 
 The Statistics Tab window is divided into four main sections: Select Schools, Select Grades, Select Grade Ranges, and Select Statistic Type.  
 
@@ -56,7 +56,7 @@ Other Information
 Forecast Year
 If you created your plan based on forecast data, you can select the pull down menu in the Statistics tab, and select any year of the forecast to report (including maturation) to view it in the Statistics Window.  This is useful for creating one future boundary plan and quickly viewing the forecasted number of students for this plan in various future years.
 
-![forecastPlan](../createPlan/planImages/forecastPlan.md)
+![forecastPlan](../createPlan/planImages/forecastPlan.png)
 
 When you select a specific projected year in the Statistics tab of Plan Properties, the Statistics Window will display the year of projection that you selected.
 
