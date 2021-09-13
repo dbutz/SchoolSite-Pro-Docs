@@ -4,3 +4,9 @@ You may wish to create boundaries for an existing school facility that is not cu
  
 
 If necessary, save assignments and stop assigning study areas.
+From the SchoolSite Redistricting Extension Toolbar, choose the assign tab, then Update Schools.
+
+![addExisitngSchool](addExistingSchool.png)
+
+All schools not represented in the current active plan are listed in the drop-down box.  Choose one of the schools, then click OK. SchoolSite will add the school point location to the map and add the name of the school and a new color to the plan in the table of contents.  You may now start assigning study areas to the added school.  
+
