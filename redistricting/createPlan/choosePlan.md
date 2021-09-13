@@ -9,7 +9,7 @@ There are three types of plans that can be created in SchoolSite Pro:
 
 ### Type 1) Create Plan Based on Current Residence
 A redistricting plan based upon current resident students displays the number of students actually residing within each attendance area whether or not they are enrolled in the area's assigned school.  As attendance areas are modified, all students residing in the selected areas are moved to the newly assigned school of attendance.  This selection is most useful for facility planning and for understanding the true impact of student population distribution in relation to school locations.
-
+![adamESCurrent](planImages/plan.png)
  ### Type 2) Create Plan Based on Enrollment 
 A plan based upon resident and enrolled students displays statistics for both the current resident student population of each attendance area (same as the Current Resident Student plan) as well as the estimated enrollment totals at each school.  Changes in enrollment totals as attendance areas are modified are determined by a pre-defined set of rules based upon each students’ program, grade and current school of enrollment. 
 
