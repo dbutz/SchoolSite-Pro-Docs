@@ -17,3 +17,5 @@ A plan based upon resident and enrolled students displays statistics for both th
 
 ### Type 3) Create Plan Based on Forecasts
 A redistricting plan based upon projected resident students displays the current and forecasted resident student population of each attendance area.  The statistics presented in this plan illustrate the true growth and decline of the student population within areas of the District and are useful for school opening and closure analysis as well as defining attendance areas that match forecasted resident population with school site capacities around the District. This is the proper method for long-term facility and attendance area planning
+
+![forecastPlan](planImages/forecastPlan.png)
