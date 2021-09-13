@@ -10,7 +10,7 @@ When assigning study areas, lease refrain from using any other esiting tools and
 To reassign study areas from existing schools, from the assign ribbon, click on the drop-down arrow under "Assign study areas to:" and select the school to which you wish to assign the study area(s).
 
 
-![assignSchools](modifyImages/assignSchools.png)
+![assignSchool](modifyImages/assignSchool.png)
 
 Once a school has been chosen, choose a select feature tool from the toolbar. Listed in order, the available selection tools are:
 * Select Features
