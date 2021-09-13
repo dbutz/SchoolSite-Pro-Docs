@@ -4,7 +4,7 @@ In order to simulate the closing of a school, the assigned study areas must firs
 
  From the SchoolSite Redistricting toolbar, choose the assign tB, school, then remove unassigned school(s). Removing unassigned schools will delete the school point location on the map and remove the school reference in the plan in the table of contents.  
  
- ![closingSchools](closingSchools.png)
+ ![closingSchools](modifyImages/closingSchools.png)
 
  
 To reassign study areas read the [Changing Boundaries Between Schools](changeBoundaires.md) topic.
