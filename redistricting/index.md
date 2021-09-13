@@ -24,4 +24,4 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 * [Sample Link](index.md)
 
 ### Plan properties and statistics
-* [STatistics](statistics/index.md)
+* [Statistics](statistics/index.md)
