@@ -18,7 +18,7 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 * [Create New Plan](createPlan/index.md)
 
 ### Modifying your plans
-* [Sample Link](index.md)
+* [Modifying Plans](index.md)
 
 ### Sharing your plans
 * [Sample Link](index.md)
