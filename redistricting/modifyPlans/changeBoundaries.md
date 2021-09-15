@@ -29,14 +29,13 @@ Once a school has been chosen, choose a select feature tool from the toolbar. Li
 
 4. Select by Circle – The circle will expand from the center of where you initially click.  Hold the left mouse button down when you click and drag the circle outward to the desired diameter.  Then double click to finish the circle.  All study areas that the circle overlaps will be selected and assigned to the selected school.
 
-**IMPORTANT: If the changes are acceptable, commit the change.  Right click anywhere in the map display and choose Assign Selected. If you are certain you want to keep the changes permanently, choose Save Assignments from the assign ribbom.**
+**IMPORTANT: If the changes are acceptable, commit the change.  In the assign ribbon, click on Assign Study Areas. If you are certain you want to keep the changes permanently, choose Save Assignments from the assign ribbon. Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.**
+
+ ![assignStudyArea](../../assignStudyArea.png)
+ 
+To undo an assignment, click on the Undo button on the assign ribbon before Saving Assignments.
 
  
-
- To undo an assignment, click on the Undo button on the assign ribbon before Saving Assignments.
-
- 
-
 When finished, stop the edit session by choosing Stop from the assign ribbon.
 
  
