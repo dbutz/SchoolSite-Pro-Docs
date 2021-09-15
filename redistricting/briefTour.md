@@ -67,7 +67,7 @@ To simulate boundary changes between attendance areas, begin an assigning sessio
 7. To view only the statistics for the selected study areas, click on the Selected Residence Tab.
 
 ## Commit the Modification
-1. If the changes are acceptable, commit the change. In the assign ribbon, clock on Assign Study Areas. The statistics window and map will update.  You can roll back your changes prior to permanently saving them by clicking on the Undo button in the assign ribbon.
+1. If the changes are acceptable, commit the change. In the assign ribbon, click on Assign Study Areas. The statistics window and map will update.  You can roll back your changes prior to permanently saving them by clicking on the Undo button in the assign ribbon.
 
 ![assignStudyArea](assignStudyArea.png)
 
