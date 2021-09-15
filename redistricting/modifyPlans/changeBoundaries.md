@@ -38,7 +38,7 @@ When assigning study areas, please refrain from using any other editing tools an
 
 ### 7. To view only the statistics for the selected study areas, click on the Selected Residence Tab.
 
-See topic ["Statistics Window"](../statistics/statsWindow.md)
+**See topic ["Statistics Window"](../statistics/statsWindow.md) for moreinformation.**
 
 ## Commit the Modification
 **IMPORTANT: If the changes are acceptable, commit the change.  In the assign ribbon, click on Assign Study Areas. If you are certain you want to keep the changes permanently, choose Save Assignments from the assign ribbon. Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.**
