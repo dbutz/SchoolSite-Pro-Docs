@@ -70,6 +70,7 @@ To simulate boundary changes between attendance areas, begin an assigning sessio
 1. If the changes are acceptable, commit the change. In the assign ribbon, clock on Assign Study Areas. The statistics window and map will update.  You can roll back your changes prior to permanently saving them by clicking on the Undo button in the assign ribbon.
 
 ![assignStudyArea](assignStudyArea.png)
+
 2. If you are certain you want to make your changes permanent, click on Save Assignments in the Assign the ribbon.
 3. When finished, stop the edit session by clicking Stop from the Assign. **Please note: Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.**  
 4. The Current Residence Tab reflects the update.
