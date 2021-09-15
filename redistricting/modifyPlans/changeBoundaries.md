@@ -31,7 +31,7 @@ Once a school has been chosen, choose a select feature tool from the toolbar. Li
 
 **IMPORTANT: If the changes are acceptable, commit the change.  In the assign ribbon, click on Assign Study Areas. If you are certain you want to keep the changes permanently, choose Save Assignments from the assign ribbon. Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.**
 
- ![assignStudyArea](../../assignStudyArea.png)
+ ![assignStudyArea](../assignStudyArea.png)
  
 To undo an assignment, click on the Undo button on the assign ribbon before Saving Assignments.
 
