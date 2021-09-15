@@ -73,6 +73,6 @@ To simulate boundary changes between attendance areas, begin an assigning sessio
 
 2. If you are certain you want to make your changes permanent, click on Save Assignments in the Assign the ribbon.
 3. When finished, stop the edit session by clicking Stop from the Assign. **Please note: Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.**  
-4. The Current Residence Tab reflects the update.
+4. If necessary click on Show Statistics, the Current Residence Tab reflects the update.
 5. To review the original statistics when the plan was first created, click on the Original Residence Tab.
  
