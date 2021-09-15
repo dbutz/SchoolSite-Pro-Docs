@@ -45,6 +45,6 @@ When assigning study areas, please refrain from using any other editing tools an
 
  ![assignStudyArea](../assignStudyArea.png)
  
-### 8.To undo an assignment, click on the Undo button on the assign ribbon before Saving Assignments. When finished, stop the edit session by choosing Stop from the assign ribbon.
+### 8. To undo an assignment, click on the Undo button on the assign ribbon before Saving Assignments. When finished, stop the edit session by choosing Stop from the assign ribbon.
 
  
