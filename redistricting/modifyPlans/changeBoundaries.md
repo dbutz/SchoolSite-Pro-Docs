@@ -31,14 +31,14 @@ When assigning study areas, please refrain from using any other editing tools an
 
 * Select by Circle
 
-![assignSchool](modifyImages/assignSchool.png) 
-
 ## Modifying Boundaries
 
 ### 5. After choosing the select tool, click on the study areas to be reassigned to the study area you chose to assign to.The selected study areas are highlighted in bright blue.
 ### 6. To see how the reassignment of the selected study areas would affect that school, click on the Proposed Statistics Tab.  The school name highlighted in blue indicates the school in which student population increased.  The school name in red designates which school(s) experienced a decrease in student population. Notice the chart reflects the changes in student resident population as well.
 
 ### 7. To view only the statistics for the selected study areas, click on the Selected Residence Tab.
+
+See topic ["Statistics Window"](../statistics/statsWindow.md)
 
 ## Commit the Modification
 **IMPORTANT: If the changes are acceptable, commit the change.  In the assign ribbon, click on Assign Study Areas. If you are certain you want to keep the changes permanently, choose Save Assignments from the assign ribbon. Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.**
