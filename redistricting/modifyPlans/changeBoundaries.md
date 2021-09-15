@@ -6,15 +6,15 @@ To reassign study areas to existing schools, you must have at least one plan ope
 ![redistrictTab](modifyImages/redistrictTab.png)
 ![start](modifyImages/start.png)
 
-**Use Caution when Assigning:
-When assigning study areas, please refrain from using any other editing tools and only use the Undo buttion provided in this ribbon. Otherwise, you could expereince unexpected results when moving study areas between attendance boundaries. Once you click 'Stop Assigning you can then use all the editing tools and the normal undo button without affecting your plan.**
+**Use Caution when Assigning:**
+When assigning study areas, please refrain from using any other editing tools and only use the Undo button provided in this ribbon. Otherwise, you could expereince unexpected results when moving study areas between attendance boundaries. Once you click "Stop Assigning" you can then use all the editing tools and the normal undo button without affecting your plan.
 
 ### 2. To reassign study areas from existing schools, from the assign ribbon, click on the drop-down arrow under "Assign study areas to:" and select the school to which you wish to assign the study area(s).
 
 
 ![assignSchool](modifyImages/assignSchool.png)
 
-### 3. Turn on Labels to view the Boundaries. Contents Pane > Right click on Boundary Plan > Label
+### 3. Turn on Labels to view boundaries names. Contents Pane > Right click on Boundary Plan > Label
 
 ![label](../label.png)
 
@@ -34,8 +34,8 @@ When assigning study areas, please refrain from using any other editing tools an
 
 ## Modifying Boundaries
 
-### 5. After choosing the select tool, click on the study areas to be reassigned to the study area you chose to assign to.The selected study areas are highlighted in bright blue.
-### 6. To see how the reassignment of the selected study areas would affect that school, click on the Proposed Statistics Tab.  The school name highlighted in blue indicates the school in which student population increased.  The school name in red designates which school(s) experienced a decrease in student population. Notice the chart reflects the changes in student resident population as well.
+### 5. After choosing a select tool, click on the study areas to be reassigned to the study area you chose to assign to. The selected study areas are highlighted in bright blue.
+### 6. To see how the reassignment of the selected study areas would affect that school, click on the Proposed Statistics Tab.
 
 ### 7. To view only the statistics for the selected study areas, click on the Selected Residence Tab.
 
