@@ -6,8 +6,8 @@
 - [Data validation](dataManagement/validateData/index.md)
 
 ### Boundary Planning
-- [Creating your first plan](createPlan.md)
-- [Assigning studyareas](assigningStudyareas.md)
+- [Creating your first plan](redistricting/createPlan/index.md)
+- [Assigning studyareas](redistricting/modifyPlans/changeBoundaries.md)
 
 ### Enrollment Forecasting
 - [Creating your first forecast](createForecast.md)
