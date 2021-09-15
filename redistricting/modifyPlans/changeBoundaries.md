@@ -4,6 +4,7 @@ To reassign study areas to existing schools, you must have at least one plan ope
 ### 1. Begin the editing session: Choose the assign tab under Redistricting Plan. Then choose Start in the Assign ribbon.  
 
 ![redistrictTab](modifyImages/redistrictTab.png)
+![start](modifyImages/start.png)
 
 **Use Caution when Assigning:
 When assigning study areas, please refrain from using any other editing tools and only use the Undo buttion provided in this ribbon. Otherwise, you could expereince unexpected results when moving study areas between attendance boundaries. Once you click 'Stop Assigning you can then use all the editing tools and the normal undo button without affecting your plan.**
