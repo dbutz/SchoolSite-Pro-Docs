@@ -15,26 +15,25 @@ When assigning study areas, please refrain from using any other editing tools an
 
 ### 3. Turn on Labels to view the Boundaries. Contents Pane > Right click on Boundary Plan > Label
 
+![label](../label.png)
+
 ## Select Tool
 ### 4. Once a school has been chosen, choose a select feature tool from the toolbar. Listed in order, the available selection tools are:
+
+
 * Select Features
 
-* Select by Line  
+* Select by Rectangle 
 
 * Select by Polygon
 
+* Select by Lasso
+
 * Select by Circle
 
-1. Select Features – With this method you can click in an individual study area to assign it to the selected school. You can select multiple study areas by holding down the shift key as you click.
-
-2. Select by Line – Using this feature, click in the study area you wish to assign and drag the mouse in any direction.  Double click the left mouse button to finish the line. All study areas that the line overlaps will be selected and assigned to the selected school.
-
-3. Select by Polygon – Begin drawing the polygon by clicking once and dragging the mouse and clicking again to form a side of the polygon.  Continue clicking to create the desired polygon and close the polygon by double clicking.  All study areas that the polygon overlaps will be selected and assigned to the selected school.
-
-4. Select by Circle – The circle will expand from the center of where you initially click.  Hold the left mouse button down when you click and drag the circle outward to the desired diameter.  Then double click to finish the circle.  All study areas that the circle overlaps will be selected and assigned to the selected school.
+![assignSchool](modifyImages/assignSchool.png) 
 
 ## Modifying Boundaries
-![assignSchool](modifyPlans/modifyImages/assignSchool.png)
 
 ### 5. After choosing the select tool, click on the study areas to be reassigned to the study area you chose to assign to.The selected study areas are highlighted in bright blue.
 ### 6. To see how the reassignment of the selected study areas would affect that school, click on the Proposed Statistics Tab.  The school name highlighted in blue indicates the school in which student population increased.  The school name in red designates which school(s) experienced a decrease in student population. Notice the chart reflects the changes in student resident population as well.
