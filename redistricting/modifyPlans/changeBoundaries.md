@@ -18,7 +18,6 @@ When assigning study areas, please refrain from using any other editing tools an
 
 ![label](../label.png)
 
-## Select Tool
 ### 4. Once a school has been chosen, choose a select feature tool from the toolbar. Listed in order, the available selection tools are:
 
 
