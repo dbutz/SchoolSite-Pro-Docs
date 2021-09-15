@@ -67,12 +67,11 @@ To simulate boundary changes between attendance areas, begin an assigning sessio
 7. To view only the statistics for the selected study areas, click on the Selected Residence Tab.
 
 ## Commit the Modification
-1. If the changes are acceptable, commit the change.  Right click anywhere in the map display and choose Assign Selected. The statistics window and graph (if visible) will update.  You can roll back your changes prior to permanently saving them by clicking on the Undo Assignment  button  on the Redistricting Toolbar.
+1. If the changes are acceptable, commit the change. In the assign ribbon, clock on Assign Study Areas. The statistics window and map will update.  You can roll back your changes prior to permanently saving them by clicking on the Undo button in the assign ribbon.
 
-2. If you are certain you want to make your changes permanent, choose Save Assignment from the Redistricting button drop-down menu.
-
-3. When finished, stop the edit session by choosing Stop Assigning from the Redistricting button drop-down menu.  Please note: Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.  
-4. Notice how the study areas previously assigned to Garfield ES and Roosevelt ES are now assigned to Harding ES.
-5. The Current Residence Tab reflects the update.
-6. To review the original statistics when the plan was first created, click on the Original Residence Tab.
+![assignStudyArea](assignStudyArea.png)
+2. If you are certain you want to make your changes permanent, click on Save Assignments in the Assign the ribbon.
+3. When finished, stop the edit session by clicking Stop from the Assign. **Please note: Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.**  
+4. The Current Residence Tab reflects the update.
+5. To review the original statistics when the plan was first created, click on the Original Residence Tab.
  
