@@ -12,6 +12,8 @@ To reassign study areas from existing schools, from the assign ribbon, click on 
 
 ![assignSchool](modifyImages/assignSchool.png)
 
+Turn on Labels to view the Boundaries. Contents Pane > Right click on Boundary Plan > Label
+
 Once a school has been chosen, choose a select feature tool from the toolbar. Listed in order, the available selection tools are:
 * Select Features
 
@@ -29,7 +31,7 @@ Once a school has been chosen, choose a select feature tool from the toolbar. Li
 
 4. Select by Circle – The circle will expand from the center of where you initially click.  Hold the left mouse button down when you click and drag the circle outward to the desired diameter.  Then double click to finish the circle.  All study areas that the circle overlaps will be selected and assigned to the selected school.
 
-## Assign the Study Area
+## Commit the Modification
 **IMPORTANT: If the changes are acceptable, commit the change.  In the assign ribbon, click on Assign Study Areas. If you are certain you want to keep the changes permanently, choose Save Assignments from the assign ribbon. Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.**
 
  ![assignStudyArea](../assignStudyArea.png)
