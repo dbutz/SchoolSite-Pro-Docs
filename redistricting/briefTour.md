@@ -24,19 +24,10 @@ Before attempting to redistrict, it is helpful to view the current resident stud
 The Current Statistics Widnow shows current statistics based on boundaries shown.  If you want to modify these boundaries, start by reassigning study areas.  Study Areas are geographically defined, following logical boundaries of a neighborhood and are used for gathering data. In SchoolSite, attendance area changes are simulated by assigning study areas to different school attendance areas. See topic ["Changing Boundaries Between Schools"](redistricting/modifyPlans/changeBoundaries.md) for more information.
 
 ## Turn on Labels
-Through SchoolSite's Plan Properties, you can turn on different labels that adjust dynamically to your plan.
-
- 
-
-1. Open up Plan Properties again by clicking the Plan Properties button  in the Redistricting Toolbar. The Plan Properties window should open.
-
-2. At the top of Plan Properties, click on the tab labeled Symbology. Here, you can change the style of how your map looks.
-
-3. There is a section labeled Labeling. Check mark the first option that says, "Display attendance area names." Then click OK.
-
+1. Contents Pane > Right click on Boundary Plan > Label 
 ![label](label.png)
 
-4. Your map now displays the names of your school attendance areas!
+2. Your map now displays the names of your school attendance areas!
 
 ![label2](label2.png)
 
