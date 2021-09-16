@@ -40,7 +40,7 @@ To simulate boundary changes between attendance areas, begin an assigning sessio
 2.  To reassign study areas from existing schools, from the Redistricting toolbar, click on the drop-down arrow below "Assign study areas to:" and select the school you wish to assign study area(s). In this case, select Adams ES.
 3. Next, in the Select drop down menu choose Select by Lasso.
  
- ![assignSchool](modifyPlans/modifyImages/assignSchool.png)
+ ![selectLasso](selectLasso.png)
  
 4. Click and draw a loop within the study areas to be reassigned to Harding ES. The plan should appear similar to the screenshot below. **Please note:** Selecting study areas that are already assigned to Harding ES will not change after reassigning them to Harding ES. 
   
