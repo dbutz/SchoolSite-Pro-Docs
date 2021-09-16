@@ -32,21 +32,29 @@ The Current Statistics Widnow shows current statistics based on boundaries shown
 ![label2](label2.png)
 
 ## Modifying Boundaries
-To simulate boundary changes between attendance areas, begin an assigning session from within the SchoolSite Extension.  
+To simulate boundary changes between attendance areas, begin an assigning session from within the Assign ribbon.
 
  
 
 1. From the SchoolSite Redistricting Toolbar > Assign > Start 
-2.  To reassign study areas from existing schools, from the Redistricting toolbar, click on the drop-down arrow next to the School field and select the school you wish to assign study area(s). In this case, select Adams ES.
-3. Next, click on Select.
+2.  To reassign study areas from existing schools, from the Redistricting toolbar, click on the drop-down arrow below "Assign study areas to:" and select the school you wish to assign study area(s). In this case, select Adams ES.
+3. Next, in the Select drop down menu choose Select by Lasso.
  
  ![assignSchool](modifyPlans/modifyImages/assignSchool.png)
  
-4. Click on the study areas to be reassigned to Adams ES. Please note: Selecting study areas that are already assigned to Harding ES will not change after reassigning them to Adam ES.  
-5. The selected study areas are highlighted in bright blue.  To zoom in closer, click on the Zoom to Selected Features button  on the Redistricting Toolbar.
-6. To see how the reassignment of the selected study areas would affect that school, click on the Proposed Statistics Tab.  The school name highlighted in blue indicates the school in which student population increased.  The school name in red designates which school(s) experienced a decrease in student population. Notice the chart reflects the changes in student resident population as well.
+4. Click and draw a loop within the study areas to be reassigned to Harding ES. The plan should appear similar to the screenshot below. **Please note:** Selecting study areas that are already assigned to Harding ES will not change after reassigning them to Harding ES. 
+  
+![hardingES](hardingES.png)
 
-7. To view only the statistics for the selected study areas, click on the Selected Residence Tab.
+6. The selected study areas are highlighted in bright blue.  
+
+![proposed](proposed.png)
+
+7. To see how the reassignment of the selected study areas would affect that school, click on the Proposed Statistics Tab.  
+
+8. To view only the statistics for the selected study areas, click on the Selected Residence Tab.
+
+![selectedResidence](selectedResidence.png)
 
 ## Commit the Modification
 1. If the changes are acceptable, commit the change. In the assign ribbon, click on Assign Study Areas. The statistics window and map will update.  You can roll back your changes prior to permanently saving them by clicking on the Undo button in the assign ribbon.
