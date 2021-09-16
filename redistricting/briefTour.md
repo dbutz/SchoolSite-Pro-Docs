@@ -37,7 +37,7 @@ To simulate boundary changes between attendance areas, begin an assigning sessio
  
 
 1. From the SchoolSite Redistricting Toolbar > Assign > Start 
-2.  To reassign study areas from existing schools, from the Redistricting toolbar, click on the drop-down arrow below "Assign study areas to:" and select the school you wish to assign study area(s). In this case, select Adams ES.
+2.  To reassign study areas from existing schools, from the Redistricting toolbar, click on the drop-down arrow below "Assign study areas to:" and select the school you wish to assign study area(s). In this case, select Harding ES.
 3. Next, in the Select drop down menu choose Select by Lasso.
  
  ![selectLasso](selectLasso.png)
@@ -46,13 +46,13 @@ To simulate boundary changes between attendance areas, begin an assigning sessio
   
 ![hardingES](hardingES.png)
 
-6. The selected study areas are highlighted in bright blue.  
+5. The selected study areas are highlighted in bright blue.  
 
 ![proposed](proposed.png)
 
-7. To see how the reassignment of the selected study areas would affect that school, click on the Proposed Statistics Tab.  
+6. To see how the reassignment of the selected study areas would affect that school, click on the Proposed Statistics Tab.  
 
-8. To view only the statistics for the selected study areas, click on the Selected Residence Tab.
+7. To view only the statistics for the selected study areas, click on the Selected Residence Tab.
 
 ![selectedResidence](selectedResidence.png)
 
