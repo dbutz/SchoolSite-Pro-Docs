@@ -42,7 +42,7 @@ To simulate boundary changes between attendance areas, begin an assigning sessio
  
  ![selectLasso](selectLasso.png)
  
-4. Click and draw a loop within the study areas to be reassigned to Harding ES. The plan should appear similar to the screenshot below. **Please note:** Selecting study areas that are already assigned to Harding ES will not change after reassigning them to Harding ES. 
+ 4. Click and draw a loop within the study areas to be reassigned to Harding ES. The plan should appear similar to the screenshot below. **Please note:** Selecting study areas that are already assigned to Harding ES will not change after reassigning them to Harding ES. 
   
 ![hardingES](hardingES.png)
 
