@@ -14,7 +14,7 @@ To access the Statistics tab of the Plan Properties dialog box from the Redistri
 
 Choose Redistricting > Plan Properties > Statistics
 
-![currentResidence](statImages/currentResidence.png)
+![StatsCurrent](statImages/statsCurrent.png)
 
 The Statistics Tab window is divided into four main sections: Select Schools, Select Grades, Select Grade Ranges, and Select Statistic Type.  
 
