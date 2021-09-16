@@ -3,7 +3,7 @@ From the SchoolSite Redistricting Extension Toolbar, choose the assign tab, then
 
 ![updateSchools.png](modifyImages/updateSchools.png)
 
-Type in the name of the new school and its capacity, and click OK.
+Type in the name of the new school and its capacity, and click Applu.
 
 ![addSchool](modifyImages/addSchool.png)
 
