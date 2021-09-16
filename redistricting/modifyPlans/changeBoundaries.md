@@ -14,7 +14,9 @@ When assigning study areas, please refrain from using any other editing tools an
 
 ![assignSchool](modifyImages/assignSchool.png)
 
-### 3. Turn on Labels to view boundaries names. Contents Pane > Right click on Boundary Plan > Label
+### 3. Turn on Labels to view boundary names. 
+
+Contents Pane > Right click on Boundary Plan > Label
 
 ![label](../label.png)
 
