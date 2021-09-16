@@ -8,7 +8,7 @@ To open an exisitng plan , Catalog Pane > Maps > myFirstPlan
 
 
 ## Choose Which Schools and Grades to View
-Before attempting to redistrict, it is helpful to view the current resident student population by grade for each school.
+Before attempting to redistrict, it is helpful to view the current resident student population by grade for each school. The SchoolSite Redistricting Extension allows for viewing statistics via the Statistics Window.  The Statistics Window presents the data in a tabular format and can either remain floating or be docked like the Redistricting toolbar. To access this feature, click on the Show Statistics in the Assign ribbon.
 
 
 1. From the Redistricting Toolbar, choose Show Statistics in the Assign ribbon. 
@@ -21,13 +21,7 @@ Before attempting to redistrict, it is helpful to view the current resident stud
 
 ![View Schools](viewSchools.png)
 
-6. The SchoolSite Redistricting Extension allows for viewing statistics via the Statistics Window.  The Statistics Window presents the data in a tabular format and can either remain floating or be docked like the Redistricting toolbar. To access this feature, click on the Show Statistics in the Assign ribbon.
-
-
-![Current Residence](statistics/statImages/currentResidence.png)
-
-The Current Statistics Tab shows current statistics based on boundaries shown.  If you want to modify these boundaries, start by reassigning study areas.  Study Areas are geographically defined, following logical boundaries of a neighborhood and are used for gathering data. In SchoolSite, attendance area changes are simulated by assigning study areas to different school attendance areas. See topic ["Changing Boundaries Between Schools"](redistricting/modifyPlans/changeBoundaries.md) for more information.
-
+The Current Statistics Widnow shows current statistics based on boundaries shown.  If you want to modify these boundaries, start by reassigning study areas.  Study Areas are geographically defined, following logical boundaries of a neighborhood and are used for gathering data. In SchoolSite, attendance area changes are simulated by assigning study areas to different school attendance areas. See topic ["Changing Boundaries Between Schools"](redistricting/modifyPlans/changeBoundaries.md) for more information.
 
 ## Turn on Labels
 Through SchoolSite's Plan Properties, you can turn on different labels that adjust dynamically to your plan.
