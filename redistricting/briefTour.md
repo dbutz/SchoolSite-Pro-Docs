@@ -6,17 +6,16 @@ C:\Davis Demographics\GIS_SampleData
 ## Open the Existing Sample Plan
 To open an exisitng plan , Catalog Pane > Maps > myFirstPlan
 
-## Choose Statistics
-Before attempting to redistrict, it is helpful to view the current resident student population by grade for each school.
-
-![Current Residence](statistics/statImages/currentResidence.png)
 
 ## Choose Which Schools and Grades to View
-1. From the Redistricting Toolbar, choose the Plan Properties button . The Statistics Tab should display.
+Before attempting to redistrict, it is helpful to view the current resident student population by grade for each school.
+
+
+1. From the Redistricting Toolbar, choose Show Statistics in the Assign ribbon. 
 
 2. To create a report for all schools in the District, click on the blue link Select All under the section "Select Schools"
 
-3. Be sure Grade Distribution radio button is selected under the section "Select statistics type"
+3. Be sure Grade Distribution button is selected under the section "Select statistics type"
 
 4. For this example, check mark the grade range K-6 in the grade ranges section. The grades included in the ranges will automatically be checked. To display only grades K and 6, click Select None in the top right corner, then check mark grades K-6 in the grade ranges section and it will automatically update.
 
