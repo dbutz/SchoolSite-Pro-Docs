@@ -2,17 +2,17 @@
 ## The Statistics Window: Current Residence
 The Current Residence Tab allows you to preview the statistics before making changes to a plan.  The first tab, current residence, shows the number of students by residence before you assign any selected study areas.  Once you assign the selected study areas however, the current residence window updates to reflect the adjustment.  The school name highlighted in blue is the school to which the last study areas were assigned.
 
-![Current Residence](statImages/currentResidence.png)
+![Current Residence](statImages/statsCurrent.png)
 
 ## The Statistics Window: Proposed Residence
 The Proposed Residence Tab displays the changes in resident enrollment based on changes in selected study area assignments.  They represent what the changes would be to the plan before you actually commit the changes. After you assign the changes, the current residence will update to reflect what was in the proposed residence. The school name highlighted in blue indicates the school to which students were added.  The school name(s) in red designate which school(s) had a student decrease.
 
-![Current Residence](statImages/statsProposed.png)
+![proposed](statImages/proposed.png)
 
 ## The Statistics Window: Selected
 The Assigned Residence Tab shows the number of students living in the study areas currently selected and waiting to be reassigned. It indicates the number of students in all selected study areas. The difference between current resident school numbers and proposed resident school numbers is the number of students in the Assigned Residence tab.
 
-![Selected Residence](statImages/statsSelected.png)
+![Selected Residence](statImages/selectedResidence.png)
 
 ## The Statistics Window: Original Residence
 The Original Residence tab displays the statistics before any changes were made. The student numbers in this tab remain static regardless of any assignments made to the plan. It represents the original baseline number of student when the plan was first created.
