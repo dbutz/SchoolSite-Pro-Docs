@@ -11,6 +11,7 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 * Classroom needs at each site are automatically updated with each change in boundary plan based upon facility/classroom counts at sites along with user-defined classroom loading standards
 * Create a variety of maps for presentation use
 * Create plans based upon student projections by residence (requires a projection created using SchoolSite Projection Extension)
+* Easily upload and connect plans to your ArcGIS Online organization
 
 &nbsp;
 
