@@ -15,7 +15,7 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 
 &nbsp;
 
-### Brief Tour of the Redistricting Toolbar: Assign
+### Brief Tour of the Redistricting Toolbar
 * [Redistricting Plans](briefTour.md)
 
 ### Managing your plans
