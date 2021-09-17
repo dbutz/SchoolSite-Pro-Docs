@@ -1,4 +1,4 @@
-# Data Checks Made for Locator
+# Data Checks Made for Locator - REVIEWED
 
 Below is a list of the data checks that SchoolSite Pro makes when using the Data Validator for SchoolSite Locator.
 
