@@ -1,4 +1,4 @@
-# Data Checks Made for Redistricting Plans
+# Data Checks Made for Redistricting Plans - SEE NOTES
 
 Below is a list of the data checks that SchoolSite Pro makes when using DataSetup specifically for redistricting plans.
 
