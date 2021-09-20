@@ -8,7 +8,7 @@ To open an exisitng plan go to the Catalog Pane > Maps > myFirstPlan
 
 
 ## Choose Which Schools and Grades to View
-Before attempting to redistrict, it is helpful to view the current resident student population by grade for each school. The SchoolSite Redistricting Extension allows for viewing statistics via the Statistics Window.  The Statistics Window presents the data in a tabular format and can either remain floating or be docked like the Redistricting toolbar. To access this feature, click on the Show Statistics in the Assign ribbon.
+Before attempting to redistrict, it is helpful to view the current resident student population by grade for each school. The SchoolSite Redistricting Extension allows for viewing statistics via the Statistics Window.  The Statistics Window presents the data in a tabular format and can either remain floating or be docked like the Contents Pane. To access this feature, click on the Show Statistics in the Assign ribbon.
 
 
 1. From the Redistricting Toolbar, choose Show Statistics in the Assign ribbon. 
