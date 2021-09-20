@@ -36,8 +36,8 @@ To simulate boundary changes between attendance areas, begin an assigning sessio
 
  
 
-1. From the Redistricting Plan Group select the Assign ribbon > Start Assignment 
-2.  To reassign study areas from existing schools, from the Redistricting toolbar, click on the drop-down arrow below "Assign study areas to:" and select the school you wish to assign study area(s). In this case, select Harding ES.
+1. From the Redistricting Plan select the Assign ribbon > Start Assignment 
+2.  To reassign study areas from existing schools select, from the Assign ribbon and Assign Tools group, the drop-down arrow below "Assign study areas to:" and select the school you wish to assign study area(s). In this case, select Harding ES.
 3. Next, in the Select drop down menu choose Select by Lasso.
  
  ![selectLasso](selectLasso.png)
@@ -50,19 +50,18 @@ To simulate boundary changes between attendance areas, begin an assigning sessio
 
 ![proposed](proposed.png)
 
-6. To see how the reassignment of the selected study areas would affect that school, click on the Proposed Statistics Tab.  
+6. To see how the reassignment of the selected study areas would affect that school, open the Statistics Table and click on the Proposed Tab.  
 
-7. To view only the statistics for the selected study areas, click on the Selected Residence Tab.
+7. To view only the statistics for the selected study areas, click on the Selected Tab.
 
 ![selectedResidence](selectedResidence.png)
 
 ## Commit the Modification
-1. If the changes are acceptable, commit the change. In the assign ribbon, click on Assign Study Areas. The statistics window and map will update.  You can roll back your changes prior to permanently saving them by clicking on the Undo button in the assign ribbon.
-
+1. If the changes are acceptable, commit the change. In the Assign Tools group, click on Assign Studyareas. The statistics window and map will update.  You can roll back your changes prior to permanently saving them by clicking on the Undo button in the Assign Tools group.
 ![assignStudyArea](assignStudyArea.png)
 
-2. If you are certain you want to make your changes permanent, click on Save Assignments in the Assign the ribbon.
-3. When finished, stop the edit session by clicking Stop from the Assign. **Please note: Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.**  
+2. If you are certain you want to make your changes permanent, click on Save Assignments in the Assign group.
+3. When finished, stop the edit session by clicking Stop from the Assign group. **Please note: Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.**  
 4. If necessary click on Show Statistics, the Current Residence Tab reflects the update.
-5. To review the original statistics when the plan was first created, click on the Original Residence Tab.
+5. To review the original statistics when the plan was first created, click on the Original Residence tab.
  
