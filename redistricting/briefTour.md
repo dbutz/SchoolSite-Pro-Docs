@@ -4,7 +4,7 @@ The following is a brief tour of the basics of SchoolSite Redistricting Extensio
 C:\Davis Demographics\GIS_SampleData
 
 ## Open the Existing Sample Plan
-To open an exisitng plan , Catalog Pane > Maps > myFirstPlan
+To open an exisitng plan go to the Catalog Pane > Maps > myFirstPlan
 
 
 ## Choose Which Schools and Grades to View
