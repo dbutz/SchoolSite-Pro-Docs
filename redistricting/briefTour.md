@@ -13,11 +13,11 @@ Before attempting to redistrict, it is helpful to view the current resident stud
 
 1. From the Redistricting Toolbar, choose Show Statistics in the Assign ribbon. 
 
-2. To create a report for all schools in the District, click on the blue link Select All under the section "Select Schools"
+2. To create a report for all schools in the District, click on the blue Select All hyperlink under the section "Schools"
 
-3. Be sure Grade Distribution button is selected under the section "Select statistics type"
+3. Be sure the Grade Distribution button is selected under the section "Statistics Type"
 
-4. For this example, check mark the grade range K-6 in the grade ranges section. The grades included in the ranges will automatically be checked. To display only grades K and 6, click Select None in the top right corner, then check mark grades K-6 in the grade ranges section and it will automatically update.
+4. For this example, check mark the grade range K-6 in the Grade Ranges box. The grades included in the ranges will automatically be checked. To display only grades K and 6, click Select None in the top right corner, then check grades K and 6 in the Grades section and the table should automatically update.
 
 ![View Schools](viewSchools.png)
 
