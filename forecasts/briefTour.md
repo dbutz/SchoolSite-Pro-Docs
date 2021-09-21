@@ -40,3 +40,27 @@ Under the section "Specify study areas to display", choose the radio button "Sel
  
 
 There are two ways to edit  your K Factors:
+
+**Method 1: Edit by selecting entire column**
+
+ 
+Right Click on the top of the first column to change the value of the first year of projections for all study areas district wide.  
+
+Type in the value 1.05 in the box next to "YEAR1:"
+
+![]()
+
+Click on the Apply button. The values for all study areas in the column will change as illustrated.  This factor applies a multiplier of 1.05 (a 5% increase) to the Kindergarten class for the first year of projections for all study areas selected (displayed).
+
+![]()
+
+**Method 2: Edit by selecting individual fields**
+
+ 
+
+Under the section labeled "Calculate K Factors," type 1.5 in the box next to Yr1.
+
+
+
+ 
+
