@@ -3,7 +3,7 @@ Welcome to the SchoolSite Forecast Extension
 &nbsp;
 
 ### Tour of the forecast ribbon
-* [Sample Link](index.md)
+* [Forecast Extension](briefTour.md)
 
 ### Forecast Properties
 * [Sample Link](index.md)
