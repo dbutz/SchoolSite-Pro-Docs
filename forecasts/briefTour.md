@@ -44,7 +44,7 @@ There are two ways to edit  your K Factors:
 **Method 1: Edit by selecting entire column**
 
  
-Right Click on the top of the first column to change the value of the first year of projections for all study areas district wide.  
+Right Click on the YEAR1 column name and choose "calculate field" to change the value of the first year of projections for all study areas district wide. You can also click on Calculate location at the top of the table select the field you would like to change. 
 
 Type in the value 1.05 in the box next to "YEAR1:"
 
@@ -54,13 +54,52 @@ Click on the Apply button. The values for all study areas in the column will cha
 
 ![]()
 
-**Method 2: Edit by selecting individual fields**
+**Method 2: Edit by selecting individual cells**
+
+ Double click on the cell you would like to change, and press enter. The "Refresh Forecast" will appear in the forecasting ribbon to update the map.
+ 
+ ![]()
+ 
+ To view the results of modifying your K Factors, click on the tabs Forecast Reports > View. After allowing the program to calculate the results you will notice the change in projections as the years progress.  Modifying the K Factors affects only the Kindergarten class, however those changes are propagated through the projection by the Kindergarten class matriculation.
+
+![]()
+
+You can reset your report to its default values by going back to Mody Factors > K factors > Set Up > Use default values
 
  
 
-Under the section labeled "Calculate K Factors," type 1.5 in the box next to Yr1.
-
-
+Next, we will see the results of modifying a mobility (or cohort) factor for the district.
+ 
+### Modify Variables - Mobility Factors
+Click Modify Factors in forcasting ribbon and choose Mobility Factors
+Under the section "Grades to display:" check grades 1-6.
 
  
+
+Under the section "Specify study areas to display", choose "All study areas".
+
+Under the section "Calculate Mobility" type 1.1 in the box next to "MF 1:". Repeat this step for columns "MF2", "MF3", "MF4", "MF5", and "MF6", all with the value 1.1.
+
+![]()
+
+Mobility rates affect each year of the projections.  The mobility factors are multiplied by each grade which in turn produces the number of students for the next grade the following year. For example, if you have 100 1st grade students in 2010 and multiple that number by a 1.1 (10%) mobility rate, there will be 110 2nd grade students in 2017. In other words, each grade's incoming class is modified by the appropriate mobility factor regardless of the class size.
+
+ 
+
+To view the results, click on the Report Tab and view the projection district wide again.  Notice the change in projections again. Grades 7-12 will remain with the default 1.00 mobility rate.
+
+ 
+**Please note:** We are applying this same cohort factor for every study area across the district.  There are options to apply different cohorts/mobility factors to different study areas or attendance areas within the district.
+
+![]()
+
+### Modify Variables - Student Yield Factors and Development
+Click Modify Factors in forcasting ribbon and choose Student Yield Factors
+
+Under the section "Specify types to display", check only the box next to Type 1. (Type 1 represents in this example Single Family Dwelling Units).
+
+ 
+Under the section "Modify student yield factors:" type in the following values shown below. In this example, we are assuming that "0.2527" K-6 students will be generated for every Type 1 Single Family Detached (SFD) Unit.  In addition, "0.1371" 7-8 students and "0.1733" 9-12 students will be generated from each new housing unit.
+
+![]()
 
