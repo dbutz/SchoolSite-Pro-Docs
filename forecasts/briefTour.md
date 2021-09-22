@@ -14,7 +14,7 @@ To open the sample projection, go to the Catalog Pane > Maps > myFirstForecast
 To view forecast reports, modify factors, refresh forecast, and export forcasts choose the foracasting tab.
 
 ### Begin by creating a district wide report:
-Click on the forecasting toolbar, then Forecast Report. The Setup Tab should display by default. (If the View tab is displayed, click on the Setup tab.)
+Click on the forecasting ribbon, then Forecast Report. The Setup Tab should display by default. (If the View tab is displayed, click on the Setup tab.)
 
 ![]()
 1. Under the question "Display forecast by:" choose the radio button "District summary".
