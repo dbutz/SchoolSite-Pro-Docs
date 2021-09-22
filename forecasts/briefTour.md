@@ -1,4 +1,4 @@
-# Brief Tour of the Forecast Toolbar
+# Brief Tour of the Forecast Ribbon
 The following is a brief tour of the basics of SchoolSite Forecast Extension using the sample data which is copied onto your hard drive during software installation. The sample data is installed under the following folder:
 
  
