@@ -10,7 +10,7 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 * Comprehensive reporting capabilities including statistics, such as counts of students by grade level, ethnicity, school of enrollment or other data fields (complete flexibility in loading and using student data)
 * Classroom needs at each site are automatically updated with each change in boundary plan based upon facility/classroom counts at sites along with user-defined classroom loading standards
 * Create a variety of maps for presentation use
-* Create plans based upon student projections by residence (requires a projection created using SchoolSite Projection Extension)
+* Create plans based upon forecasted student data
 * Easily upload and connect plans to your ArcGIS Online organization
 
 &nbsp;
