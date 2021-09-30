@@ -44,11 +44,10 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      
+      <!--
       {{ site.github | inspect }}
-      
-       <br /> <br /> <br /> <br />
-        {{ site.github.latest_release | inspect }}
+      {{ site.github.latest_release | inspect }}
+      -->
       
       <footer class="site-footer">
         <!--<p>Davis Demographics & Planning</p>-->
@@ -60,8 +59,7 @@
             {{ site.github.latest_release.name }}  
             {{ site.github.latest_release.prerelease }}  
           -->
-       x     {{ site.github.latest_release.releaseNotes }}  
-        y    {{ site.github.latest_release.release_notes }}  
+        {{ site.github.latest_release.body }} 
         <br />Created: {{ site.github.latest_release.created_at }}  
         <br />Updated: {{ site.github.latest_release.updated_at }} 
         <!--<a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>-->
