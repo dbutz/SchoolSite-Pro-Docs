@@ -21,7 +21,7 @@ a Student Yield Factor for grade ranges K-6, 7-8, and 9-12.
 Example:
 
 Grade Range: K-6
-
+---------------------------------------------------------
 | SYF (SFD) = | Current Students by SFD / # of SFD units |
 | SYF (MFA) = | Current Students by MFA / # of MFA units |
 | SYF (APT) = | Current Students by APT / # of APT units |
