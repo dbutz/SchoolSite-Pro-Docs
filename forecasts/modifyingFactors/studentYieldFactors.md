@@ -1,7 +1,7 @@
 # Student Yield Factors
 
 Calculating Student Yield Factors
-The Student Yield Factors, when applied to projected housing units, determine how many additional students will be generated from new residential construction within the district.
+The Student Yield Factors, when applied to projected housing units, determine how many additional students will be generated from new residential development within the district.
 
 
  
@@ -13,8 +13,8 @@ generated from those housing units.
 
  
 
-Next, the year of construction must be analyzed for each housing type: Single-Family Detached (SFD), Multi-Family Attached (MFA) and Apartments (APT).  In general, SYFs used in a 
-ten year projection are calculated from units built within the last five years to better represent the actual number of students coming from new housing units when they are 
+Next, the year of development must be analyzed for each housing type: Single-Family Detached (SFD), Multi-Family Attached (MFA) and Apartments (APT).  In general, SYFs used in a 
+ten year forecast are calculated from units built within the last five years to better represent the actual number of students coming from new housing units when they are 
 completed. For example, if there are 50 students living in 100 MFA units which were built between 1999-2004, the SYF would equal 0.50.  These calculations are performed to produce
 a Student Yield Factor for grade ranges K-6, 7-8, and 9-12.
 
@@ -27,7 +27,7 @@ The result is one student yield factor by housing type for each grade range.
 Student Yield Factors apply only to years 1 through 10 in the projection properties table.
 
 **See Also:**
-Projected Housing Units
+Forecasted Housing Units
 
  
 
