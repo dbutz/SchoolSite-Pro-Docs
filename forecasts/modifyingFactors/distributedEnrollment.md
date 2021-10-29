@@ -1,7 +1,7 @@
 # Distributed Enrollment
 Maturation is the total housing units times the maturation student yield factor.
-However, there is one more factor which needs to be applied in order to run the maturation projections. 
-The Distributed Enrollment factor takes the projected number of students at maturity and applies a weighted distribution among the grade levels.
+However, there is one more factor which needs to be applied in order to run the maturation forecasts. 
+The Distributed Enrollment factor takes the forecasted number of students at maturity and applies a weighted distribution among the grade levels.
 
  At the elementary level, students are distributed evenly across grades K-6 with a factor of 0.14285.  At the intermediate level they are distributed equally across
 grades 7 and 8 with a factor of 0.5.  You will not be able to change those numbers.
