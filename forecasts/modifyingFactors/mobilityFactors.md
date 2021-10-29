@@ -25,4 +25,4 @@ Student Mobility Factors can be calculated using the Calculate Mobility Tool.  T
 
  
 
-Open the projection to be modified. Then, from the SchoolSite Projection Toolbar, click the projection properties button.
+Open the forcast to be modified. Then, from the SchoolSite Forecast ribbon, click the projection properties button.
