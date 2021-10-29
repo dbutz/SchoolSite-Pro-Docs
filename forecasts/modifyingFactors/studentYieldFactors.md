@@ -36,7 +36,7 @@ Forecasted Housing Units
  
 
 ## Entering Student Yield Factors
-1. Click on the drop down menu for Modify factor in the forcasting ribbon and choose Student Yield Factors.
+1. Click on the drop down menu for Modify Factors in the forcasting ribbon and choose Student Yield Factors.
 2. You can turn on and off each of the housing types by clicking in the check box next to that type located in the area entitled “Specify types to display”.  (Remember: Types 1 through 4 correspond to the housing type definitions defined in the tract or assessor datasets.  Typically, type 1 refers to single family detached (SFD), type 2 refers to multi-family attached (MFA), type 3 refers to apartments (APT) and type 4 refers to mobile homes (MBL), however, you can assign whatever housing types are appropriate for your District and its proposed development to Type 1 through 4.
 
 3. Next, specify the study areas to display by clicking the radio buttons next to the options: currently selected on the map, select by attendance area, or select all.  
