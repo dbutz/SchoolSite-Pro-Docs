@@ -1,12 +1,12 @@
-##Tract - a polygon dataset
+## Tract - a polygon dataset
 The tract dataset describes the location and phasing for planned residential development within the district. Each residential project can be represented by either a point or polygon feature. However, polygons are the preferred method since it more accurately depicts the size and location of the projects.  
 
 The tract dataset is not required if your district has little or no development planned. However, if your district has a number of planned projects, it is useful to maintain those projects and their descriptive data in a map dataset. SchoolSite will extract this information for use in the projection model if desired. Districts with little or no planned development may not need a tract map dataset, but may wish to enter the few housing units planned directly into the Projection Properties dialog box for SchoolSite.  
 
-##Source:
+## Source:
 This type of housing information is available through most local city and county planning agencies.  In most areas, developers are required to submit tract map applications for any residential housing construction.  Copies of tentative tract maps can be obtained at little or no cost.  Some districts have city and county agencies automatically send a copy of the tentative tract map to the facilities planning department.  Contact your local planning agency for further information on receiving copies or notices of tract map applications.
 
-##Required Fields:
+## Required Fields:
 1. **STDYAREA** – a "Text" field.  This should be the study area where the tract is located. The TRACT field should be defined as data type "Text" with a length of 6.
 2. **TYPE** – a "Text" field with a length of  3.  The value in this field represents the general description of the housing type for the tract. SchoolSite allows up to four housing categories which can be defined by the user. For example, if your district has substantial differences in numbers of students generated from various socioeconomic areas, you could assign Type 1 as low income housing and Type 2 as high income housing. However, in general DDP uses and recommends the following categories:  
   - SFD – Single Family Detached
@@ -53,7 +53,7 @@ INAC - Inactive
 
 UNKN - Unknown
 
-##Points to Remember:
+## Points to Remember:
 Careful consideration should be given when deciding whether or not a tract dataset is needed. If there are only a few active projects in your district, it may be easier to enter new housing directly into a projection rather than creating a tract dataset. In general it makes more sense for larger districts with many active development projects to maintain the data in a tract layer.
 
  
