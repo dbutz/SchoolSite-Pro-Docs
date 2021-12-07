@@ -10,5 +10,5 @@
 - [Assigning studyareas](redistricting/modifyPlans/changeBoundaries.md)
 
 ### Enrollment Forecasting
-- [Creating your first forecast](createForecast.md)
-- [Entering factors](enterFactors.md)
+- [Creating your first forecast](forecasts/index.md)
+- [Entering factors](forecasts/modifyingFactors/index.md)
