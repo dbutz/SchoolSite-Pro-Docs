@@ -22,7 +22,7 @@ Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ex
 ### Forecast Properties
 * [Sample Link](index.md)
 
-### [Modifying variables (factors)](modifyingFactors.md)
+### [Modifying variables (factors)](modifyingFactors/index.md)
 
 ### Maturation concept
 * [Sample Link](index.md)
