@@ -19,8 +19,7 @@ Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ex
 ### Tour of the forecast ribbon
 * [Forecast Extension](briefTour.md)
 
-### Forecast Properties
-* [Sample Link](index.md)
+### [Forecast Properties](forecastProperties/index.md)
 
 ### [Modifying variables (factors)](modifyingFactors/index.md)
 
