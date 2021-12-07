@@ -5,11 +5,13 @@ To access the Modify Factors dockpane, open your forecast map and click on the f
 ![]()
 
 There are different factors that you can modify for your 10 year projections. Click on the drop down menu under Specify variable to modify to select one of the following options:
-* K Factors/PK Factors
-* Mobility Factors
-* Projected Housing Units
-* Student Counts
-* Student Yield Factors
+* [PK and K Factors (Birth Rates)](KandPKFactors.md)
+* [Distributed Enrollment](distributedEnrollment.md)
+* [Mobility Factors](mobilityFactors.md)
+* [Student Yield Factors](studentYieldFactors.md)
+* [Projected Housing Units](projectedHousing.md)
+* [Maturation](maturation.md)
+* [Student Counts](studentCounts.md)
  
 
 
