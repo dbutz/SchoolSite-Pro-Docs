@@ -2,7 +2,7 @@
 Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Extension provides a user friendly wizard-based method to predict future student enrollment.
 &nbsp;
 
-## SchoolSite Forcast Key Functions:
+## SchoolSite Forecast Key Functions:
 * Locate potential future school sites
 * Determine future school capacity requirements
 * Analyze future school attendance boundaries
