@@ -11,4 +11,4 @@
 
 ### Enrollment Forecasting
 - [Creating your first forecast](forecasts/index.md)
-- [Entering factors](forecasts/modifyingFactors/index.md)
+- [Modifying factors](forecasts/modifyingFactors/index.md)
