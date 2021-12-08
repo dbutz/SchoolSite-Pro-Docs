@@ -16,21 +16,14 @@ Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ex
 * Generate reports to aid in future staffing decisions based on historical data
 
 
-### Tour of the forecast ribbon
-* [Forecast Extension](briefTour.md)
+### [Tour of the Forecast Ribbon](briefTour.md)
 
 ### [Forecast Properties](forecastProperties/index.md)
 
-### [Modifying variables (factors)](modifyingFactors/index.md)
+### [Modifying Variables (Factors)](modifyingFactors/index.md)
 
-### Maturation concept
-* [Sample Link](index.md)
+### [Maturation Concept](maturationConcept/index.md)
 
-### Creating factors for maturation forecasts
-* [Sample Link](index.md)
+### [Creating Factors for Maturation Forecasts](maturationFactors/index.md)
 
-### Managing forecasts
-* [Sample Link](index.md)
-
-### Staffing forecasts
-* [Sample Link](index.md)
+### [Staffing Forecasts](staffingForecasts/index.md)
