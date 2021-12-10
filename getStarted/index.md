@@ -1,4 +1,4 @@
-# Getting Started
+# Get Started
 
 SchoolSite Pro is the latest professional desktop GIS school planning application from Davis Demographics. The sections below introduce basic elements of the user interface. 
 
