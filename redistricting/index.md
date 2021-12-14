@@ -14,8 +14,8 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 * Easily upload and connect plans to your ArcGIS Online organization
 
 ## Redistricting Help Articles
-- [A tour of the redistricting ribbon](redistricting/briefTour.md)
-- [Create a new redistricting plan](credistricting/createPlan/index.md)
-- [Modify your redistricting plan](redistricting/modifyPlans/index.md)
-- [Share your redistricting plan (placeholder link)](redistricting/index.md)
-- [The Statistics Window](redistricting/statistics/index.md)
+- [A tour of the redistricting ribbon](briefTour.md)
+- [Create a new redistricting plan](createPlan/index.md)
+- [Modify your redistricting plan](modifyPlans/index.md)
+- [Share your redistricting plan (placeholder link)](index.md)
+- [The Statistics Window](statistics/index.md)
