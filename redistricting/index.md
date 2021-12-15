@@ -27,7 +27,7 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
   - [Close schools](closingSchools.md)
   - [Reassign schools](reassignSchools.md)
 - [Share your redistricting plan (placeholder link)](index.md)
-- [The Statistics Window](statistics/index.md)
+- The Statistics Window
   - [Configure the statistics table](statistics/planProperties.md)
   - [Current residence](statistics/statsWindow.md#the-statistics-window-current-residence)
   - [Proposed residence](statistics/statsWindow.md#the-statistics-window-proposed-residence)
