@@ -13,7 +13,7 @@ SchoolSite Pro is the planning tool developed and used in-house by Davis’ staf
 ## Redistricting
 - [SchoolSite Pro Redistricting Plans](redistricting/index.md)
 - [A tour of the redistricting ribbon](redistricting/briefTour.md)
-- [Create a new redistricting plan](credistricting/createPlan/index.md)
+- [Create a new redistricting plan](redistricting/createPlan/index.md)
 - [Modify your redistricting plan](redistricting/modifyPlans/index.md)
 - [Share your redistricting plan (placeholder link)](redistricting/index.md)
 - [The Statistics Window](redistricting/statistics/index.md)
