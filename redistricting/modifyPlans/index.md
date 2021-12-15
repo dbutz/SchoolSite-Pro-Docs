@@ -1,7 +1,6 @@
-# Modifying Your Plans
-
-* [Changing Boundaries Between Schools](changeBoundaries.md)
-* [Adding a New School](addSchool.md)
-* [Adding an Existing School](addExistingSchool.md)
-* [Closing Schools](closingSchools.md)
+# Modify your redistricting plans
+* [Change boundaries between schools](changeBoundaries.md)
+* [Add a new school](addSchool.md)
+* [Add an Existing School](addExistingSchool.md)
+* [Close Schools](closingSchools.md)
 * [Reassign Schools](reassignSchools.md)
