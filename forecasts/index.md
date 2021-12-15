@@ -15,15 +15,31 @@ Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ex
 * Enrollment projections are automatically linked to the Redistricting Extension
 * Generate reports to aid in future staffing decisions based on historical data
 
-
-### [Tour of the Forecast Ribbon](briefTour.md)
-
-### [Forecast Properties](forecastProperties/index.md)
-
-### [Modifying Variables (Factors)](modifyingFactors/index.md)
-
-### [Maturation Concept](maturationConcept/index.md)
-
-### [Creating Factors for Maturation Forecasts](maturationFactors/index.md)
-
-### [Staffing Forecasts](staffingForecasts/index.md)
+Forecast Help Articles
+- [A tour of the forecast ribbon](briefTour.md)
+- [Create a new forecast (placeholder link)](index.md)
+  - Choose what data to include in your forecast (tract and assessor data)
+- Manage your forecast 
+  - [Modify forecast factors](modifyingFactors/index.md)
+    - PK and K factors
+    - Distributed enrollment
+    - Maturation student yield factors
+    - Mobility
+    - Projected housing units
+    - Student counts
+    - Student yield factors
+- Generate a forecast report
+  - [Forecast report properties](forecastProperties/index.md)
+  - Include maturation data in your report
+    - [Maturation concept](maturationConcept/index.md)
+    - [Maturation factors](maturationFactors/index.md)
+      - Current housing units
+      - Potential development
+      - Distributed enrollment
+  - Include historical student data in your report
+- Map display
+- Additional forecast reports
+  -  [Staffing forecast report](staffingForecasts/index.md)
+  -  Development summary report
+  -  Project summary report
+- Examples of common workflows
