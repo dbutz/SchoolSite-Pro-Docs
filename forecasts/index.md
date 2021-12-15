@@ -17,29 +17,29 @@ Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ex
 
 Forecast Help Articles
 - [A tour of the forecast ribbon](briefTour.md)
-- [Create a new forecast (placeholder link)](index.md)
-  - Choose what data to include in your forecast (tract and assessor data)
+- [Create a new forecast](createForecast/createForecast.md)
+  - Decide what data to include in your forecast (tract and assessor data)
 - Manage your forecast 
   - [Modify forecast factors](modifyingFactors/index.md)
-    - PK and K factors
-    - Distributed enrollment
-    - Maturation student yield factors
-    - Mobility
-    - Projected housing units
-    - Student counts
-    - Student yield factors
+    - [PK and K factors](modifyingFactors/KandPKFactors.md)
+    - [Distributed enrollment](modifyingFactors/distributedEnrollment.md)
+    - [Maturation student yield factors](modifyingFactors/maturation.md)
+    - [Mobility](modifyingFactors/mobilityFactors.md)
+    - [Projected housing units](modifyingFactors/projectedHousing.md)
+    - [Student counts](modifyingFactors/studentCount.md)
+    - [Student yield factors](modifyingFactors/studentYieldFactors.md)
 - Generate a forecast report
   - [Forecast report properties](forecastProperties/index.md)
   - Include maturation data in your report
     - [Maturation concept](maturationConcept/index.md)
-    - [Maturation factors](maturationFactors/index.md)
-      - Current housing units
-      - Potential development
-      - Distributed enrollment
+    - Maturation factors
+      - [Current housing units](maturationFactors/housingUnits.md)
+      - [Potential development](maturationFactors/potentialDev.md)
+      - [Distributed enrollment (placeholder link)](maturationFactors/housingUnits.md)
   - Include historical student data in your report
 - Map display
 - Additional forecast reports
-  -  [Staffing forecast report](staffingForecasts/index.md)
+  -  [Staffing forecast report](staffingForecasts/aboutStaff.md)
   -  Development summary report
   -  Project summary report
 - Examples of common workflows
