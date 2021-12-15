@@ -15,12 +15,12 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 
 ## Redistricting Help Articles
 - [A tour of the redistricting ribbon](briefTour.md)
-- [Create a new redistricting plan](createPlan/index.md)
+- Create a new redistricting plan
   - [Choose the right redistriciting plan](choosePlan.md)
   - [Redistrict based on current resident students](residence.md)
   - [Redistrict based on resident students and current enrollment](enrollment.md)
   - [Redistrict based on forecasts](forecasts.md)
-- [Redistrict by changing boundaries between schools](modifyPlans/index.md)
+- Redistrict by changing boundaries between schools
   - [Change boundaries between schools](changeBoundaries.md)
   - [Add a new school](addSchool.md)
   - [Add an existing school](addExistingSchool.md)
