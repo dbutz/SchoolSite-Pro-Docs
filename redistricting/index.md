@@ -35,3 +35,4 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
   - [Original residence](statistics/statsWindow.md#the-statistics-window-original-residence)
   - [Residence net change](statistics/statsWindow.md#the-statistics-window-residence-net-change)
   - [Estimated enrollment](statistics/statsWindow.md#the-statistics-window-estimated-enrollment)
+- [Examples of common workflows (placeholder link)](index.md)
