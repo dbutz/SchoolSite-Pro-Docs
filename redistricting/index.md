@@ -16,7 +16,7 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 ## Redistricting Help Articles
 - [A tour of the redistricting ribbon](briefTour.md)
 
-- Create a new redistricting plan
+- [Create a new redistricting plan](createPlan/choosePlan.md#create-new-plan)
   - [Choose the right redistriciting plan](createPlan/choosePlan.md)
   - [Redistrict based on current resident students](createPlan/residence.md)
   - [Redistrict based on resident students and current enrollment](createPlan/enrollment.md)
