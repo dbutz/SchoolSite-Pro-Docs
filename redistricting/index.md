@@ -33,11 +33,11 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 
 - The Statistics Window
   - [Configure the statistics table](statistics/planProperties.md)
-  - [Current residence](statistics/statsWindow.md#the-statistics-window-current-residence)
-  - [Proposed residence](statistics/statsWindow.md#the-statistics-window-proposed-residence)
-  - [Selected](statistics/statsWindow.md#the-statistics-window-selected)
-  - [Original residence](statistics/statsWindow.md#the-statistics-window-original-residence)
-  - [Residence net change](statistics/statsWindow.md#the-statistics-window-residence-net-change)
-  - [Estimated enrollment](statistics/statsWindow.md#the-statistics-window-estimated-enrollment)
+  - [Current residence tab](statistics/statsWindow.md#the-statistics-window-current-residence)
+  - [Proposed residence tab](statistics/statsWindow.md#the-statistics-window-proposed-residence)
+  - [Selected tab](statistics/statsWindow.md#the-statistics-window-selected)
+  - [Original residence tab](statistics/statsWindow.md#the-statistics-window-original-residence)
+  - [Residence net change tab](statistics/statsWindow.md#the-statistics-window-residence-net-change)
+  - [Estimated enrollment tab](statistics/statsWindow.md#the-statistics-window-estimated-enrollment)
 
 - [Examples of common workflows (placeholder link)](index.md)
