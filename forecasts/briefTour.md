@@ -1,4 +1,4 @@
-# Brief Tour of the Forecast Ribbon
+# A tour of the forecast ribbon
 The following is a brief tour of the basics of SchoolSite Forecast Extension using the sample data which is copied onto your hard drive during software installation. The sample data is installed under the following folder:
  
 C:\Davis Demographics\GIS_SampleData
