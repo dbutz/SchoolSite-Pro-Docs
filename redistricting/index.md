@@ -17,17 +17,17 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 - [A tour of the redistricting ribbon](briefTour.md)
 
 - Create a new redistricting plan
-  - [Choose the right redistriciting plan](choosePlan.md)
-  - [Redistrict based on current resident students](residence.md)
-  - [Redistrict based on resident students and current enrollment](enrollment.md)
-  - [Redistrict based on forecasts](forecasts.md)
+  - [Choose the right redistriciting plan](createPlan/choosePlan.md)
+  - [Redistrict based on current resident students](createPlan/residence.md)
+  - [Redistrict based on resident students and current enrollment](createPlan/enrollment.md)
+  - [Redistrict based on forecasts](createPlan/forecasts.md)
   
 - Redistrict by changing boundaries between schools
-  - [Change boundaries between schools](changeBoundaries.md)
-  - [Add a new school](addSchool.md)
-  - [Add an existing school](addExistingSchool.md)
-  - [Close schools](closingSchools.md)
-  - [Reassign schools](reassignSchools.md)
+  - [Change boundaries between schools](modifyPlans/changeBoundaries.md)
+  - [Add a new school](modifyPlans/addSchool.md)
+  - [Add an existing school](modifyPlans/addExistingSchool.md)
+  - [Close schools](modifyPlans/closingSchools.md)
+  - [Reassign schools](modifyPlans/reassignSchools.md)
 
 - [Share your redistricting plan (placeholder link)](index.md)
 
