@@ -1,4 +1,4 @@
-# Changing Boundaries Between Schools
+# Change boundaries between schools
 To reassign study areas to existing schools, you must have at least one plan open in the SchoolSite Pro table of contents and have the plan you wish to edit as the active plan.
 
 ### 1. Begin the editing session: Choose the assign tab under Redistricting Plan. Then choose Start in the Assign ribbon.  
@@ -48,5 +48,3 @@ Contents Pane > Right click on Boundary Plan > Label
  ![assignStudyArea](../assignStudyArea.png)
  
 ### 8. To undo an assignment, click on the Undo button on the assign ribbon before Saving Assignments. When finished, stop the edit session by choosing Stop from the assign ribbon.
-
- 
