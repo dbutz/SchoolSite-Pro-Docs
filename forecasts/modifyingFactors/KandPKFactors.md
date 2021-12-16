@@ -3,8 +3,6 @@
 The first set of variables used to modify a straight pass-through projection is birth factors.
 Birth factors play a important role in the projection model as it determines the number of incoming Kindergarten students.
 
- 
-
 Most kindergarten students are 5 years old when they enter school.  Knowing when the current kindergarten class was born, you can estimate the class size of incoming students. 
 In using the example below, projections are for the current 2002 school year, therefore, we can assume the Kindergarten class was born in 2005.  
 The year the current Kindergarten class was born is called the base year. To assist in calculating the following year's Kindergarten class (2011), you would compare the number 
@@ -31,22 +29,12 @@ birth factors would be estimated based on past trends.  Here, we estimated a con
 
 3. Choose a method to display the study areas:
 
- 
-
-The first is to display study areas that are “Currently selected on the map”.  If you have selected study areas from the map display, this option will be available. If chosen, only the selected study areas will display for modification.  If you have no study areas selected, this option will not be available.  
-
- 
+The first is to display study areas that are “Currently selected on the map”.  If you have selected study areas from the map display, this option will be available. If chosen, only the selected study areas will display for modification.  If you have no study areas selected, this option will not be available.
 
 The second option is “Select by attendance area”.  With this option, choose the school attendance area from the dropdown list for which you wish to assign birth factors. This will display only the study areas that are currently assigned to that school attendance area. You can then modify birth factors for just those study areas.  Use this option when a specific area of the district is known to experience significantly higher or lower birth factors than surrounding areas.
 
- 
-
 The third (and most common) option is “Select all” which displays all study areas.  It is important to understand that when you make changes to the variables with the Select All option, that changes will affect all study areas in the district.
 
- 
-
 The Birth Rates are stored in the table on the right hand side of the form.  Once the study areas to display option is selected, you can modify each individual cell, changing the factor for each year and each study area.  
-
- 
 
 Or you can click on the top of the column of the year you wish to change and enter the number in the calculate field on the bottom of the form and it will change the birth factor for that year for all study areas selected/displayed.
