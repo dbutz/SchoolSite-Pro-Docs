@@ -1,4 +1,4 @@
-# Brief Tour of the Redistricting Toolbar
+# A tour of the redistricting ribbon
 The following is a brief tour of the basics of SchoolSite Redistricting Extension using the sample data which is copied onto your hard drive during software installation. The sample data is installed under the following folder by default:
 
 C:\Davis Demographics\GIS_SampleData
@@ -6,10 +6,8 @@ C:\Davis Demographics\GIS_SampleData
 ## Open the Existing Sample Plan
 To open an exisitng plan go to the Catalog Pane > Maps > myFirstPlan
 
-
 ## Choose Which Schools and Grades to View
 Before attempting to redistrict, it is helpful to view the current resident student population by grade for each school. The SchoolSite Redistricting Extension allows for viewing statistics via the Statistics Window.  The Statistics Window presents the data in a tabular format and can either remain floating or be docked like the Contents Pane. To access this feature, click on the Show Statistics in the Assign ribbon.
-
 
 1. From the Redistricting Toolbar, choose Show Statistics in the Assign ribbon. 
 
@@ -34,16 +32,18 @@ The Current Statistics Widnow shows current statistics based on boundaries shown
 ## Modifying Boundaries
 To simulate boundary changes between attendance areas, begin an assigning session from within the Assign ribbon.
 
- 
-
 1. From the Redistricting Plan select the Assign ribbon > Start Assignment 
+
 2.  To reassign study areas from existing schools select, from the Assign ribbon and Assign Tools group, the drop-down arrow below "Assign study areas to:" and select the school you wish to assign study area(s). In this case, select Harding ES.
+
 3. Next, in the Select drop down menu choose Select by Lasso.
  
- ![selectLasso](selectLasso.png)
+![selectLasso](selectLasso.png)
  
- 4. Click and draw a loop within the study areas to be reassigned to Harding ES. The plan should appear similar to the screenshot below. **Please note:** Selecting study areas that are already assigned to Harding ES will not change after reassigning them to Harding ES. 
-  
+4. Click and draw a loop within the study areas to be reassigned to Harding ES. The plan should appear similar to the screenshot below. 
+
+**Please note:** Selecting study areas that are already assigned to Harding ES will not change after reassigning them to Harding ES. 
+
 ![hardingES](hardingES.png)
 
 5. The selected study areas are highlighted in bright blue.  
@@ -61,7 +61,9 @@ To simulate boundary changes between attendance areas, begin an assigning sessio
 ![assignStudyArea](assignStudyArea.png)
 
 2. If you are certain you want to make your changes permanent, click on Save Assignments in the Assign group.
-3. When finished, stop the edit session by clicking Stop from the Assign group. **Please note: Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.**  
+
+3. When finished, stop the edit session by clicking Stop from the Assign group. **Please note: Once you choose to Save Assignments or Stop Assigning, you can no longer undo edits.** 
+
 4. If necessary click on Show Statistics, the Current Residence Tab reflects the update.
+
 5. To review the original statistics when the plan was first created, click on the Original Residence tab.
- 
