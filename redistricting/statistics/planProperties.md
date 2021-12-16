@@ -1,16 +1,10 @@
-# Plan Properties: Statistics Tab
+# Configure the statistics table
 
-The Plan Properties Statistics Tab allows you to analyze your boundary scenarios based on various student attributes such as grade, ethnicity, loading standards and projected student residence.
-
- 
+The Plan Properties Statistics Tab allows you to analyze your boundary scenarios based on various student attributes such as grade, ethnicity, loading standards and projected student residence. 
 
 The statistics you choose in this window will be displayed in the plan report and in the statistics window.
 
- 
-
 To access the Statistics tab of the Plan Properties dialog box from the Redistricting Toolbar:
-
- 
 
 Choose Redistricting > Plan Properties > Statistics
 
@@ -26,14 +20,10 @@ From the list, choose which schools to display statistics for by checking the bo
 
 Selecting grades only applies to the grades you wish to display in the Residence Tab of the statistics window. Residence  redistricting can theoretically encompass any grades or grade ranges you desire during the boundary planning process since residency is not concerned with the school of attendance. You can specify any number of grades or grade ranges you wish as you make resident boundary changes. If a plan is created based upon "Current Resident Students and Current Enrollment" the Estimated Enrollment tab will always display all grades for each school. 
 
- 
-
 Select one of the predefined grade ranges by clicking on the boxes or click on custom to create your own grade range to report on. Examples of custom grade ranges would include "K-5, 6-8" or "K-8".
 
 ## Statistics Types
 This section allows you to report the number of students in each of the selected schools based on various attributes.  The Grade Distribution option (default option) reports the number of students in each grade selected. Statistic types only display in the resident tabs of the statistics window. The Estimated Enrollment tab only displays individual grades and grade ranges.
-
- 
 
 * __Grade Distribution__
 This will allow you to select the individual grades and grade ranges (in the Select Grades section) to display in the statistics window.
