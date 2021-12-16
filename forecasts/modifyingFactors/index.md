@@ -1,4 +1,4 @@
-# Modifying Factors
+# Modify forecast factors
 
 SchoolSite gives you the ability to create factors for 10 year forecasts through the Modify factors in the forecasting ribbon. 
 To access the Modify Factors dockpane, open your forecast map and click on the forecasting ribbon > Modify Factors.
