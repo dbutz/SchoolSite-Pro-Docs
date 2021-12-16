@@ -19,15 +19,14 @@ Forecast Help Articles
 - [A tour of the forecast ribbon](briefTour.md)
 - [Create a new forecast](createForecast/createForecast.md)
   - Decide what data to include in your forecast (tract and assessor data)
-- Manage your forecast 
-  - [Modify forecast factors](modifyingFactors/index.md)
-    - [PK and K factors](modifyingFactors/KandPKFactors.md)
-    - [Distributed enrollment](modifyingFactors/distributedEnrollment.md)
-    - [Maturation student yield factors](modifyingFactors/maturation.md)
-    - [Mobility](modifyingFactors/mobilityFactors.md)
-    - [Projected housing units](modifyingFactors/projectedHousing.md)
-    - [Student counts](modifyingFactors/studentCount.md)
-    - [Student yield factors](modifyingFactors/studentYieldFactors.md)
+- [Modify forecast factors](modifyingFactors/index.md)
+  - [PK and K factors](modifyingFactors/KandPKFactors.md)
+  - [Distributed enrollment](modifyingFactors/distributedEnrollment.md)
+  - [Maturation student yield factors](modifyingFactors/maturation.md)
+  - [Mobility](modifyingFactors/mobilityFactors.md)
+  - [Projected housing units](modifyingFactors/projectedHousing.md)
+  - [Student counts](modifyingFactors/studentCount.md)
+  - [Student yield factors](modifyingFactors/studentYieldFactors.md)
 - Generate a forecast report
   - [Forecast report properties](forecastProperties/index.md)
   - Include maturation data in your report
