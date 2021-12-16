@@ -1,4 +1,4 @@
-# Adding a New School
+# Add a new school
 From the SchoolSite Redistricting Extension Toolbar, choose the assign tab, then Update Schools. You can only add new schools when your active plan is not in editing/assigning mode. If you are in assignment mode, the add new school menu option will be grayed out.
 
 ![updateSchools.png](modifyImages/updateSchools.png)
