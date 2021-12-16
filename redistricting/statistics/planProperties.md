@@ -1,12 +1,10 @@
 # Configure the statistics table
 
-The Plan Properties Statistics Tab allows you to analyze your boundary scenarios based on various student attributes such as grade, ethnicity, loading standards and projected student residence. 
+The Statistics Window allows you to analyze your boundary scenarios based on various student attributes such as grade, ethnicity, loading standards and projected student residence. 
 
-The statistics you choose in this window will be displayed in the plan report and in the statistics window.
+The settings you choose will be displayed in the statistics table.
 
-To access the Statistics tab of the Plan Properties dialog box from the Redistricting Toolbar:
-
-Choose Redistricting > Plan Properties > Statistics
+To access the Statistics Window, go to the redistricting ribbon and click Statistics Window.
 
 ![StatsCurrent](statImages/statsCurrent.png)
 
