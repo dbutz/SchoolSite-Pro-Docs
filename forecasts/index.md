@@ -18,7 +18,7 @@ Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ex
 Forecast Help Articles
 - [A tour of the forecast ribbon](briefTour.md)
 - [Create a new forecast](createForecast/createForecast.md)
-  - Decide what data to include in your forecast (tract and assessor data)
+  - [Decide what data to include in your forecast (tract and assessor data)](createForecast/includeTractAssessorData.md)
 - [Modify forecast factors](modifyingFactors/index.md)
   - [PK and K factors](modifyingFactors/KandPKFactors.md)
   - [Distributed enrollment](modifyingFactors/distributedEnrollment.md)
@@ -34,7 +34,7 @@ Forecast Help Articles
     - Maturation factors
       - [Current housing units](maturationFactors/housingUnits.md)
       - [Potential development](maturationFactors/potentialDev.md)
-      - [Distributed enrollment (placeholder link)](maturationFactors/housingUnits.md)
+      - [Maturation student yield factors](maturationFactors/matStudentYield.md)
   - Include historical student data in your report
 - Map display
 - Additional forecast reports
