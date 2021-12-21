@@ -20,14 +20,14 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
   - [Redistrict based on current resident students](createPlan/residence.md)
   - [Redistrict based on resident students and current enrollment](createPlan/enrollment.md)
   - [Redistrict based on forecasts](createPlan/forecasts.md)
-- Redistrict by changing boundaries between schools
+- [Redistrict by changing boundaries between schools](modifyPlans/index.md)
   - [Change boundaries between schools](modifyPlans/changeBoundaries.md)
   - [Add a new school](modifyPlans/addSchool.md)
   - [Add an existing school](modifyPlans/addExistingSchool.md)
   - [Close schools](modifyPlans/closingSchools.md)
   - [Reassign schools](modifyPlans/reassignSchools.md)
-- Share your redistricting plan
-- The Statistics Window
+- [Share your redistricting plan](share/index.md)
+- [The Statistics Window](statistics/index.md)
   - [Configure the statistics table](statistics/planProperties.md)
   - [Current residence tab](statistics/statsWindow.md#the-statistics-window-current-residence)
   - [Proposed residence tab](statistics/statsWindow.md#the-statistics-window-proposed-residence)
