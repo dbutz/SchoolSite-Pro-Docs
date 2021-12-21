@@ -15,22 +15,18 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 
 ## Redistricting Help Articles
 - [A tour of the redistricting ribbon](briefTour.md)
-
 - [Create a new redistricting plan](createPlan/choosePlan.md#create-new-plan)
   - [Choose the right redistriciting plan](createPlan/choosePlan.md)
   - [Redistrict based on current resident students](createPlan/residence.md)
   - [Redistrict based on resident students and current enrollment](createPlan/enrollment.md)
   - [Redistrict based on forecasts](createPlan/forecasts.md)
-  
 - Redistrict by changing boundaries between schools
   - [Change boundaries between schools](modifyPlans/changeBoundaries.md)
   - [Add a new school](modifyPlans/addSchool.md)
   - [Add an existing school](modifyPlans/addExistingSchool.md)
   - [Close schools](modifyPlans/closingSchools.md)
   - [Reassign schools](modifyPlans/reassignSchools.md)
-
-- [Share your redistricting plan (placeholder link)](index.md)
-
+- Share your redistricting plan
 - The Statistics Window
   - [Configure the statistics table](statistics/planProperties.md)
   - [Current residence tab](statistics/statsWindow.md#the-statistics-window-current-residence)
@@ -39,5 +35,4 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
   - [Original residence tab](statistics/statsWindow.md#the-statistics-window-original-residence)
   - [Residence net change tab](statistics/statsWindow.md#the-statistics-window-residence-net-change)
   - [Estimated enrollment tab](statistics/statsWindow.md#the-statistics-window-estimated-enrollment)
-
-- [Examples of common workflows (placeholder link)](index.md)
+- Examples of common workflows
