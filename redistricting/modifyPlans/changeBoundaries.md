@@ -1,4 +1,6 @@
 # Change boundaries between schools
+You might need to make redistricting changes after reassigning study areas or if your district has to make changes to existing boundaries. You can make these changes to balance student population by residence and site capacities.
+
 To reassign study areas to existing schools, you must have at least one plan open in the SchoolSite Pro table of contents and have the plan you wish to edit as the active plan.
 
 ### 1. Begin the editing session: Choose the assign tab under Redistricting Plan. Then choose Start in the Assign ribbon.  
