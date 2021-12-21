@@ -1,6 +1,5 @@
 # SchoolSite Enrollment Forecasts
 Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Extension provides a user friendly wizard-based method to predict future student enrollment.
-&nbsp;
 
 ## SchoolSite Forecast Key Functions:
 * Locate potential future school sites
@@ -27,11 +26,11 @@ Forecast Help Articles
   - [Projected housing units](modifyingFactors/projectedHousing.md)
   - [Student counts](modifyingFactors/studentCount.md)
   - [Student yield factors](modifyingFactors/studentYieldFactors.md)
-- Generate a forecast report
-  - [Forecast report properties](forecastProperties/index.md)
+- [Generate a forecast report](forecastProperties/forecastReports.md)
   - Include maturation data in your report
-    - [Maturation concept](maturationConcept/index.md)
-    - Maturation factors
+    - [Maturation concept](maturationConcept/maturationConcept.md)
+    - [Maturation methodology](maturationConcept/methodology.md)
+    - [Maturation factors](maturationFactors/index.md)
       - [Current housing units](maturationFactors/housingUnits.md)
       - [Potential development](maturationFactors/potentialDev.md)
       - [Maturation student yield factors](maturationFactors/matStudentYield.md)
