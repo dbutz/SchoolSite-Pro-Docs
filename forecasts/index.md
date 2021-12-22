@@ -27,8 +27,7 @@ Forecast Help Articles
   - [Student counts](modifyingFactors/studentCount.md)
   - [Student yield factors](modifyingFactors/studentYieldFactors.md)
 - [Generate a forecast report](forecastProperties/forecastReports.md)
-  - Include maturation data in your report
-    - [Maturation concept](maturationConcept/maturationConcept.md)
+  - [Include maturation data in your report](maturationConcept/maturationConcept.md)
     - [Maturation methodology](maturationConcept/methodology.md)
     - [Maturation factors](maturationFactors/index.md)
       - [Current housing units](maturationFactors/housingUnits.md)
