@@ -1,4 +1,4 @@
-# Create a new forecast
+# Create a New Forecast
 
 To create a new set of projections: SchoolSite > Create > Forecast
 
