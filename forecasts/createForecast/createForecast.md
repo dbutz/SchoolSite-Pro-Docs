@@ -2,6 +2,8 @@
 
 To create a new set of projections: SchoolSite > Create > Forecast
 
+![createForecast](forecastImages/createForecast.png)
+
 Type in the name of your forecast and select the student types you wish to incluse in the forecast (Resident , Special Education, Indepent Study, Charter, Other) 
 
 Select the base forecast date
