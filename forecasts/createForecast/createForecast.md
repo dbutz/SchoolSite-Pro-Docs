@@ -6,6 +6,8 @@ To create a new set of projections: SchoolSite > Create > Forecast
 
 Type in the name of your forecast and select the student types you wish to incluse in the forecast (Resident , Special Education, Indepent Study, Charter, Other) 
 
+![createForecastPane](forecastImages/createForecast.png)
+
 Select the base forecast date
 
 Enter Tract Data (Optional) If you imported tract data in Data Setup, you can choose to use tract data in your forecast. Once you click the check box next to "Use Tract Data", you will then select which tract data you'd like to use in your forcast. 
