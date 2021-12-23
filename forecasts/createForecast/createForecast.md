@@ -22,3 +22,5 @@ Once all the fields are properly filled in, click on the Finish button to create
 Please Note:  You can decrease the time needed to create forecasts by including only the necessary fields in the study area, student, school, tract and assessor datasets.  The time to create a forecast also depends on the number of students in the district.
 
 Once the forecast has completed, it will be added to the table of contents as a map and displayed in light blue. To modify factors (i.e. birth factors, mobility factors, student yield factors etc), click on the Modify Factors in the Forecasting ribbon.
+
+![forecastRibbon](forecastImages/forecastRibbon.png)
