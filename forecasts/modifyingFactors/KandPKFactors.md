@@ -23,7 +23,7 @@ birth factors would be estimated based on past trends.  Here, we estimated a con
 
 ## Entering Birth Factors 
 
-![pkFactors](forcastImages/pkFactors.png)
+![pkFactors](factorImages/pkFactors.png)
 
 1. Click on the drop down menu for Modify Factors in the Forecasting ribbon.
 
@@ -31,7 +31,7 @@ birth factors would be estimated based on past trends.  Here, we estimated a con
 
 3. Choose a method to display the study areas:
 
-![pkFactorsPane](forecastImages/pkFactors.png)
+![pkFactorsPane](factorImages/pkFactors.png)
 
 The first is to display study areas that are “Currently selected on the map”.  If you have selected study areas from the map display, this option will be available. If chosen, only the selected study areas will display for modification.  If you have no study areas selected, this option will not be available.
 
