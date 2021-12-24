@@ -1,4 +1,4 @@
-# Configure the look of your map:
+# Configure the look of your map
 SchoolSite Pro makes it easy to visualize your forecasted data. The Forecast Display options can help you identify which neighborhoods are forecasted to experience higher growth, and which areas might be slowing down in growth as well. Having the ability to visualize where these areas of interest are can help determine where your District might need to add a new school, close an old school, or reassign an area to another school. Visualizing your data by focusing on specific grade ranges and time frames can help you plan more accurately for the future. 
 
 To configure the look of your map, click on the Forecast ribbon. Under the section titled Forecast Display, you will see four different drop-down menus:
