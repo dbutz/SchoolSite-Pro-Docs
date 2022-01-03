@@ -3,7 +3,6 @@ Including maturation data into your forecast can lead to more accurate predictio
 
 - [Maturation concept](maturationConcept.md)
 - [Maturation methodology](methodology.md)
-- [Maturation factors](index.md)
-  - [Current housing units](housingUnits.md)
-  - [Potential development](potentialDev.md)
-  - [Maturation student yield factors](matStudentYield.md)
+- [More about Current housing units](housingUnits.md)
+- [More about Potential development](potentialDev.md)
+- [More about Maturation student yield factors](matStudentYield.md)
