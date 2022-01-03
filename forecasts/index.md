@@ -37,6 +37,5 @@ Forecast Help Articles
 - [Configure the look of your map](mapDisplay/index.md)
 - [Additional forecast reports](additionalForecastReports.md)
   -  [Staffing forecast report](staffingForecasts/aboutStaff.md)
-  -  Development summary report
-  -  Project summary report
-- Examples of common workflows
+  -  [Development summary report](developmentSummary/index.md)
+  -  [Project summary report](projectSummary/index.md)
