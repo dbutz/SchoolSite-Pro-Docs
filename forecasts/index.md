@@ -30,13 +30,12 @@ Forecast Help Articles
   - [Include maturation data in your forecast](maturation/index.md)
       - [Maturation concept](maturation/maturationConcept.md)
       - [Maturation methodology](maturation/methodology.md)
-      - [Maturation factors](maturation/index.md)
-        - [Current housing units](maturation/housingUnits.md)
-        - [Potential development](maturation/potentialDev.md)
-        - [Maturation student yield factors](maturation/matStudentYield.md)
+      - [More about Current housing units](maturation/housingUnits.md)
+      - [More about Potential development](maturation/potentialDev.md)
+      - [More about Maturation student yield factors](maturation/matStudentYield.md)
   - Include historical student data in your report
 - [Configure the look of your map](mapDisplay/index.md)
-- Additional forecast reports
+- [Additional forecast reports](additionalForecastReports.md)
   -  [Staffing forecast report](staffingForecasts/aboutStaff.md)
   -  Development summary report
   -  Project summary report
