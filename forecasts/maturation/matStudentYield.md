@@ -1,4 +1,4 @@
-# Maturation Student Yield Factors
+# More about Maturation Student Yield Factors
 ## Calculating Student Yield Factors
 
 The Maturation Student Yield Factors (MSYFs), combined with the total number of housing units estimated
