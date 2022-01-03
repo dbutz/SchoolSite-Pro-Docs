@@ -35,7 +35,6 @@ Forecast Help Articles
       - [More about Maturation student yield factors](maturation/matStudentYield.md)
   - Include historical student data in your report
 - [Configure the look of your map](mapDisplay/index.md)
-- [Additional forecast reports](additionalForecastReports.md)
-  -  [Staffing forecast report](staffingForecasts/aboutStaff.md)
-  -  [Development summary report](developmentSummary/index.md)
-  -  [Project summary report](projectSummary/index.md)
+- [Staffing forecast report](staffingForecasts/aboutStaff.md)
+- [Development summary report](developmentSummary/index.md)
+- [Project summary report](projectSummary/index.md)
