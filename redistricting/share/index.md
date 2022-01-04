@@ -3,7 +3,7 @@
 SchoolSite Pro and Esri offer multiple ways to share your redistricting plan.
 
 ## Online options: 
-The best way to publish and share your redistricting plan online is by sharing it as a web map or as a web layer. Sharing your data as a web map means that your plan is uploaded online as a whole map, preserving things like layer symbology and including all layers within that map. Sharing your data as a web layer means that your plan is uploaded online as a single layer of data. 
+The best way to publish and share your redistricting plan online is by sharing it as a web map or as a web layer. Sharing your data as a web map means that your plan is uploaded online as a whole map, preserving things like layer symbology and including all layers within that map. Sharing your data as a web layer means that your plan is uploaded online as a single layer of data. A web map is composed of web layers. 
 
 To do this, go to the first share ribbon. In the Share As section, select either Web Map or Web Layer. A dockpane will appear.
 
