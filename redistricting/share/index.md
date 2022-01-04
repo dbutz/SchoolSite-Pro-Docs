@@ -3,7 +3,7 @@
 SchoolSite Pro and Esri offer multiple ways to share your redistricting plan.
 
 ## Online options: 
-The best way to publish and share your redistricting plan online is by sharing it as a web map or as a web layer. Sharing your data as a web map means… Sharing your data as a web layer means…
+The best way to publish and share your redistricting plan online is by sharing it as a web map or as a web layer. Sharing your data as a web map means that your plan is uploaded online as a whole map, preserving things like layer symbology and including all layers within that map. Sharing your data as a web layer means that your plan is uploaded online as a single layer of data. 
 
 To do this, go to the first share ribbon. In the Share As section, select either Web Map or Web Layer. A dockpane will appear.
 
@@ -17,7 +17,8 @@ To do this, go to the first share ribbon. In the Share As section, select either
 - After all the required information is filled out, click Analyze. You can proceed to Share if there are no errors and if only earnings exist. Errors will need to be fixed before sharing.
 - Click Share. 
 
-Here is more information about sharing as a web map: https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/share-a-web-map.htm
+Here is more information about sharing as a web map: 
+- [Share a web map](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/share-a-web-map.htm)
 
 ### Share as a Web Layer:
 - Name (a unique name of an item that doesn’t already exist on your ArcGIS Online content)
@@ -30,8 +31,8 @@ Here is more information about sharing as a web map: https://pro.arcgis.com/en/p
 - Click Publish. 
 
 Here is more information about publishing as a web layer:
-https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/web-feature-layer.htm
-https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/introduction-to-sharing-web-layers.htm
+- [Web feature layer overview](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/web-feature-layer.htm)
+- [Introduction to sharing web layers](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/introduction-to-sharing-web-layers.htm)
 
 ## Local export options: 
 - Export Plan: Export your attendance areas as a feature layer.  The results will be located in your project’s default geodatabase. 
