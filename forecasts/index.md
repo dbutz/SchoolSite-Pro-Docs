@@ -33,7 +33,7 @@ Forecast Help Articles
       - [More about Current housing units](maturation/housingUnits.md)
       - [More about Potential development](maturation/potentialDev.md)
       - [More about Maturation student yield factors](maturation/matStudentYield.md)
-  - Include historical student data in your report
+  - [Include historical student data in your report](historical/index.md)
 - [Configure the look of your map](mapDisplay/index.md)
 - [Staffing forecast report](staffingForecasts/aboutStaff.md)
 - [Development summary report](developmentSummary/index.md)
