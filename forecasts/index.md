@@ -14,7 +14,7 @@ Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ex
 * Enrollment projections are automatically linked to the Redistricting Extension
 * Generate reports to aid in future staffing decisions based on historical data
 
-Forecast Help Articles
+## Forecast Help Articles
 - [A tour of the forecast ribbon](briefTour.md)
 - [Create a new forecast](createForecast/createForecast.md)
   - [Decide what data to include in your forecast (tract and assessor data)](createForecast/includeTractAssessorData.md)
@@ -36,5 +36,5 @@ Forecast Help Articles
   - [Include historical student data in your report](historical/index.md)
 - [Configure the look of your map](mapDisplay/index.md)
 - [Staffing forecast report](staffingForecasts/aboutStaff.md)
-- [Development summary report](developmentSummary/index.md)
-- [Project summary report](projectSummary/index.md)
+- [Development summary report](developmentSummary/index.md) - Needs content!
+- [Project summary report](projectSummary/index.md) - Needs content!
