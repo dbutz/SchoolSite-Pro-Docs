@@ -1,6 +1,5 @@
-# Choose the right redistriciting plan
-## Create new plan 
-To begin a new redistricting plan: SchoolSite > Create > Plan 
+# Create a new redistricting plan
+To begin a new redistricting plan, on the SchoolSite ribbon, click Create, then Plan.
 
 ![Plan](planImages/plan.png)
 
