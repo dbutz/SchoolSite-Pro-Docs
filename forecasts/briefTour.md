@@ -1,7 +1,7 @@
 # A tour of the forecast ribbon
 The following is a brief tour of the basics of forecasts in SchoolSite Pro using the sample data which is copied onto your hard drive during software installation. The sample data is installed under the following folder:
  
-C:\Davis Demographics\GIS_SampleData
+*C:\Davis Demographics\GIS_SampleData*
 
 ## Forecast Reports
 To view forecast reports, modify factors, refresh forecast, and export forecasts choose the green Forecasting ribbon.
