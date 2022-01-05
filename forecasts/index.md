@@ -17,7 +17,6 @@ Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ex
 ## Forecast Help Articles
 - [A tour of the forecast ribbon](briefTour/index.md)
 - [Create a new forecast](createForecast/createForecast.md)
-  - [Decide what data to include in your forecast (tract and assessor data)](createForecast/includeTractAssessorData.md)
 - [Modify forecast factors](modifyingFactors/index.md)
 - [Generate a forecast report](forecastProperties/forecastReports.md)
   - [Include maturation data in your forecast](maturation/index.md)
