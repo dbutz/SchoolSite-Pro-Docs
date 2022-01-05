@@ -15,7 +15,7 @@ Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ex
 * Generate reports to aid in future staffing decisions based on historical data
 
 ## Forecast Help Articles
-- [A tour of the forecast ribbon](briefTour.md)
+- [A tour of the forecast ribbon](briefTour/index.md)
 - [Create a new forecast](createForecast/createForecast.md)
   - [Decide what data to include in your forecast (tract and assessor data)](createForecast/includeTractAssessorData.md)
 - [Modify forecast factors](modifyingFactors/index.md)
