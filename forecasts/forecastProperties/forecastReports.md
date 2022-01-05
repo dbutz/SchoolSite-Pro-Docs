@@ -20,14 +20,6 @@ The first option What do you want to display? has three choices: By Study Area, 
 
 1. **"By Study Area”** will display the forecasts for each study area you have chosen to display. You have three options, as shown below. They are: study areas you currently have selected on the map, a single study area which you choose from the drop down menu, or all study areas. The choice Currently Selected on the Map is only available (i.e. not grayed out), if you have selected study areas on your map.
 
-Click on the View tab to view your Forecast. 
-
 2. **“By Existing Attendance Areas"** will display the forecasts for the chosen attendance area(s) for whatever grade level you choose. Attendance area forecasts are, in essence, a summarization of all the individual study areas forecasts making up the attendance area. After choosing the school type, choose either a single attendance area (which you select from the drop down menu), or all attendance areas (all of that school type). The third option is to display all schools by type (elementary, middle or high) that are contained within a selected subdistrict. A subdistrict refers to the district field within the study area dataset. Many times there are values in the "district" field that indicate additional geographic areas such as board trustee areas, city boundaries etc. If you have coded your study areas with unique subdistrict values, you may select and display attendance area forecasts that fall within the selected subdistrict.
 
-Click on the View tab to view your forecast. 
-
 3. **“By District Summary”** will summarize all study areas and display them as a district wide report or you can choose a subdistrict.
-
-Click on the View tab to view your forecast. 
-
-**Please note:** When selecting a District wide forecast report, the option to include historical residence data might be available for you.
