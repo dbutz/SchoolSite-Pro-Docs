@@ -16,11 +16,11 @@ Click on the Forecasting ribbon, then Forecast Reports. The Setup Tab should dis
 
 When you finish with the above steps, your screen should look like the following example:
 
-![Forecast setup](tourForecastSetup.PNG)
+![Forecast setup](images/tourForecastSetup.PNG)
 
 To see the report you have set up, click on the View tab. You may have to adjust the size of the window to see the last few years of the projection.
 
-![Forecast report sample](tourForecastReportSample.PNG)
+![Forecast report sample](images/tourForecastReportSample.PNG)
 
 The district summary above shows the results of a straight pass-through projection for the base year 2022. Next, we will change the birth rate, mobility and residential housing trends and view the results.
 
@@ -39,7 +39,7 @@ Type in the value 1.05 in the box next to "YEAR1:"
 
 Click on the Apply button. The values for all study areas in the column will change as illustrated. This factor applies a multiplier of 1.05 (a 5% increase) to the Kindergarten class for the first year of projections for all study areas selected.
 
-![Forecast birth rates](tourForecastBirthRates.PNG)
+![Forecast birth rates](images/tourForecastBirthRates.PNG)
 
 - Method 2: Edit by selecting individual cells
 
@@ -70,6 +70,6 @@ Click Modify Factors in Forecasting ribbon and choose Student Yield Factors
 1. Under "Specify types to display", check only the box next to Type 1. (Type 1 represents in this example Single Family Dwelling Units).
 2. Under "Modify student yield factors:" type in the following values shown below.
 
-![Forecast modify student yield factors](tourForecastModifySyf.PNG)
+![Forecast modify student yield factors](images/tourForecastModifySyf.PNG)
 
 In this example, we are assuming that 0.2527 K-6 students will be generated for every Type 1 Single Family Detached (SFD) Unit.  In addition, 0.1371 7-8 students and 0.1733 9-12 students will be generated from each new housing unit.
