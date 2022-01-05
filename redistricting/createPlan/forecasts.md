@@ -1,7 +1,5 @@
 # Redistrict based on forecasts
-**Please Note:** Projection based redistricting plans must be created in a SchoolSite Geodatabase that contains the projection you wish to base your plan on
-
- 
+**Please Note:** You must first create a forecast before creating a redistricting plan based on a forecast.
 
 To begin a new redistricting plan: SchoolSite > Create > Plan.
 ## Option Three: Create Plan Based on Forecasted Students
