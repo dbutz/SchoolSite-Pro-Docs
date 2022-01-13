@@ -18,12 +18,12 @@ SchoolSite Pro uses a single-user licensing model on a subscription basis. A lic
 
 ## Frequently Asked Questions
 
-### [How do I upgrade from SchoolSite Desktop to SchoolSite Pro?](../faq/upgradingToPro.md)
+### [How do I upgrade from SchoolSite Desktop to SchoolSite Pro?](faq/upgradingToPro.md)
 
-### [What kind of data do I need in order to use SchoolSite Pro?](../faq/whatData.md)
+### [What kind of data do I need in order to use SchoolSite Pro?](faq/whatData.md)
 
-### [Where can I obtain data?](../faq/obtainData.md)
+### [Where can I obtain data?](faq/obtainData.md)
 
-### [How should I organize my data?](../faq/organizingData.md)
+### [How should I organize my data?](faq/organizingData.md)
 
-### [What are study areas?](../faq/studyAreas.md)
+### [What are study areas?](faq/studyAreas.md)
