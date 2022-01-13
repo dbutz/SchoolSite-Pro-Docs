@@ -26,4 +26,4 @@ SchoolSite Pro uses a single-user licensing model on a subscription basis. A lic
 
 ### [How should I organize my data?](../faq/organizingData.md)
 
-### [What are study areas?](../faq/studyAreas.md).
+### [What are study areas?](../faq/studyAreas.md)
