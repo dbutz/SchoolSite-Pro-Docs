@@ -29,6 +29,6 @@ SchoolSite Pro is the planning tool developed and used in-house by Davis’ staf
   - [Include maturation data in your forecast](forecasts/maturation/index.md)
   - [Include historical student data in your report](forecasts/historical/index.md)
 - [Configure the look of your map](forecasts/mapDisplay/index.md)
-- [Staffing forecast report](forecasts/staffingForecasts/aboutStaff.md)
+- [Enrollment forecast report](forecasts/enrollmentForecasts/aboutEnrollmenv.md)
 - [Development summary report](forecasts/developmentSummary/index.md)
 - [Project summary report](forecasts/projectSummary/index.md)
