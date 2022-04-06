@@ -22,6 +22,6 @@ Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ex
   - [Include maturation data in your forecast](maturation/index.md)
   - [Include historical student data in your report](historical/index.md)
 - [Configure the look of your map](mapDisplay/index.md)
-- [Staffing forecast report](staffingForecasts/aboutStaff.md)
+- [Enrollment forecast report](staffingForecasts/aboutStaff.md)
 - [Development summary report](developmentSummary/index.md)
 - [Project summary report](projectSummary/index.md)
