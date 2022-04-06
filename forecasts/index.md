@@ -1,5 +1,5 @@
 # SchoolSite Enrollment Forecasts
-Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Extension provides a user friendly wizard-based method to predict future student enrollment.
+Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ribbon provides a user friendly, intuitive method to predict future student enrollment.
 
 ## SchoolSite Forecast Key Functions:
 * Locate potential future school sites
@@ -22,6 +22,6 @@ Welcome to the SchoolSite Forecast Extension for SchoolSite Pro! The Forecast Ex
   - [Include maturation data in your forecast](maturation/index.md)
   - [Include historical student data in your report](historical/index.md)
 - [Configure the look of your map](mapDisplay/index.md)
-- [Enrollment forecast report](staffingForecasts/aboutStaff.md)
+- [Enrollment forecast report](enrollmentForecasts/aboutEnrollment.md)
 - [Development summary report](developmentSummary/index.md)
 - [Project summary report](projectSummary/index.md)
