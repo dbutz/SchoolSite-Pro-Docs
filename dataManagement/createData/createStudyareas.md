@@ -41,18 +41,18 @@ The following fields are **required for SchoolSite Pro Locator** , but **not req
 
 13. **HIGH_DESC**  - A field containing the name of the High School that the study area is assigned to. The HIGH_DESC field should be defined as data type "Text" with a length of 50.
 
-14. **TRUSTEE** - A field containing the Trustee area the Study Area is in. The TRUSTEE field should be defined as a "Short Integer".
+14. **TRUSTEE** - A field containing the Trustee area the Study Area is in. The TRUSTEE field should be defined as a "Short Integer" or "Long Integer".
 
 The following fields are **required for SchoolSite Pro Locator**, but are only used for Study Areas that are in split attendance areas or optional areas.  
 
  
 
-15. **ADD_SCHL1** - "Short Integer" and not null
+15. **ADD_SCHL1** - "Short Integer" or "Long Integer" and not null
 
-16. **ADD_SCHL2** - "Short Integer" and not null
+16. **ADD_SCHL2** - "Short Integer" or "Long Integer" and not null
 
-17. **ADD_SCHL3** - "Short Integer" and not null
+17. **ADD_SCHL3** - "Short Integer" or "Long Integer" and not null
 
-18. **ADD_SCHL4** - "Short Integer" and not null
+18. **ADD_SCHL4** - "Short Integer" or "Long Integer" and not null
 
-19. **ADD_SCHL5** - "Short Integer" and not null
+19. **ADD_SCHL5** - "Short Integer" or "Long Integer" and not null
