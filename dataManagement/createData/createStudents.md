@@ -1,4 +1,4 @@
-# Creating Students - REVIEWED
+# Creating Students
 
 ## Students - a point feature class
 The student point feature class is created by geocoding a table of student information to a street centerline layer, address point layer or other reference data typically used for geocoding.  When geocoding students to street centerlines, it is important to use offset parameters to be sure that student points are not placed directly on a street and they fall within a distinct study area and attendance boundary.  It should be noted that in order to effectively develop enrollment forecasts, you will need a minimum of three years (preferably four years) of geocoded students all extracted from the SIS at, or close, to the same date each year.  That date is usually the fall reporting period each year for fall-generated forecasts.
