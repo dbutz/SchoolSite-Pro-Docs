@@ -8,12 +8,12 @@ Districts with established Study Areas need to map and enter the information int
 ## Required Fields:
 1. **STDYAREA** - A field containing the unique number of the study area, defined as data type "Text" with a length of 6. No duplicate values and no special characters.
 
-1. **ELEM_** - A field containing the Elementary School number the study area is assigned to, defined as data type "Short Integer". If one record has ELEM_ > 0, then all records must have ELEM_ > 0
+1. **ELEM_** - A field containing the Elementary School number the study area is assigned to, defined as data type "Short Integer" or "Long Integer". If one record has ELEM_ > 0, then all records must have ELEM_ > 0
 
-1. **MID_** - A field containing the number of the Middle School number the study area is assigned to, defined as data type "Short Integer". If one record has MID_ > 0, then all records must have MID_ > 0
-1. **INT_** - A field containing the number of the Intermediate School number the study area is assigned to, defined as data type "Short Integer". If one record has INT_ > 0, then all records must have INT_ > 0
+1. **MID_** - A field containing the number of the Middle School number the study area is assigned to, defined as data type "Short Integer" or "Long Integer". If one record has MID_ > 0, then all records must have MID_ > 0
+1. **INT_** - A field containing the number of the Intermediate School number the study area is assigned to, defined as data type "Short Integer" or "Long Integer". If one record has INT_ > 0, then all records must have INT_ > 0
 
-1. **HIGH_** - A field containing the High School number the study area is assigned to, defined as data type "Short Integer". If one record has HIGH_ > 0, then all records must have HIGH_ > 0
+1. **HIGH_** - A field containing the High School number the study area is assigned to, defined as data type "Short Integer" or "Long Integer". If one record has HIGH_ > 0, then all records must have HIGH_ > 0
 
 1. **DISTRICT** - A field containing a six letter code used to report and summarize portions of the District, defined as data type "Text".  Examples are: Elementary district code for a Union High School district, School Board or Trustee area or any other values for which you wish to summarize projections by area. The DISTRICT field should be defined as data type "Text" with a maximum length of 50.
 
