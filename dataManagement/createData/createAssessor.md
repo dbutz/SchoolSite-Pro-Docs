@@ -18,9 +18,10 @@ The best source for housing information is your local County Tax Assessor office
     * AFD - Affordable Housing
 
 
+
 2. **TTL_DU** – a "Short Integer" or "Long Integer" field.  This field will contain the number of total dwelling units located at a particular assessor point.  For example, a single family detached would be one unit and an apartment complex could be anywhere from one to several hundred units. No NULL values or special characters in these fields.
 
- __Suggested Field:__
+## Suggested Fields:
 1. **YEARBUILT** – a "Short Integer" or "Long Integer" field.  This field will contain the year the unit was built and can be used to create student yield factors.
 2. **DEVELOPER** - a "Text" field. This information will be needed if you want to create a Developer Summary Report as part of a forecast.
 3. **ADDRESS** (or SITUS) - a "Text" field. This field gives the address location of each parcel.  This field is used to geocode the assessor data to the street data.
