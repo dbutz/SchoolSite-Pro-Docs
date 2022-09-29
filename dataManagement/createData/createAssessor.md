@@ -9,13 +9,13 @@ The best source for housing information is your local County Tax Assessor office
 ## Required Fields:
 1. **TYPE** – a "Text" field.  It is a description of the type of housing unit contained in the assessor record.  Be sure to use the same type definitions as discussed in the tract dataset. No NULL values or special characters in these fields. You can have a max of 6 unique values between all tract and assessor data.
 
-   Suggested "Type" Codes:
-   * SFD - Single family Detached
-   * MFA - Multi-Family Attached
-   * APT - Apartments
-   * MLB - Mobile Homes
-   * SFA - Single Family Attached
-   * AFD - Affordable Housing
+  Suggested "Type" Codes:
+     * SFD - Single family Detached
+     * MFA - Multi-Family Attached (such as condos, town homes, duplexes or owned attached units)
+     * APT - Apartments (rental units)
+     * MLB - Mobile Homes (In some districts, mobile home parks generate students at a substantially higher rate than typical detached homes)
+     * SFA - Single Family Attached
+     * AFD - Affordable Housing
 
 
 2. **TTL_DU** – a "Short Integer" or "Long Integer" field.  This field will contain the number of total dwelling units located at a particular assessor point.  For example, a single family detached would be one unit and an apartment complex could be anywhere from one to several hundred units. No NULL values or special characters in these fields.
