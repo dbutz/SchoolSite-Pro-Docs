@@ -12,17 +12,15 @@ This type of housing information is available through most local city and county
 ## Required Fields:
 1. **STDYAREA** – a "Text" field.  This should be the study area where the tract is located. The TRACT field should be defined as data type "Text" with a length of 6. No NULL values or special characters in these fields.
 
-2. **TYPE** – a "Text" field with a length of  3.  The value in this field represents the general description of the housing type for the tract. SchoolSite Pro allows up to four housing categories which can be defined by the user. For example, if your district has substantial differences in numbers of students generated from various socioeconomic areas, you could assign Type 1 as low income housing and Type 2 as high income housing. However, in general DDP uses and recommends the following categories:  
+2. **TYPE** – a "Text" field with a length of  3.  The value in this field represents the general description of the housing type for the tract. SchoolSite Pro allows up to six housing categories shared between all tract and assessor data which can be defined by the user. For example, if your district has substantial differences in numbers of students generated from various socioeconomic areas, you could assign Type 1 as low income housing and Type 2 as high income housing. However, in general DDP uses and recommends the following categories:  
 
-* SFD – Single Family Detached
-
-* MFA – Multi-Family Attached (such as condos, town homes, duplexes or owned attached units)
-
-* APT – Apartment Complexes (rental units)
-
-* MBL – Mobile Home Parks (In some districts, mobile home parks generate students at a substantially higher rate than typical detached homes)
-
-* AFD – Affordable Housing
+   Suggested "Type" Codes:
+   * SFD - Single family Detached
+   * MFA - Multi-Family Attached (such as condos, town homes, duplexes or owned attached units)
+   * APT - Apartments (rental units)
+   * MLB - Mobile Homes (In some districts, mobile home parks generate students at a substantially higher rate than typical detached homes)
+   * SFA - Single Family Attached
+   * AFD - Affordable Housing
 
 **Please Note:** When creating a forecast, the Student Yield Factors (SYFs) are applied to each of the four types. If the housing types for the SYFs are defined differently than is used in the tract dataset, the forecasts will be incorrect.  For this reason, once the housing types have been defined in the tract dataset, the same definitions should be used to define the housing types in the assessor dataset.  
 
