@@ -1,4 +1,4 @@
-# How To Create Your Own Data - REVIEWED
+# How To Create Your Own Data
 
 To use either of the SchoolSite Pro Extensions, three major datasets are required:
 
