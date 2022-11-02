@@ -2,7 +2,7 @@
 The diagram below is a possible suggestion for organizing all of your GIS data holdings as well as your SchoolSite Pro Redistricting Plans and Forecasts.
 
 <p align="center">
-  <img src="organizingData.PNG">
+  <img src="organizingData.png">
 </p>
 
 **This organizational layout including Windows folders, and geodatabases accomplishes the following:**
