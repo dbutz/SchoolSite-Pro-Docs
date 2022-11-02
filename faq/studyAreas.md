@@ -3,7 +3,7 @@ Study Areas are the building blocks of a school district. Study Areas are geogra
 
  
 
-Districts with established study areas will need to make sure the study areas are in an Esri supported format– geodatabase, shapefile, or coverage. If your district does not have existing study areas, you will need to divide your district into study areas based on one or more of the criteria described below. See the topic ["How to Create Your Own Data"](howToCreateData.md) for more information about creating the attribute table for a study area dataset.
+Districts with established study areas will need to make sure the study areas are in an Esri supported format– geodatabase, shapefile, or coverage. If your district does not have existing study areas, you will need to divide your district into study areas based on one or more of the criteria described below. See the topic ["How to Create Your Own Data"](dataManagement/createData/howToCreateData.md) for more information about creating the attribute table for a study area dataset.
 
 **Study Area Boundary Line Criteria:**
 1. Current school attendance areas
