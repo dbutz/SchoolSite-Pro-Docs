@@ -50,4 +50,4 @@ Email: info@davisdemographics.com
  
 
 See Also:
-[How to Create Your Own Data](dataManagement/createData/howToCreateData.md)
+[How to Create Your Own Data](../dataManagement/createData/howToCreateData.md)
