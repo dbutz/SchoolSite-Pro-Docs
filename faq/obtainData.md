@@ -37,7 +37,7 @@ However, if the District would rather have Davis Demographics create the data, w
 
 ### [Davis Demographics, Inc.](https://davisdemographics.com/) 
 
-11850 Pierce St. Suite 200 Riverside, CA 92505
+11801 Pierce St. Suite 125 Riverside, CA 92505
 
 Telephone: (951) 270-5211  Fax: (951) 270-5212
 
@@ -50,4 +50,4 @@ Email: info@davisdemographics.com
  
 
 See Also:
-[How to Create Your Own Data](createData/howToCreateData.md)
+[How to Create Your Own Data](dataManagement/createData/howToCreateData.md)
