@@ -3,6 +3,7 @@ SchoolSite Pro is the planning tool developed and used in-house by Davis’ staf
 
 ## Get started
 - [Get started](getStarted.md)
+- [Release Notes](releaseNotes.md)
 - [Frequently asked questions](getStarted.md#frequently-asked-questions)
 
 ## Manage your data
