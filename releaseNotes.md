@@ -1,3 +1,8 @@
+Build 1.6.7 (Dec 2022)
+* Schools are ordered in the report first by grade, then by name so the elementary schools are grouped alphabetically followed by middle schools, etc…
+* Messages when schools are excluded from reports are re-worded to make more sense as to why they could not be forecasted
+* Added total enrollment summary line to the top of the report
+
 Build 1.6.6 (Nov 2022)
 * Various enhancements to formatting of reports both on screen and when exported to Excel
 * Bug fix for staffing forecast when calculating the students transferring out of the PK grade in boundary schools
