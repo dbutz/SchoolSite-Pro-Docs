@@ -1,3 +1,10 @@
+Build 1.6.8 (Dec 2022)
+* Fixed bugs preventing the successful export of forecast reports to both text and Excel formats
+* Improved the rounding of values in the plan stats window so they would not exceed two decimal points
+* Updated the messaging around enrollment forecasts to make sure the report indicates that it needs to be refreshed after changes are made to residential forecast values. This message would previously disappear too soon. 
+* Enrollment forecasts now show a warning when it detects that a school has had a significant gap in enrollment from year to year to indicate that the resulting forecasted values could be negatively impacted.
+* When sorting the forecast enrollment report by grade to show elementary first, then middle, followed by high....it now considers PK and K to be the same value for sorting purposes so you don't get PK-6 followed by K-6. Those are both considered 'elementary' and are in the same grouping in the report.
+
 Build 1.6.7 (Dec 2022)
 * Schools are ordered in the report first by grade, then by name so the elementary schools are grouped alphabetically followed by middle schools, etc…
 * Messages when schools are excluded from reports are re-worded to make more sense as to why they could not be forecasted
