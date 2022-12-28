@@ -1,3 +1,6 @@
+Build 1.6.9 (Dec 2022)
+* Fixed bugs when making a forecast
+
 Build 1.6.8 (Dec 2022)
 * Fixed bugs preventing the successful export of forecast reports to both text and Excel formats
 * Improved the rounding of values in the plan stats window so they would not exceed two decimal points
