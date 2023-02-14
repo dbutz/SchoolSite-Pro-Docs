@@ -1,3 +1,14 @@
+Build 1.7.0 (Feb 2023)
+* Updated start page for improved ability to find previous Projects
+* Fixed bugs found when working with specific datasets related to features such as:
+* Exporting plans
+* Warning when the license is about to expire
+* Enrollment forecasts
+* Reassign by current boundaries
+* Improved rounding to avoid really long decimal values
+* Plan Summary report
+* Forecast report setup was missing grade ranges on occasion
+
 Build 1.6.9 (Dec 2022)
 * Fixed bugs when making a forecast
 
