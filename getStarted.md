@@ -6,7 +6,7 @@ SchoolSite Pro is the latest professional desktop GIS school planning applicatio
 
 SchoolSite Pro works as a configuration in ArcGIS Pro. **You must install ArcGIS Pro first** in order to install SchoolSite Pro. Please visit [Esri's website](http://pro.arcgis.com/en/pro-app/get-started/get-started.htm) for detailed instructions on how to install ArcGIS Pro, including system requirements and Esri's licensing information.
 
-You can download the latest version of SchoolSite Pro from this [website] (https://help.davisdemographics.com/), look for the 'Download SchoolSite Pro' button in the top banner.
+You can download the latest version of SchoolSite Pro from this [website](https://help.davisdemographics.com/), look for the 'Download SchoolSite Pro' button in the top banner.
 ![image](https://user-images.githubusercontent.com/5185948/231880718-bc3a69fb-d089-4b1b-9f08-fc14420358cd.png)
 
 [Contact one of our specialists](https://davisdemographics.com/get-started/) if you need help accessing the support page.
