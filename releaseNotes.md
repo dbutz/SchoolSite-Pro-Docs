@@ -1,3 +1,16 @@
+Build 1.7.2 (Oct 2023)
+* Student yield factors have been expanded from just PK, K-6, 7-8, 9-12 to PK through 12 with all individual grades.
+* New sorting of enrollment forecasts allows straight alphabetical sorting instead of grouping elementary first followed by middle and high and then listed alphabetically in those groups.
+* Fixed bugs when using Remove Unassigned Schools and Plan Summary
+
+Build 1.7.1 (Aug 2023)
+* New feature: Reset Geodatabase allows the user to delete all imported data and maps that have plans or forecasts to start over with new data in the same project
+* Plan statistics and forecast reports no longer have pre-defined grade ranges of K-6,7-8,9-12. It only has a grade range textbox for easier entry
+* Layers that have definition expressions are flagged during Data Setup as warnings to alert the user
+* Changed all references of Maturation to Buildout
+* In Forecasts, under Appearance, you are now able to symbolize resident student change to have its end year as Buildout.
+* Bug fixes related to data setup for historical students ,enrollment forecast indicating changes were made to resident forecast when they had not been, and exported mobility reports.
+
 Build 1.7.0 (Feb 2023)
 * Updated start page for improved ability to find previous Projects
 * Fixed bugs found when working with specific datasets related to features such as:
