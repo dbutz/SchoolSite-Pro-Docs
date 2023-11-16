@@ -1,3 +1,12 @@
+Build 1.7.3 (Nov 2023)
+
+Bugs fixed include issues with:
+* labeling in plans
+* symbolizing a forecast
+* showing the data about the selected study areas in a plan when boundary planning
+* changing which grade ranges are shown in the statistics table
+* error messages that are shown when a forecast was first created
+
 Build 1.7.2 (Oct 2023)
 * Student yield factors have been expanded from just PK, K-6, 7-8, 9-12 to PK through 12 with all individual grades.
 * New sorting of enrollment forecasts allows straight alphabetical sorting instead of grouping elementary first followed by middle and high and then listed alphabetically in those groups.
