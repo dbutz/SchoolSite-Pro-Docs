@@ -18,7 +18,9 @@ Build 1.7.1 (Aug 2023)
 * Layers that have definition expressions are flagged during Data Setup as warnings to alert the user
 * Changed all references of Maturation to Buildout
 * In Forecasts, under Appearance, you are now able to symbolize resident student change to have its end year as Buildout.
-* Bug fixes related to data setup for historical students ,enrollment forecast indicating changes were made to resident forecast when they had not been, and exported mobility reports.
+* Bug fixes related to data setup for historical students
+* Bug fixes for when enrollment forecast would indicate changes were made to resident forecast when they had not been forcing an unneeded recalculation of the enrollment forecast
+* Bug fixes when exporting mobility reports.
 
 Build 1.7.0 (Feb 2023)
 * Updated start page for improved ability to find previous Projects
