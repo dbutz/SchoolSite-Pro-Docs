@@ -1,5 +1,7 @@
-Build 1.7.3 (Nov 2023)
+Build 1.7.4 (Nov 2023)
+* This build fixes an issue preventing the assignment of study areas to the target school in plans that have been copied and/or renamed.
 
+Build 1.7.3 (Nov 2023)
 Bugs fixed include issues with:
 * labeling in plans
 * symbolizing a forecast
