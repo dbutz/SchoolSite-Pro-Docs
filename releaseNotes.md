@@ -1,3 +1,6 @@
+Build 1.7.5 (Nov 2023)
+* Fixed problem when importing historical students
+
 Build 1.7.4 (Nov 2023)
 * This build fixes an issue preventing the assignment of study areas to the target school in plans that have been copied and/or renamed.
 
