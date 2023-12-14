@@ -294,7 +294,7 @@ Because school of enrollment forecasts are based on the underlying resident fore
 
 </table>
  
- *Inherited indicates that student type will be included if the residential projection included that optional type during setup.
+ *Inherited indicates that student type will be included if the residential projection included that optional type during setup.</br>
  **Mobility is calculated with all available student data to ensure the largest sample size possible and consistency year over year.
  
 ## Suggested Additional Fields:
