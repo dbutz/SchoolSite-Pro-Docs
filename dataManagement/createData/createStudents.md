@@ -260,28 +260,28 @@ Because school of enrollment forecasts are based on the underlying resident fore
     <td>Other student</td>
     <td>Optional</td>
     <td>*Inherited</td>
-    <td>*Inherited</td> 
+    <td>**Included</td> 
   </tr>
   <tr>
     <td>CH</td>
     <td>Charter school student</td>
     <td>Optional</td>
     <td>*Inherited</td>
-    <td>*Inherited</td> 
+    <td>**Included</td> 
   </tr>
   <tr>
     <td>IS</td>
     <td>Independent school student</td>
     <td>Optional</td>
     <td>*Inherited</td>
-    <td>*Inherited</td> 
+    <td>**Included</td> 
   </tr>
   <tr>
     <td>SE</td>
     <td>Special education student</td>
     <td>Optional</td>
     <td>*Inherited</td>
-    <td>*Inherited</td> 
+    <td>**Included</td> 
   </tr> 
   <tr>
     <td>GE</td>
@@ -295,6 +295,7 @@ Because school of enrollment forecasts are based on the underlying resident fore
 </table>
  
  *Inherited indicates that student type will be included if the residential projection included that optional type during setup.
+ **Mobility is calculated with all available student data to ensure the largest sample size possible and consistency year over year.
  
 ## Suggested Additional Fields:
 The District will have to decide what information would be most useful in your planning efforts. The more information on the file, the more alternatives you will have to query and graphically display your student data. You may want to include additional attributes such as:
