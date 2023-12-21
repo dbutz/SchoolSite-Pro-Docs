@@ -28,7 +28,7 @@ This type of housing information is available through most local city and county
 
 3. __PH1___ – a "Short Integer" or "Long Integer" data type. With SchoolSite Pro, you can break the scheduling of housing construction into as many as 10 phases.  This field, along with the fields Ph2_, Ph3_, Ph4_, Ph5_, Ph6_, Ph7_, Ph8_, Ph9_, and Ph10_, stand for phase 1, phase 2, phase 3, etc..  Each of these 10 fields are defined the same.  It is not necessary to use all 10 phases when you are breaking up the phasing of a development, but they should always be entered starting with Ph1_.  Some developments may be scheduled to finish in a relatively short period of time (such as a few months), while others may take years to complete.  The numbers in these fields (such as 35, 50, 100, etc.) represent the number of units to be completed in that phase. Remember: The Ph1_ field corresponds to the first phasing schedule of the project regardless of when the project actually begins. It does not correspond to the first year of student population forecasts. If you have project phasing, regardless of what year construction begins, always enter the first phase in the Ph1_ field. No NULL values or special characters in these fields.
 
-4. **PH1_COMP** – a "Date" field.  This field works in conjunction with the phasing number field described above.  Enter the expected date of the corresponding phase completion.  As there can be up to 10 phase numbers, there can be up to 10 phase completion dates (i.e. Ph2_comp, Ph3_comp etc.).
+4. **PH1_COMP** – a "Date" field.  This field works in conjunction with the phasing number field described above.  Enter the expected date of the corresponding phase completion.  As there can be up to 10 phase numbers, there can be up to 10 phase completion dates (i.e. Ph2_comp, Ph3_comp, etc.).
 
 ## Optional fields for certain reports:
 **DEVELOPER** - a string field containing the name of the housing developer for the given tract. This is only used when making a project summary report and is not required for making a residential forecast with tract development data.
@@ -73,5 +73,19 @@ Also, care should be taken when considering what projects to include.  Developme
 It is important to note that residential construction schedules change constantly, depending on current economic trends. Consequently, districts should contact developers at least once a year to get an update on the status of the project.  This new information can be entered into the tract dataset attribute table and can be used in subsequent forecasts.
 
 ## Phasing Example:
+Here we are going to walk through a simple example of how phasing works from creating the tract data to the final resident forecast report. This example specifically highlights certain dates to illustrate in which year of the forecast those units will appear. The **base date** of this example will be **Oct 1 2023**. The tract data has units purposefully phased for 9/30/23, 10/2/23, and 10/1/24 to show how units phased a day before, a day after, and one year after the base date appear in the forecast years.
 
- 
+![tractInputData](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/ad9f320f-d0d0-4fbf-a6f1-37d962102dd9)
+
+![housingTypes](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/86a19422-39a3-46e4-811e-a39c2d768f1d)
+
+![projHousingUnits_orig](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/72ba2d1c-6502-4afa-b6ee-df5236c69c28)
+
+
+![projHousingUnits](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/9ad7d6ab-85b1-4995-b292-33b50e5e3f4a)
+
+![SYF](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/137306ed-ea9a-4d0a-9e3c-3e3c77de4177)
+
+
+![image](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/635857f2-8d5e-4dd5-a130-47596f0ed1ba)
+
