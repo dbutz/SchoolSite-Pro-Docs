@@ -77,10 +77,23 @@ Here we are going to walk through a simple example of how phasing works from cre
 
 ![tractInputData](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/ad9f320f-d0d0-4fbf-a6f1-37d962102dd9)
 
+Once you have done your development research and created the tract data, you will import it into SchoolSite Pro. During the import process, you will be asked to map each unique value found in the TYPE field to one of six types, TYPE1 through TYPE6. The result is a table in SchoolSite Pro that will store this mapping that looks like this.
+
 ![housingTypes](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/86a19422-39a3-46e4-811e-a39c2d768f1d)
+
+Once you have imported all the data and you begin to make a forecast, you will want to make sure to indicate you want to use available tract data.
+
+![image](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/395c1194-0572-43ed-a4ed-fc54180b9c71)
+
+Doing so will go through a process in which SchoolSite Pro will evaluate the phasing dates in the tract data compared to the base date of the forecast and place the units into the correct year of the forecast. 
+
+Let's start with the first phase from PH1_ and PH1_COMP which has one unit phased for completion on 9/30/23. This unit does not appear in your forecast as it is phased before the Oct 1 2023 base date.
+
+The second phase shows two units phased for completion on 10/2/23 and the third phase shows three units phased for 10/1/24, exactly one year from the base date of 10/1/23. Note that as a result, we see **five units** appear in year one of the forecast. This means that year one will include all units phased between the day **after** the base date until one full year later. The three units that hit Oct 1 2024 are added to the three units from Oct 2 2023 and they all fall within that first forecast year.
 
 ![projHousingUnits_orig](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/72ba2d1c-6502-4afa-b6ee-df5236c69c28)
 
+At this point, we are going to manually make a change to our Projected Units table by inserting a **negative number of units** in year 9 where there was previously a zero. This can be done to model special cases such as an apartment building being demolished or some other reason why existing units would result in a loss of students. There are many additional factors to consider in these cases, so please proceed with the advice and counsel of a senior school planner.
 
 ![projHousingUnits](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/9ad7d6ab-85b1-4995-b292-33b50e5e3f4a)
 
