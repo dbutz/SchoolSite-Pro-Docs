@@ -1,6 +1,6 @@
 # Manage your data
 
-The heart of SchoolSite Pro is your district's data. After your data has been created, SchoolSite Pro's Data Setup tool can help ensure your data's compatibility with the rest of the software.
+The heart of SchoolSite Pro is your district's data. After your data has been created, the SchoolSite Pro Data Setup tool can help ensure your data's compatibility with the rest of the software.
 
 ## Create Your Own Data
 - [How to create your own data](createData/howToCreateData.md)
