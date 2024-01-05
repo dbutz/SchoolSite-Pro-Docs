@@ -22,21 +22,21 @@ A redistricting plan based on projected resident students displays the current a
 ![forecastPlan](planImages/forecastPlan.png)
 
 # Copy a redistricting plan
-You can also create new plans by copying an existing redistricting plan. This is useful if you want to make some initial basic changes to the boundaries that will apply to all scenarios, and then create variations on top of those changes. Copying a plan is just like copying a map in ArcGIS Pro. 
+You can also create new Plans by copying an existing redistricting Plan. This is useful if you want to make some initial basic changes to the boundaries that will apply to all scenarios, and then create variations on top of those changes. 
 
-From the Catalog pane, open the Maps section and find the map that contains your Plan. 
+Copying a Plan is just like copying a map in ArcGIS Pro. From the Catalog pane, open the Maps section and find the map that contains your Plan. 
 
 ![image](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/d344455f-a3cf-4b4e-b068-bc12f7c913b2)
 
-If you are unsure which maps have plans, click the Open button from the SchoolSite ribbon to get a specific list of SchoolSite Plans and Forecasts. 
+If you are unsure which maps have Plans, click the Open button from the SchoolSite ribbon to get a specific list of SchoolSite Plans and Forecasts. 
 
 ![image](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/8053b9c2-59b6-4762-ac54-a633631207eb)
 
-Right-click the map that contains the plan that you would like to copy and choose Copy. Then, right-click on the Maps folder and click Paste'.
+Right-click the map that contains the Plan that you would like to copy and choose Copy. Then, right-click on the Maps folder and click Paste'.
 
 ![image](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/c4fc05bb-5916-40d5-bbdb-ded4ba04e8da)
 
-A copy of your plan will appear with the same name and the number '1' at the end.
+A copy of your Plan will appear with the same name and the number '1' at the end.
 
 ![image](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/af087f2c-58f8-4207-a56a-31b220f1bd1a)
 
