@@ -7,7 +7,6 @@ SchoolSite Pro is the planning tool developed and used in-house by Davis’ staf
 - [Frequently asked questions](getStarted.md#frequently-asked-questions)
 
 ## Manage your data
-- [Manage your data](dataManagement/index.md)
 - [Create your own data](dataManagement/index.md#create-your-own-data)
 - [Import and validate your data](dataManagement/index.md#import-and-validate-your-data)
 
