@@ -20,6 +20,6 @@ The heart of SchoolSite Pro is your district's data. After your data has been cr
 
 ## Import and Validate Your Data
 - [An overview of the Data Setup tool](validateData/dataSetup.md)
-- [Data checks made for Redistriciting](validateData/checkRedistrict.md)
+- [Data checks made for Redistricting](validateData/checkRedistrict.md)
 - [Data checks made for Forecasts](validateData/checkForecasts.md)
-- [Data checks made for Locator](validateData/checkLocator.md)
+- [Data checks made for SchoolSite Locator](validateData/checkLocator.md)
