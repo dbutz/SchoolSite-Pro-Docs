@@ -2,12 +2,6 @@
 
 The heart of SchoolSite Pro is your district's data. After your data has been created, SchoolSite Pro's Data Setup tool can help ensure your data's compatibility with the rest of the software.
 
-## Frequently Asked Questions
-- [What kind of data do I need in order to use SchoolSite Pro?](../faq/whatData.md)
-- [Where can I obtain data?](../faq/obtainData.md)
-- [How should I organize my data?](../faq/organizingData.md)
-- [What are study areas?](../faq/studyAreas.md)
-
 ## Create Your Own Data
 - [How to create your own data](createData/howToCreateData.md)
 - [Create study areas](createData/createStudyareas.md)
