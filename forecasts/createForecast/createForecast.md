@@ -33,3 +33,23 @@ Please Note:  You can decrease the time needed to create forecasts by including 
 Once the forecast has completed, it will be added to the table of contents as a map and displayed in light blue. To modify factors (i.e. birth factors, mobility factors, student yield factors etc), click on the Modify Factors in the Forecasting ribbon.
 
 ![forecastRibbon](forecastImages/forecastRibbon.png)
+
+# Copy a forecast
+You can also create a new Forecast by copying an existing Forecast. This is useful if you want to make some initial basic changes to the Forecast that will apply to all others, and then create variations on top of those changes. 
+
+Copying a Forecast is just like copying a map in ArcGIS Pro. From the Catalog pane, open the Maps section and find the map that contains your Forecast. 
+
+
+If you are unsure which maps have a Forecast, click the Open button from the SchoolSite ribbon to get a specific list of SchoolSite Plans and Forecasts. 
+
+
+Right-click the map that contains the Forecast that you would like to copy and choose Copy. Then, right-click on the Maps folder and click Paste'.
+
+
+A copy of your Forecast will appear with the same name and the number '1' at the end.
+
+
+At this time, you can now rename your Forecast by simply renaming the map as you would any other map in ArcGIS Pro. 
+
+
+SchoolSite Pro will understand that this map contains a Forecast and will update tables accordingly to update the Forecast's name.
