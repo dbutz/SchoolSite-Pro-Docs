@@ -32,6 +32,7 @@ This type of housing information is available through most local city and county
 
 ## Optional fields for certain reports:
 **DEVELOPER** - a string field containing the name of the housing developer for the given tract. This is only used when making a project summary report and is not required for making a residential forecast with tract development data.
+**PROJECT** - a string field containing the name of the housing project for the given tract. This is only used when making a project summary report and is not required for making a residential forecast with tract development data.
 
 ## Suggested Fields:
 Various other fields – There are a variety of fields you may want to include on the tract dataset.  They can be defined any way you choose.  These are completely optional and are not required by SchoolSite Pro.  
