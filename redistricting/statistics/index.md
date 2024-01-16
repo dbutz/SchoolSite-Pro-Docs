@@ -4,7 +4,7 @@ The Statistics Window is a powerful tool that can help you generate reports abou
 
 ## Configure the statistics table
 
-The Statistics Window allows you to analyze your boundary scenarios based on various student attributes such as grade, ethnicity, loading standards and projected student residence. 
+The Statistics Window allows you to analyze your boundary scenarios based on various student attributes such as grade, ethnicity, loading standards, and projected student residence. 
 
 The settings you choose will be displayed in the statistics table.
 
@@ -37,17 +37,19 @@ This is taken from the "CAPACITY" field in your Schools dataset.  It displays th
 This reflects the percentage of capacity compared to summarized grade ranges.
 
 * __Student Attribute__
-By default, the grade field is always summarized, but you can summarize on any field that you have in your student data such as ethnicity, school of enrollment, gender, ESL etc.).  Click on Other Student Attribute and select a field from your student data you want to summarize from the drop-down menu. Caution, though, should be taken.  You should not summarize on a field that has a lot of unique values, such as student ID.  If you have a fairly large size student data set it will take a very long time for it to summarize and the resulting report will not produce much usable information.  Fields such as ethnic and special education will give you valuable information and will take a minimal time to summarize.  You can deselect any additional attributes you may have selected by clicking on the grade distribution button again.  
- * Please Note: This section will be grayed out if the plan is based upon projected student data.
- * Show grades/Show ranges/Display percentage
-   These three options give you the option of how you want to summarize the "other student attributes". The statistics window    will show the number of students by grade by the selected attribute or totaled by grade range or as a percent of that          school's total population.
-   __Please Note:__ This section will be grayed out if the plan is based upon pr student data.
+By default, the grade field is always summarized, but you can summarize any field that you have in your student data such as ethnicity, school of enrollment, gender, ESL, etc.).  Click on Other Student Attribute and select a field from the student data you want to summarize from the drop-down menu. Caution, though, should be taken.  You should not summarize a field that has a lot of unique values, such as student ID. __Currently, the limit to the maximum number of unique values allowed in a field to summarize is 150.__  If you have a fairly large size student data set it will take a very long time for it to summarize and the resulting report will not produce much usable information.  Fields such as ethnic and special education will give you valuable information and will take minimal time to summarize.  You can deselect any additional attributes you may have selected by clicking on the grade distribution button again.
+__Please Note:__ This section will be grayed out if the plan is based on forecasted student data.
+
+
+ * __Show grades/Show ranges/Display percentage__
+   These three options give you the option of how you want to summarize the "other student attributes". The statistics window    will show the number of students by grade by the selected attribute or totaled by grade range or as a percent of that school's total population.
+   __Please Note:__ This section will be umavailable if the plan is based upon forecasted student data.
 
 ## Other Information
 
 ### Forecast Year
 
-If you created your plan based on forecast data, you can select the pull down menu in the Statistics tab, and select any year of the forecast to report (including maturation) to view it in the Statistics Window.  This is useful for creating one future boundary plan and quickly viewing the forecasted number of students for this plan in various future years.
+If you created your plan based on forecast data, you can select the pull-down menu in the Statistics tab, and select any year of the forecast to report (including maturation) to view it in the Statistics Window.  This is useful for creating one future boundary plan and quickly viewing the forecasted number of students for this plan in various future years.
 
 ![forecastPlan](../createPlan/planImages/forecastPlan.png)
 
