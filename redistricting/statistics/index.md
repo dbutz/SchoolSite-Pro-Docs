@@ -10,7 +10,8 @@ The settings you choose will be displayed in the statistics table.
 
 To access the Statistics Window, go to the redistricting ribbon and click Statistics Window.
 
-![StatsCurrent](statImages/statsCurrent.png)
+![image](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/46aae42f-ab78-4470-b6e1-c8b076d87266)
+
 
 The Statistics Tab window is divided into four main sections: Select Schools, Select Grades, Select Grade Ranges, and Select Statistic Type.  
 
@@ -22,7 +23,7 @@ From the list, choose which schools to display statistics for by checking the bo
 
 Selecting grades only applies to the grades you wish to display in the Residence Tab of the statistics window. Residence  redistricting can theoretically encompass any grades or grade ranges you desire during the boundary planning process since residency is not concerned with the school of attendance. You can specify any number of grades or grade ranges you wish as you make resident boundary changes. If a plan is created based upon "Current Resident Students and Current Enrollment" the Estimated Enrollment tab will always display all grades for each school. 
 
-Select one of the predefined grade ranges by clicking on the boxes or click on custom to create your own grade range to report on. Examples of custom grade ranges would include "K-5, 6-8" or "K-8".
+Enter the grade ranges you wish to see summarized. Examples of grade ranges would include "K-5, 6-8" or "K-8".
 
 ## Statistics Types
 This section allows you to report the number of students in each of the selected schools based on various attributes.  The Grade Distribution option (default option) reports the number of students in each grade selected. Statistic types only display in the resident tabs of the statistics window. The Estimated Enrollment tab only displays individual grades and grade ranges.
@@ -43,7 +44,7 @@ __Please Note:__ This section will be grayed out if the plan is based on forecas
 
  * __Show grades/Show ranges/Display percentage__
    These three options give you the option of how you want to summarize the "other student attributes". The statistics window    will show the number of students by grade by the selected attribute or totaled by grade range or as a percent of that school's total population.
-   __Please Note:__ This section will be umavailable if the plan is based upon forecasted student data.
+   __Please Note:__ This section will be unavailable if the plan is based upon forecasted student data.
 
 ## Other Information
 
@@ -51,6 +52,6 @@ __Please Note:__ This section will be grayed out if the plan is based on forecas
 
 If you created your plan based on forecast data, you can select the pull-down menu in the Statistics tab, and select any year of the forecast to report (including maturation) to view it in the Statistics Window.  This is useful for creating one future boundary plan and quickly viewing the forecasted number of students for this plan in various future years.
 
-![forecastPlan](../createPlan/planImages/forecastPlan.png)
+![image](https://github.com/dbutz/SchoolSite-Pro-Docs/assets/5185948/d6a3c5d4-78c9-4aa4-b5cc-02b0b6be37f5)
 
 **Please note:** If your Statistics Window has no grade ranges specified, then the Projection Summary Report will display either PK-12 or K-12 by default, depending on whether or not you chose to include PK students during plan creation.
