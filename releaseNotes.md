@@ -1,3 +1,9 @@
+### Build 1.7.6 (July 2024)
+* Minor UI updates
+* Data Enrichment Tools released to enrich tract data with estimated number of students based on units and SYF. Also creates enriched study area data with numbers of forecasted students in each area.
+* Reset Project bug fixed that lead to missing TYPE2 units being imported
+* Added Capacity for each school in forecast report when reporting on attendance areas and formatted for output in Excel
+
 #### Build 1.7.5 (Nov 2023)
 * Fixed problem when importing historical students
 
