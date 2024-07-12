@@ -1,4 +1,4 @@
-### Build 1.7.6 (July 2024)
+### Build 1.7.6 - ArcGIS Pro 3.3+ only (July 2024)
 * Minor UI updates
 * Data Enrichment Tools released to enrich tract data with estimated number of students based on units and SYF. Also creates enriched study area data with numbers of forecasted students in each area.
 * Reset Project bug fixed that lead to missing TYPE2 units being imported
