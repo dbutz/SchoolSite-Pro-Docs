@@ -1,5 +1,5 @@
 ### Build 1.7.7 - ArcGIS Pro 3.3+ only (July 2024)
-* Fixed additional bugs related to limited field names in ArcGIS Pro 3.3 causing exporting reports/tables to Excel to fail such as the statistics window
+* Fixed additional bugs related to limited field names in ArcGIS Pro 3.3 causing exporting reports/tables to Excel to fail such as the statistics window and causing importing of historical student to fail when calulating mobility
 * Added ability to import street data in preparation for street directory tool
 
 ### Build 1.7.6 - ArcGIS Pro 3.3+ only (July 2024)
