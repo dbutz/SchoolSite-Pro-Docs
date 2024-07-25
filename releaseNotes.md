@@ -1,3 +1,7 @@
+### Build 1.7.7 - ArcGIS Pro 3.3+ only (July 2024)
+* Fixed additional bugs related to limited field names in ArcGIS Pro 3.3 causing exporting reports/tables to Excel to fail such as the statistics window
+* Added ability to import street data in preparation for street directory tool
+
 ### Build 1.7.6 - ArcGIS Pro 3.3+ only (July 2024)
 * Minor UI updates
 * Data Enrichment Tools released to enrich tract data with estimated number of students based on units and SYF. Also creates enriched study area data with numbers of forecasted students in each area.
