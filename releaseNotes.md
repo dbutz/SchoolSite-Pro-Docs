@@ -1,3 +1,6 @@
+### Build 1.7.9 - August release (August 2024)
+* Fixed bug introduced with ArcGIS Pro 3.3 when using Plan Impact Summary report
+
 ### Build 1.7.8 - August release (August 2024)
 * Fixed bug when copying a forecast
 * Updated format for enrollment forecasts and Excel export to be more consistent with residence forecasts and align with template guidelines
