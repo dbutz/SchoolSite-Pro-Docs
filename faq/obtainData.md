@@ -33,16 +33,6 @@ Additionally, street databases can be purchased from many third party vendors su
 
 However, if the District would rather have Davis Demographics create the data, we would be happy to provide you with a quote. For more information, please contact us at:
 
- 
-
-### [Davis Demographics, Inc.](https://davisdemographics.com/) 
-
-11801 Pierce St. Suite 125 Riverside, CA 92505
-
-Telephone: (951) 270-5211  Fax: (951) 270-5212
-
-![DD_Logo](../dataManagement/dd_logo.png)
-
 Email: info@davisdemographics.com
 
 
