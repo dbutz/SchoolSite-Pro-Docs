@@ -16,7 +16,7 @@ You can download the latest version of SchoolSite Pro from this [website](https:
 
 ## Licensing for SchoolSite Pro
 
-SchoolSite Pro uses a single-user licensing model on a subscription basis. A license ID and activation password are required in order to use SchoolSite Pro. You can obtain these with your SchoolSite Pro subscription. [Talk to one of our specialists](https://davisdemographics.com/get-started/) about subscribing to SchoolSite Pro.
+SchoolSite Pro uses a single-user licensing model on a subscription basis. A license ID and activation password are required in order to use SchoolSite Pro. You can obtain these with your SchoolSite Pro subscription. 
 
 ## Frequently Asked Questions
 
