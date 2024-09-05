@@ -10,7 +10,7 @@ SchoolSite Pro system requirements generally follow the same requirements as spe
 
 **SchoolSite Pro currently works with Windows 10 or Windows 11 and is built for ArcGIS Pro version 3.2. It will most likely work with minor releases. For example, if SchoolSite Pro is built on ArcGIS Pro 3.2 then it should work with any 3.x release such as 3.0 or the not yet released 3.3 or 3.4 in the future.**
 
-You can download the latest version of SchoolSite Pro from this [website](https://help.davisdemographics.com/), look for the 'Download SchoolSite Pro' button in the top banner.
+You can download the latest version of SchoolSite Pro from this [website](https://ssphelp.mgt.us/), look for the 'Download SchoolSite Pro' button in the top banner.
 ![image](https://user-images.githubusercontent.com/5185948/231880718-bc3a69fb-d089-4b1b-9f08-fc14420358cd.png)
 
 
