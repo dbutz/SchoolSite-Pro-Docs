@@ -35,7 +35,7 @@ It is also critical that STUTYPE classifications be consistent between different
 The two-letter STUTYPE codes used by SchoolSite Pro are explained below and are listed in order of precedence for coding each student record:
 
  
-* <ins> Charter School student </ins> (CH)- Students residing within the District boundary attending a charter school.  These students usually do not take classroom space in one of the District’s regular public schools.  These types of students can be <ins>optionally included</ins> in resident projects and resident redistricting plans and are <ins>always included</ins> in reports for staffing forecasts and redistricting plans based upon enrollment.
+* <ins> Charter School student </ins> (CH)- Students residing within the District boundary attending a charter school.  These students usually do not take classroom space in one of the District’s regular public schools.  These types of students can be <ins>optionally included</ins> in resident forecasts and resident redistricting plans and are <ins>always included</ins> in reports for staffing forecasts and redistricting plans based upon enrollment.
 
 * <ins> Adult Education student </ins>  (AD)- Adult education students are usually not included in a student data file, however if they are they are coded with AD.  Typically these students do not require a seat in the public schools. They are <ins>automatically excluded</ins> from both enrollment forecasts and all types of redistricting plans.
 
