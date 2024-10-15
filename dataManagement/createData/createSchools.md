@@ -15,9 +15,9 @@ The District is the only source for this information.
 
 3. **CAPACITY** - A field containing the maximum capacity of the school, defined as data type "Short Integer" or "Long Integer".
 
-4. **STRT_GRD** - A field containing the start grade served at the school, defined as data type "Short Integer" or "Long Integer". Value cannot be < -1
+4. **STRT_GRD** - A field containing the start grade served at the school, defined as data type "Short Integer" or "Long Integer". Values cannot be less than -1. Use 0 for K and -1 for PK
 
-5. **END_GRD** - A field containing the end grade served at the school, defined as data type "Short Integer" or "Long Integer". Value cannot be > 12
+5. **END_GRD** - A field containing the end grade served at the school, defined as data type "Short Integer" or "Long Integer". Value cannot be greater than 12
 
 ## Additional Fields:
 The following fields are **required only for SchoolSite Locator, but are not required for redistricting plans or forecasts.**
