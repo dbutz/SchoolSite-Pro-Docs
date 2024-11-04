@@ -143,7 +143,7 @@ Because school of enrollment forecasts are based on the underlying resident fore
     <th>Student Type</th>
     <th>Plans by Residence</th>
     <th> Plans by Enrollment </th>
-    <th> Plans by Projected Students </th>
+    <th> Plans by Forecasted Students </th>
   </tr>
   <tr>
     <td>NP</td>
@@ -224,7 +224,7 @@ Because school of enrollment forecasts are based on the underlying resident fore
     <th>Code</th>
     <th>Student Type</th>
     <th>Resident Forecasts</th>
-    <th>Staffing Forecasts</th>
+    <th>Enrollment Forecasts</th>
     <th>Mobility Calculation</th>
   </tr>
   <tr>
