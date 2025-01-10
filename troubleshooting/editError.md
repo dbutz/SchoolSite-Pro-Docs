@@ -1,4 +1,3 @@
-# Troubleshooting Errors
 ## Error message:
 
 If SchoolSite Pro throws errors such as “Edit operation failed. Editing in the application is not enabled” then there is a setting in ArcGIS Pro that needs to be changed.
