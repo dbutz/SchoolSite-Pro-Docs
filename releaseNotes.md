@@ -1,3 +1,10 @@
+### Build 1.8.0 - Internal only release (February 2025)
+* Beta release of street/address directory tools for internal testing
+* MGT branding updates
+* New help button and contextual help icons to help users navigate to https://ssphelp.mgt.us/
+* Various UI updates, alignments, layout improvements especially on the Start Page
+* Enrollment forecast Excel formatting updates for better consistency
+
 ### Build 1.7.9 - August release (August 2024)
 * Fixed bug introduced with ArcGIS Pro 3.3 when using Plan Impact Summary report
 
