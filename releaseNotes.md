@@ -1,3 +1,8 @@
+### Build 1.8.1 Street/Address Directory Release
+* Updated error checking to prevent issues in various tools by limiting special characters used in plan and forecast names
+* Updated tooltips and help links with more to come across the application
+* Updates, UI tweaks, and bug fixes to Street/Address Directories based on feedback from the beta released at 1.8.0
+  
 ### Build 1.8.0 - Internal only release (February 2025)
 * Beta release of street/address directory tools for internal testing
 * MGT branding updates
