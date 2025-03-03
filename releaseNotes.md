@@ -1,3 +1,6 @@
+### Build 1.8.2 Address Directory updates (March 2025)
+* Updated address directory output to include: MID_, prefix direction, prefix type, suffix direction
+  
 ### Build 1.8.1 Street/Address Directory release (February 2025)
 * Updated error checking to prevent issues in various tools by limiting special characters used in plan and forecast names
 * Updated tooltips and help links with more to come across the application
