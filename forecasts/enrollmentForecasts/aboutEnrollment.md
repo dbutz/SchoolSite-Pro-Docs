@@ -2,6 +2,8 @@
 
 SchoolSite Enrollment Forecast is a way to ensure your district has the appropriate staff to fulfill future classroom requirements. SchoolSite Enrollment Forecasts utilize current resident and enrollment information, as well as historic student mobility to calculate an estimated enrollment for each school. This method of strategic and planned staffing can help to evaluate the current state of facilities, as well as future needs.
 
+Historical students are selected based on the same criteria used to generate the residential forecast. For example, if your residential forecast included special education (SE) and independant study (IS) students then SchoolSite Pro will select those student types in addition to general educations (GE) when determining the students who are transferring into and out of a school's boundary.
+
 ## Two-Year Enrollment Forecasts
 Mid-term to long-term facilities planning is always best when it is based upon the resident location of future student populations, rather than the enrollment at the individual schools. However, a two year forecasted enrollment can be used to assist with estimating staffing and budget requirements over the short term.
 
