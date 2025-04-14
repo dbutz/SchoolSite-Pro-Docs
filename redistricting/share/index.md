@@ -35,7 +35,7 @@ Here is more information about publishing as a web layer:
 - [Introduction to sharing web layers](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/introduction-to-sharing-web-layers.htm)
 
 ## Local export options: 
-[Share![Share](..\images\Share.png)](https://ssphelp.mgt.us/images/Share.png)
+[Share![Share](..\..\images\Share.png)](https://ssphelp.mgt.us/images/Share.png)
 
 - Export Plan: Export your attendance areas as a feature layer.  The results will be located in your project’s default geodatabase. 
 - Export Statistics: Button is enabled when the stats window is open. Export your SchoolSite Plan’s statistics table in Excel format. The results will be located in your project’s main folder.
