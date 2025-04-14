@@ -3,7 +3,7 @@
 SchoolSite Pro is the latest professional desktop GIS school planning application from Davis Demographics. The sections below introduce basic elements of the user interface. 
 
 ## Overview of the SchoolSite ribbon
-![image](https://github.com/user-attachments/assets/17722959-bfb5-4f2c-beab-85bfdf9caf86)
+[SchoolSite![SchoolSite](..\images\SchoolSite.png)](https://ssphelp.mgt.us/images/SchoolSite.png)
 
 
 ## Installation & System requirements
