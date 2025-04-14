@@ -2,6 +2,10 @@
 
 SchoolSite Pro is the latest professional desktop GIS school planning application from Davis Demographics. The sections below introduce basic elements of the user interface. 
 
+## Overview of the SchoolSite ribbon
+![image](https://github.com/user-attachments/assets/17722959-bfb5-4f2c-beab-85bfdf9caf86)
+
+
 ## Installation & System requirements
 
 SchoolSite Pro works as a configuration to ArcGIS Pro. **You must install ArcGIS Pro first** in order to install SchoolSite Pro. Please visit [Esri's website](http://pro.arcgis.com/en/pro-app/get-started/get-started.htm) for detailed instructions on how to install ArcGIS Pro, including system requirements and Esri's licensing information.
