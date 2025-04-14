@@ -1,6 +1,6 @@
 # A tour of the redistricting ribbon
 The following is a brief tour of the basics of Redistricting in SchoolSite Pro. 
-[test![Assign Ribbon](..\images\Assign.png)](https://ssphelp.mgt.us/images/Assign.png)
+[Assign![Assign](..\images\Assign.png)](https://ssphelp.mgt.us/images/Assign.png)
 
 ## Choose Schools and Grades to View
 Before attempting to redistrict, it is helpful to view the current resident student population by grade for each school. The SchoolSite Redistricting Extension allows for viewing statistics via the Statistics Window.  The Statistics Window presents the data in a tabular format and can either remain floating or be docked like the Contents Pane. To access this feature, click on the Show Statistics in the Assign ribbon.
