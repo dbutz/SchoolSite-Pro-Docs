@@ -7,6 +7,9 @@ Using a Study/Planning Area map of the District, alternative school boundary pla
 ## An overview of the Assign ribbon
 [![Assign](..\..\images\Assign.png)](https://ssphelp.mgt.us/images/Assign.png)
 
+## An overview of the Appearance ribbon
+[![Appearance](..\..\images\Appearance.png)](https://ssphelp.mgt.us/images/Appearance.png)
+
 ## Additional topics
 - [Change boundaries between schools](changeBoundaries.md)
 - [Add a new school](addSchool.md)
