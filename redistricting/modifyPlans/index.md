@@ -5,7 +5,7 @@
 Using a Study/Planning Area map of the District, alternative school boundary plans can initially be developed based on either existing attendance areas, by closest school, by capacity or by a maximum number of students. Study Areas can then be individually reassigned to other school locations to balance student population by residence and site capacities. Additional sites can be added simulating the opening of a new school or surplus sites can be deleted simulating the closing of a school. As boundaries are modified, classroom requirements to house students at each site are reported by grade level. The user can immediately see the effects on facility needs with each plan. The effect of class size reduction at various grade levels has never been easier!
 
 ## An overview of the Assign ribbon
-[Assign![Assign](..\images\Assign.png)](https://ssphelp.mgt.us/images/Assign.png)
+[![Assign](..\..\images\Assign.png)](https://ssphelp.mgt.us/images/Assign.png)
 
 ## Additional topics
 - [Change boundaries between schools](changeBoundaries.md)
