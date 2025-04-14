@@ -5,7 +5,7 @@ From the SchoolSite Redistricting Extension Toolbar, choose the assign tab, then
  
 There are multiple ways to reassign schools to different study areas. Reassign Schools helps you choose the best method for your district.
 
-1. **By current boundaries** – Choose this method if you want to go back to the current boundaries that the study areas are assigned.
+1. **By current boundaries** – Choose this method if you want to go back to the current boundaries that the study areas are assigned. This option will also revert any changes made to school's capacities withis plan and set them back to the default of what the CAPACITY field contained in the schools feature class.
 
 ![reassignBoundaries](modifyImages/reassignBoundaries.png)
  
