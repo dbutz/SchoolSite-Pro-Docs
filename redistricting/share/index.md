@@ -2,7 +2,7 @@
 
 SchoolSite Pro and Esri offer multiple ways to share your redistricting plan.
 
-## Online options: 
+## ArcGIS Online or ArcGIS Enterprise options: 
 The best way to publish and share your redistricting plan online is by sharing it as a web map or as a web layer. Sharing your data as a web map means that your plan is uploaded online as a whole map, preserving things like layer symbology and including all layers within that map. Sharing your data as a web layer means that your plan is uploaded online as a single layer of data. A web map is composed of web layers. 
 
 To do this, go to the first share ribbon. In the Share As section, select either Web Map or Web Layer. A dockpane will appear.
@@ -35,6 +35,8 @@ Here is more information about publishing as a web layer:
 - [Introduction to sharing web layers](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/introduction-to-sharing-web-layers.htm)
 
 ## Local export options: 
+![image](https://github.com/user-attachments/assets/e1cb6cf4-6021-4d75-aedd-52edf833a6df)
+
 - Export Plan: Export your attendance areas as a feature layer.  The results will be located in your project’s default geodatabase. 
 - Export Statistics: Button is enabled when the stats window is open. Export your SchoolSite Plan’s statistics table in Excel format. The results will be located in your project’s main folder.
 - Export Plan as Study Areas: Export your current boundaries in study area format. The results will be located in your project’s default geodatabase. 
