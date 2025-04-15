@@ -2,7 +2,7 @@
 Using factors such as birth rates, student mobility, and information about future housing developments, SchoolSite can accurately predict changes to both the resident student population as well as provide enrollment forecasts as well by taking into account historical transfer patterns.
 
 ## An overview of the Forecast ribbon
-[![Forecast](..\images\Forecast.png)](https://ssphelp.mgt.us/images/Forecast.png)
+[![Forecast](..\images\Forecasting.png)](https://ssphelp.mgt.us/images/Forecasting.png)
 
 ## SchoolSite Forecast Key Functions:
 * Locate potential future school sites
