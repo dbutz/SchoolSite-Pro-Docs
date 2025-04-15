@@ -25,10 +25,6 @@ These are the three required fields that must be added to the geocoded student a
 * Check StudyArea field HIGH_ vs. Schools field HIGH_
   * If a StudyAreas record has HIGH_ > 0, then there needs to be one record in Schools that contains the same HIGH_
 
-## Students vs. Study Areas
-* Check STUTYPE to see if any RS students live out of district
-  * If, spatially, a student lives outside the study areas boundaries but is labeled 'RS', then auto-correct to 'OD' student type
-
 ## Students vs. Schools
 * Check Students field SCHL_CODE vs. Schools field SCHL_CODE
   * For each value in the Students field SCHL_CODE there needs to be one record in Schools that contains the same value in SCHL_CODE.
