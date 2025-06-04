@@ -25,7 +25,7 @@ Districts with established Study Areas need to map and enter the information int
 Any area that is created must be coded.  If you have a polygon within the district that is not assigned to any school, such as an area for a lake, you need to code the ELEM_, MID_, INT_, and HIGH_ fields with the number 9999.  This will avoid receiving an error for an un-coded polygon as the software will recognize it as a properly unassigned polygon.  
 
 ## Additional Fields:
-The following fields are **required for SchoolSite Pro Locator** , but **not required for redistricting plans and forecasts.**
+The following fields are **required for SchoolSite Locator** , but **not required for redistricting plans and forecasts.**
 
  
 
