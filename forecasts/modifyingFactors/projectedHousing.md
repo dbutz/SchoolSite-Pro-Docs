@@ -28,7 +28,5 @@ Once you have made your changes, you can click the "Update Year 12" to reflect t
 ## Re-Calculate Projected Housing Units
 **Please note: Re-calculating projected housing units table from tract or assessor data will cause all projected housing unit data you have previously entered to be overwritten!
 
-(Need more info  here)
-
 ## Create Development Summary 
 By choosing "Create Development Summary" you will get the Residential Development Summary Report created automatically. You can "Export Development Summary" into Microsoft Excel format with ResidentialDevelopmentSummary.xls as default name. You can also export Projects Summary.
