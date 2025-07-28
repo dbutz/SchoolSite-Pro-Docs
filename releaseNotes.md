@@ -1,3 +1,21 @@
+### Build 1.8.4 Pre-Fall upgrades (March 2025)
+* Updates and bug fixes to plans with enrollment
+* Read-only mode for forecasts to lock in factors
+* Forecast appearance labeled to describe current settings
+* New and updated help and tooltip icons and information
+* Address directory upgrades for more compatibility across different Student Information Systems
+* Reset Project tool now offers just to reset address directory information instead of all data
+
+### Build 1.8.3 Plans with enrollment (April 2025 - internal only release for testing)
+* First release that will create plans showing both residence and enrollment counts
+* Minor UI updates and improvements
+* Fixed issue when closing SchoolSite Pro from start page which caused it the hang requiring a force close
+* New buttons to show plan/forecast comments to review how they were setup/configured
+* Update help icons for better, more consistent look across tools
+
+Additional changes:
+* Excel reports prompt the user to open them after export, which auto launches Excel and opens the report
+
 ### Build 1.8.2 Address Directory updates (March 2025)
 * Updated address directory output to include: MID_, prefix direction, prefix type, suffix direction
   
