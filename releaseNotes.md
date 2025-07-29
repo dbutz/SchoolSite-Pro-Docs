@@ -1,3 +1,14 @@
+### Build 1.8.5 Pre-Fall revisions
+* Bug fixes to plans with enrollment
+* Student enrichment to imported data and original source to add fields defining school of enrollment and school of residence
+* More help information
+* New background on load
+* New 'Copy' button for plans/forecasts
+* Changes to capacity can be saved back to imported schools for future plans
+* Updates to rendering a forecast to alter alias of DISPLAY for Map Contents window
+* Bypass warning message option enabled
+* New schools in a plan automatically becomes target school for assignment
+
 ### Build 1.8.4 Pre-Fall upgrades (March 2025)
 * Updates and bug fixes to plans with enrollment
 * Read-only mode for forecasts to lock in factors
