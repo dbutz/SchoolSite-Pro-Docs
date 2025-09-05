@@ -1,3 +1,20 @@
+### Build 1.8.6
+#### New Program Re-assignment feature
+* Import programs (special ed, music, dual language, etc. Each program has a number of reserved classroom seats)
+* Add new programs/delete programs
+* Reassign programs from one school to another
+* Stats window now shows a modified capacity column that reduces the overall capacity based on the number of seats of programs assigned to that school
+
+#### New data validation rules
+* Detect if a study area is assigned to schools that create gaps in grade range coverage
+* Detect if a student is enrolled in a school that does not serve their grade (8th grader enrolled in a 9-12 school)
+* Detect if a school serves a grade that has no students enrolled (school serves K-6 but only has K-5 enrolled)
+
+#### Misc changes
+* Several improvments and bugs addressed for plans with enrollment
+*  Minor UI updates, tooltips, etc.
+
+  
 ### Build 1.8.5 Pre-Fall revisions
 * Bug fixes to plans with enrollment
 * Student enrichment to imported data and original source to add fields defining school of enrollment and school of residence
