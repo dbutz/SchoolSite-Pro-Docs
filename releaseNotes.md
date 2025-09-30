@@ -1,8 +1,10 @@
 ### Build 1.8.7 Oct 1st Q1 release
 #### New Automated Attendance Matrix feature
 *  Create an attendance matrix using GE "General Education" students by defining the grade ranges for each of the grade levels present in the study area data.
+
 #### Data enrichment tool upgrade
 * This tool will now enrich both current study areas as well as now plans so you can attach forecasted student counts to proposed attendance boundaries from plans you create.
+
 #### Misc changes
 * Imported historical student data is now enriched (just like current year student data already was) with three additional fields of data: school name of residence, school code of residence, and school name of enrollment
 * New data validation rule that will check to determine grades served district wide (that make up the attendance boundaries) and make sure all students are in grades served by those schools
