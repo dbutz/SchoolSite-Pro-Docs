@@ -1,4 +1,4 @@
-### Build 1.8.7 Oct 1st Q1 released
+### Build 1.8.7 Oct 1st Q1 release
 #### New Automated Attendance Matrix feature
 *  Create an attendance matrix using GE "General Education" students by defining the grade ranges for each of the grade levels present in the study area data.
 
