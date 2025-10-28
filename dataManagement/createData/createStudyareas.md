@@ -8,12 +8,12 @@ Districts with established Study Areas need to map and enter the information int
 ## Required Fields:
 1. **STDYAREA** - A field containing the unique number of the study area, defined as data type "Text" with a length of 6. No duplicate values and no special characters.
 
-1. **ELEM_** - A field containing the Elementary School number the study area is assigned to, defined as data type "Short Integer" or "Long Integer". If one record has ELEM_ > 0, then all records must have ELEM_ > 0
+1. **ELEM_** - A field containing the Elementary School number the study area is assigned to, defined as data type "Short Integer". If one record has ELEM_ > 0, then all records must have ELEM_ > 0
 
-1. **MID_** - A field containing the number of the Middle School number the study area is assigned to, defined as data type "Short Integer" or "Long Integer". If one record has MID_ > 0, then all records must have MID_ > 0
-1. **INT_** - A field containing the number of the Intermediate School number the study area is assigned to, defined as data type "Short Integer" or "Long Integer". If one record has INT_ > 0, then all records must have INT_ > 0
+1. **MID_** - A field containing the number of the Middle School number the study area is assigned to, defined as data type "Short Integer". If one record has MID_ > 0, then all records must have MID_ > 0
+1. **INT_** - A field containing the number of the Intermediate School number the study area is assigned to, defined as data type "Short Integer". If one record has INT_ > 0, then all records must have INT_ > 0
 
-1. **HIGH_** - A field containing the High School number the study area is assigned to, defined as data type "Short Integer" or "Long Integer". If one record has HIGH_ > 0, then all records must have HIGH_ > 0
+1. **HIGH_** - A field containing the High School number the study area is assigned to, defined as data type "Short Integer". If one record has HIGH_ > 0, then all records must have HIGH_ > 0
 
 1. **DISTRICT** - A field containing a six-letter code used to report and summarize portions of the District, defined as data type "Text".  Examples are: Elementary district code for a Union High School district, School Board or Trustee area or any other values for which you wish to summarize projections by area. The DISTRICT field should be defined as data type "Text" with a maximum length of 50.
 
@@ -41,18 +41,18 @@ The following fields are **required for SchoolSite Locator** , but **not require
 
 13. **HIGH_DESC**  - A field containing the name of the High School that the study area is assigned to. The HIGH_DESC field should be defined as data type "Text" with a length of 50.
 
-14. **TRUSTEE** - A field containing the Trustee area the Study Area is in. The TRUSTEE field should be defined as a "Short Integer" or "Long Integer".
+14. **TRUSTEE** - A field containing the Trustee area the Study Area is in. The TRUSTEE field should be defined as a "Short Integer".
 
 The following fields are **required for SchoolSite Pro Locator**, but are only used for Study Areas that are in split attendance areas or optional areas.  
 
  
 
-15. **ADD_SCHL1** - "Short Integer" or "Long Integer" and not null
+15. **ADD_SCHL1** - "Short Integer" and not null
 
-16. **ADD_SCHL2** - "Short Integer" or "Long Integer" and not null
+16. **ADD_SCHL2** - "Short Integer" and not null
 
-17. **ADD_SCHL3** - "Short Integer" or "Long Integer" and not null
+17. **ADD_SCHL3** - "Short Integer" and not null
 
-18. **ADD_SCHL4** - "Short Integer" or "Long Integer" and not null
+18. **ADD_SCHL4** - "Short Integer" and not null
 
-19. **ADD_SCHL5** - "Short Integer" or "Long Integer" and not null
+19. **ADD_SCHL5** - "Short Integer" and not null
