@@ -1,3 +1,12 @@
+### Build 1.8.8 FY26 Q1 Patch
+#### New Automated Attendance Matrix feature
+* Fixed error when entering a lowercase grade range like 'k-6'
+* Added an option to include 'SE' students when making an automated attendance matrix
+* Changed the data type requirements to enforce only 'short' int numerical values instead of 'short' or 'long' integers to avoid any really large numbers in the input that might be attempted to get written to another table that only accepts 'short'
+* Changed a data validation from error to warning
+    *  If a school serves a grade, and no students are enrolled in that grade, it now reports a warning instead of error
+    * Added a warning to identify overlaps in school coverage such as a study area assigned a K-6 elementary and a 6-8 middle that could indicate an option area for grade 6 that might go otherwise unnoticed.
+
 ### Build 1.8.7 Oct 1st Q1 release
 #### New Automated Attendance Matrix feature
 *  Create an attendance matrix using GE "General Education" students by defining the grade ranges for each of the grade levels present in the study area data.
