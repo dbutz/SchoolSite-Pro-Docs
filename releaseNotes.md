@@ -1,4 +1,19 @@
-### Build 1.8.8 FY26 Q1 Patch
+### Build 1.8.9 FY26 Q2 Patch (Nov)
+#### New 'Rate of Change' enrollment forecast & study area ID tool for forecasts
+* New method for creating enrollment forecasts: Rate of Change
+    * This adds a new methodology called 'Rate of Change' in addition to the existing 'Transfer Pattern' method
+    * User can select from a menu which method to use
+    * Rate of Change method only applies to schools with a boundary. Schools with no boundary (magnet, district wide, etc.) will still use the 'Transfer Pattern' method
+* Study area ID tool for forecasts: Click on a study area and see a popup windows with all the factors applied to that polygon and the forecast results generated in a single click
+* Plan overlay feature now allows you to add more than one overlay and only removes them when you choose the first option in the list "Do not overlay another plan", otherwise the user must remove them individually.
+* New tooltips and explanation labels for Data Enrichment and Enrollment Forecast tools
+#### New tooltips, help information, and UI updates
+* Fixed bugs and made improvements to copying and renaming plans and forecasts
+* Data Enrichment: updated tooltips, screenshots, and UI labels to help explain what will be included in the output based on user input selections
+* Various improvements to UI elements across the application for better consistency
+* New Help button on SchoolSite 'Share' ribbon to direct users to our web help documents
+
+### Build 1.8.8 FY26 Q1 Patch (Oct)
 #### New Automated Attendance Matrix feature
 * Fixed error when entering a lowercase grade range like 'k-6'
 * Added an option to include 'SE' students when making an automated attendance matrix
