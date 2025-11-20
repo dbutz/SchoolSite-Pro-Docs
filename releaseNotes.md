@@ -1,4 +1,4 @@
-### Build 1.8.9 FY26 Q2 Patch (Nov)
+### Build 1.8.9 FY26 Q2 Update (Nov)
 #### New 'Rate of Change' enrollment forecast & study area ID tool for forecasts
 * New method for creating enrollment forecasts: Rate of Change
     * This adds a new methodology called 'Rate of Change' in addition to the existing 'Transfer Pattern' method
