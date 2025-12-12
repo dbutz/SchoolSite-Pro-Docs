@@ -1,3 +1,23 @@
+### Build 1.9.0 FY26 Q2 Update (Dec)
+#### New 'Sync Plans' feature and more...
+New Features
+*  New option to sync changes between multiple plans:
+    *  This does not work with Plans based on enrollment; only residence and forecasted students.
+    *  Checking on plans in the ‘Plans to Sync’ menu will push the following changes to those plans:
+        *  Boundary reassignments; Reassignment of study areas from their current school to a different school.
+        *  Any changes using the Reassign Study Area button (allows you to reassign all study areas by closest school, capacity, max limit, etc…)
+        *  Add new/existing school or update capacity
+*  You can now summarize the statistics window by ‘Student Attribute’ in a plan based on forecasted data
+*  You can now use keyboard modifiers when selecting study areas during reassignment, just like the out-of-the-box selection tools in Pro
+    *  Holding SHIFT when selecting will ADD more study areas to the current selection
+    *  Holding CTRL when selecting will REMOVE study areas from the current selection
+
+Minor bugs and UI improvements
+*  Fixed a bug that would clear out any feature selections unexpectedly, making it difficult to see selected records
+*  Updated Statistics Window title to include the plan's name, so the user can easily tell which plan those statistics relate to when multiple maps are open, sometimes plans can be open side by side when syncing and now the stats dock pane shows the plan's name to reduce confusion.
+*  **IMPORTANT!** The new enrollment forecast methodology **(Rate of Change)** has been updated slightly
+    *  The change in this version is that the K class calculation is now done the same as the PK class using the ‘Direct Rate of Change’ formula. See our full documentation for more details.
+
 ### Build 1.8.9 FY26 Q2 Update (Nov)
 #### New 'Rate of Change' enrollment forecast & study area ID tool for forecasts
 * New method for creating enrollment forecasts: Rate of Change
