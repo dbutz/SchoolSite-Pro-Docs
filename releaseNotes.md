@@ -1,4 +1,11 @@
-### Build 1.9.0 FY26 Q2 Update (Dec)
+### Build 1.9.1 FY26 Q1 Bug Fixes (Dec)
+#### Bugs fixed:
+* Fixed issue with Rate of Change enrollment forecast that caused no results to be created for grades 10, 11, and 12
+* Fixed issue that prevented the 'Currently selected study areas on map' option from being enabled in a factor dockpane when features were selected
+* Fixed issue with closing a forecast factor that would leave the table open 
+* Updated the phrasing of a data validation message to make it more clear (regarding students enrolled outside the grades that the District serves)
+
+### Build 1.9.0 FY26 Q1 Update (Dec)
 #### New 'Sync Plans' feature and more...
 New Features
 *  New option to sync changes between multiple plans:
@@ -18,7 +25,7 @@ Minor bugs and UI improvements
 *  **IMPORTANT!** The new enrollment forecast methodology **(Rate of Change)** has been updated slightly
     *  The change in this version is that the K class calculation is now done the same as the PK class using the ‘Direct Rate of Change’ formula. See our full documentation for more details.
 
-### Build 1.8.9 FY26 Q2 Update (Nov)
+### Build 1.8.9 FY26 Q1 Update (Nov)
 #### New 'Rate of Change' enrollment forecast & study area ID tool for forecasts
 * New method for creating enrollment forecasts: Rate of Change
     * This adds a new methodology called 'Rate of Change' in addition to the existing 'Transfer Pattern' method
