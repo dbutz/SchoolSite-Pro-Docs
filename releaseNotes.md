@@ -1,3 +1,11 @@
+### Build 1.9.2 FY26 Q2 Walk Zone release (Jan)
+New Features
+* Generate walk zone polygons around school points at any distance or time (e.g. 1, 3, 5 mile distances or 5, 10, 15 minutes) for use in analysis for your district.
+#### Bugs fixed:
+* Fixed bug in street/address directories when schools have STRT_GRD of -2 (SSP-212)
+* Added ability to prompt user to open the Address Directory from Pro after exporting, rather than make them browse to the folder first.
+* Fixed bug SSP-215 that did not update the stats window of plan based on a forecast after viewing other student attribute and then selecting grade distribution and a forecast year in the future (numbers did not reflect the future forecasted year's data)
+
 ### Build 1.9.1 FY26 Q1 Bug Fixes (Dec)
 #### Bugs fixed:
 * Fixed issue with Rate of Change enrollment forecast that caused no results to be created for grades 10, 11, and 12
