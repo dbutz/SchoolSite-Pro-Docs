@@ -1,4 +1,4 @@
-### Build 1.9.3 FY26 Q2 Update 6
+### Build 1.9.3 FY26 Q2 Update 6 (Jan26)
 New Features:
 * Show the codes chosen for unit types 1-6 on the projected units, SYF and MSYF pages
 * In Forecast Report dock pane, add ability to summarize selected study area features
@@ -8,7 +8,7 @@ Minor bugs and UI improvements
 * Fixed bug in plans based on forecast where the stats window's data for year 0 (current year) did not include other STUTYPES that were included in the forecast (SSP-230)
 * Fixed issue in forecast reports that did not accept a grade range of -1-6 or -1-12 because it could not correctly parse the two dash characters (SSP-231)
 
-### Build 1.9.2 FY26 Q2 Update 5 (Walk Zone tool)
+### Build 1.9.2 FY26 Q2 Update 5 (Jan26)
 New Features
 *  Generate walk zone polygons around school points at any distance or time (e.g. 1, 3, 5 mile distances or 5, 10, 15 minutes) for use in analysis for your district.
 
@@ -17,14 +17,14 @@ New Features
 *  Added ability to prompt user to open the Address Directory from Pro after exporting, rather than make them browse to the folder first.
 *  Fixed bug SSP-215 that did not update the stats window of plan based on a forecast after viewing other student attribute and then selecting grade distribution and a forecast year in the future (numbers did not reflect the future forecasted year's data)
 
-### Build 1.9.1 FY26 Q1 Update 4 (Dec)
+### Build 1.9.1 FY26 Q1 Update 4 (Dec25)
 #### Bugs fixed:
 * Fixed issue with Rate of Change enrollment forecast that caused no results to be created for grades 10, 11, and 12
 * Fixed issue that prevented the 'Currently selected study areas on map' option from being enabled in a factor dockpane when features were selected
 * Fixed issue with closing a forecast factor that would leave the table open 
 * Updated the phrasing of a data validation message to make it more clear (regarding students enrolled outside the grades that the District serves)
 
-### Build 1.9.0 FY26 Q1 Update 3 (Dec)
+### Build 1.9.0 FY26 Q1 Update 3 (Dec25)
 #### New 'Sync Plans' feature and more...
 New Features
 *  New option to sync changes between multiple plans:
@@ -44,7 +44,7 @@ Minor bugs and UI improvements
 *  **IMPORTANT!** The new enrollment forecast methodology **(Rate of Change)** has been updated slightly
     *  The change in this version is that the K class calculation is now done the same as the PK class using the ‘Direct Rate of Change’ formula. See our full documentation for more details.
 
-### Build 1.8.9 FY26 Q1 Update 2 (Nov)
+### Build 1.8.9 FY26 Q1 Update 2 (Nov25)
 #### New 'Rate of Change' enrollment forecast & study area ID tool for forecasts
 * New method for creating enrollment forecasts: Rate of Change
     * This adds a new methodology called 'Rate of Change' in addition to the existing 'Transfer Pattern' method
@@ -59,7 +59,7 @@ Minor bugs and UI improvements
 * Various improvements to UI elements across the application for better consistency
 * New Help button on SchoolSite 'Share' ribbon to direct users to our web help documents
 
-### Build 1.8.8 FY26 Q1 Update 1 (Oct)
+### Build 1.8.8 FY26 Q1 Update 1 (Oct25)
 #### New Automated Attendance Matrix feature
 * Fixed error when entering a lowercase grade range like 'k-6'
 * Added an option to include 'SE' students when making an automated attendance matrix
@@ -68,7 +68,7 @@ Minor bugs and UI improvements
     *  If a school serves a grade, and no students are enrolled in that grade, it now reports a warning instead of error
     * Added a warning to identify overlaps in school coverage such as a study area assigned a K-6 elementary and a 6-8 middle that could indicate an option area for grade 6 that might go otherwise unnoticed.
 
-### Build 1.8.7 FY26 Q1 release
+### Build 1.8.7 FY26 Q1 release 
 #### New Automated Attendance Matrix feature
 *  Create an attendance matrix using GE "General Education" students by defining the grade ranges for each of the grade levels present in the study area data.
 
