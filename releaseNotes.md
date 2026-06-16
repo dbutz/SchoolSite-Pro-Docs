@@ -1,5 +1,26 @@
 ### Build 1.9.4 FY26 Q3 Update 1 (Jun26)
 #### Introducing new reporting features for residential forecasts
+New Features:
+* SYF Automation
+  * Use parcel data to automatically generate student yield factors to apply to new housing units to estimate how many students will be generated from those new housing developments in the future
+* The statistics window UI updates such as:
+  * Sorting the table by any column
+  * Scale/zoom in to see larger font size for improved readability
+* Additional data validation to check consistency between student types across historical student data
+* Lock a plan to prevent further study area re-assignments (Similar to locking in a forecast once delivered to the client)
+* School layer in a plan's map now has Map Tips turned on by default
+* The study area numbering tool has been recreated from ArcMap
+* Forecast can now be summarized on any available field in the study area data instead of just by attendance zone, district-wide, or sub-District (which uses the DISTRICT field)
+  * This means you can select a CITY, ZIP, or any other field present in the Study Area data to use to group study areas in a report
+* Plans with Enrollment now use ALL student types
+  * The Estimated Enrollment tab has always shown all students who are enrolled in a school who meet the grade criteria with no regard for the value in the STUTYPE field (GE, SE, CH, etc..)
+  * When making a ‘Plan with Enrollment’, it does not ask you which student types you want to use like it does with a residence-based plan. Therefore, it was unclear that the students in the Current tab were only ‘GE’ students.
+  * This is now **DIFFERENT**:
+     * Moving forward, the ‘Current’ tab will work similarly to the ‘Estimated Enrollment’ tab in that it will show ALL students who RESIDE in the school’s boundary and meet the grade criteria specified with no regard for the value in the STUTYPE field.
+     * This will make the methodology in ‘Plans with Enrollment’ consistent and show ALL resident students in one tab and ALL enrolled students in the other tab
+
+Additional misc. minor bug fixes and UI improvements
+
 
 ### Build 1.9.3 FY26 Q2 Update 6 (Jan26)
 #### Introducing new reporting features for residential forecasts
