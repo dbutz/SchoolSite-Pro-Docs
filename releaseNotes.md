@@ -1,4 +1,4 @@
-### Build 1.9.4 FY26 Q3 Update 1 (Jun26)
+### Build 1.9.4 FY26 Q3 Update 7 (Jun26)
 #### Introducing new reporting features for residential forecasts
 New Features:
 * SYF Automation
