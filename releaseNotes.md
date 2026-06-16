@@ -1,4 +1,7 @@
-### Build 1.9.3 FY26 Q2 Update 1 (Jan26)
+### Build 1.9.4 FY26 Q3 Update 1 (Jun26)
+#### Introducing new reporting features for residential forecasts
+
+### Build 1.9.3 FY26 Q2 Update 6 (Jan26)
 #### Introducing new reporting features for residential forecasts
 New Features:
 * Show the codes chosen for unit types 1-6 on the projected units, SYF and MSYF pages
@@ -9,7 +12,7 @@ Minor bugs and UI improvements
 * Fixed bug in plans based on forecast where the stats window's data for year 0 (current year) did not include other STUTYPES that were included in the forecast (SSP-230)
 * Fixed issue in forecast reports that did not accept a grade range of -1-6 or -1-12 because it could not correctly parse the two dash characters (SSP-231)
 
-### Build 1.9.2 FY26 Q2 Release (Jan26)
+### Build 1.9.2 FY26 Q2 Update 5 (Jan26)
 #### Introducing a new Walk Zone tool
 New Features
 *  Generate walk zone polygons around school points at any distance or time (e.g. 1, 3, 5 mile distances or 5, 10, 15 minutes) for use in analysis for your district.
