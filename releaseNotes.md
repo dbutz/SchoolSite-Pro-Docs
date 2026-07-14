@@ -1,3 +1,13 @@
+### Build 1.9.5 FY26 Q4 Update 8 (Jul26)
+New Features:
+* User can choose a school to remove, and it will automatically assign those study areas to ‘Unassigned’
+* Exporting a forecast report includes the tabular data and chart in the same file
+* Improve performance of calculating a forecast
+* Improve performance when calculating year 12 of the projected housing units table
+
+Additional misc. minor bug fixes and UI improvements
+
+
 ### Build 1.9.4 FY26 Q3 Update 7 (Jun26)
 #### Introducing new reporting features for residential forecasts
 New Features:
