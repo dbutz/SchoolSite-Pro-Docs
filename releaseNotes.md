@@ -1,3 +1,24 @@
+### Build 1.9.6 FY26 Q4 Update 9 (Sep26)
+New Features:
+*  New: Utilization Report. This is now an automated report and used to setup boundary comparison web apps during a rezoning project
+*  Export SYF reports during Data Setup
+*  Added CAPACITY field to the automated attendance matrix Excel file
+*  Additional residential forecasting charts available with an optional checkbox during the Report Setup
+*  Additional student types that can be added to the automated attendance matrix are only available if they exist in the student data that has been imported into SchoolSite (just like how Create Plan works)
+*  This change also resulted in much improved performance time when creating Address Directory. It is now roughly twice as fast.
+*  Project Summary Report updated based on feedback from Cameron and the standardization team (example report attached for reference on changes)
+*  Reassigning study areas by (closest school, capacity, max limit ) now allows you to choose one or more schools to exclude from this process so you can reassign most schools but keep some locked as they are 
+
+Minor bugs and UI improvements:
+*  SYF calculations are only is available when importing Assessor data with polygon geometry 
+*  Added a warning when calculating a forecast if Projected Housing Units are detected with no corresponding SYF values
+*  Fixed an issue with the travel modes from Esri that make creating walk zones broken
+*  Tapestry Segmentation report was deprecated, new version has been added 
+*  While assigning study areas in a plan based on a forecast, you can no longer change the forecast year in the stats window.   
+   *    Doing so would require edits to tables and when those edits were saved it would lock in study area assignments and remove the ability to use the Undo button
+
+
+
 ### Build 1.9.5 FY26 Q4 Update 8 (Jul26)
 New Features:
 * User can choose a school to remove, and it will automatically assign those study areas to ‘Unassigned’
