@@ -1,3 +1,6 @@
+### Build 1.9.7 FY26 Q4 Update 10 - Patch (Sep26)
+Quick patch to fix an issue when calculation mobility that broke at 1.9.6
+
 ### Build 1.9.6 FY26 Q4 Update 9 (Sep26)
 New Features:
 *  New: Utilization Report. This is now an automated report and used to setup boundary comparison web apps during a rezoning project
