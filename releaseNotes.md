@@ -1,3 +1,13 @@
+### Build 1.9.8 FY27 Q1 Update 1 - Patch (Oct26)
+New Features:
+* Update to the Reassign Study Areas feature; locking schools now also can be done for Current Boundaries
+  
+Minor bugs and UI improvements:
+* SYF calculation tool is only available when imported assessor data is polygon, not point geometry
+* Exporting SYF results now respects Excel sheet name limit and will truncate names to fit instead of failing to export
+* Reassigning a school is now fixed so you can lock schools and revert to or from original boundary configuration
+* Exporting residential forecast results to Excel fails when summarized by ‘Other Value’
+
 ### Build 1.9.7 FY26 Q4 Update 10 - Patch (Sep26)
 Quick patch to fix an issue when calculation mobility that broke at 1.9.6
 
